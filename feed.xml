@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI English Daily</title>
+    <description>Daily AI news delivered as business English presentations. Curated for data scientists and engineering managers. Practice shadowing, expand vocabulary, master presentation frameworks.</description>
+    <link>https://knishioka.github.io/ai-english-daily-podcast/</link>
+    <language>en-us</language>
+    <copyright>© 2026 Kenichiro Nishioka</copyright>
+    <itunes:author>Kenichiro Nishioka</itunes:author>
+    <itunes:summary>Daily AI news delivered as business English presentations.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Kenichiro Nishioka</itunes:name>
+      <itunes:email>nishioka.kenichiro@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://knishioka.github.io/ai-english-daily-podcast/cover.png"/>
+    <itunes:category text="Education">
+      <itunes:category text="Language Learning"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <!-- EPISODES_START -->
+    <!-- EPISODES_END -->
+  </channel>
+</rss>
