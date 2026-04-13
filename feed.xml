@@ -22,6 +22,15 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
+    <item>
+      <title>AI English Daily — 04/13</title>
+      <description>Today's Framework: PREP. Covers ALTK-Evolve agent learning, OpenAI enterprise AI infrastructure, the Axios supply chain incident, Anthropic Project Glasswing cybersecurity, and Safetensors joining PyTorch Foundation.</description>
+      <pubDate>Mon, 13 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-13</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-13/podcast.mp3" length="7764480" type="audio/mpeg"/>
+      <itunes:duration>05:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!-- EPISODES_END -->
   </channel>
 </rss>
