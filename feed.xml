@@ -23,6 +23,15 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/14</title>
+      <description>A business-style AI news briefing using the Problem, Solution, Impact framework, covering AI cybersecurity, software supply-chain risk, Google’s global AI push, local Gemma audio workflows, and the move toward enterprise agent systems.</description>
+      <pubDate>Tue, 14 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-14</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-14/podcast.mp3" length="7597440" type="audio/mpeg"/>
+      <itunes:duration>06:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/13</title>
       <description>Today's Framework: PREP. Covers ALTK-Evolve agent learning, OpenAI enterprise AI infrastructure, the Axios supply chain incident, Anthropic Project Glasswing cybersecurity, and Safetensors joining PyTorch Foundation.</description>
       <pubDate>Mon, 13 Apr 2026 06:00:00 +0800</pubDate>
