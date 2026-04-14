@@ -23,6 +23,15 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/15</title>
+      <description>A briefing for Ken covering OpenAI's GPT-5.4-Cyber, Google's agentic coding adoption challenges, and Servo's embeddable browser engine release. The 'Before, After, Bridge' framework is used to explain the changes and connect them to actionable next steps.</description>
+      <pubDate>Wed, 15 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-15</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-15/podcast.mp3" length="5537805" type="audio/mpeg"/>
+      <itunes:duration>04:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/14</title>
       <description>A business-style AI news briefing using the Problem, Solution, Impact framework, covering AI cybersecurity, software supply-chain risk, Google’s global AI push, local Gemma audio workflows, and the move toward enterprise agent systems.</description>
       <pubDate>Tue, 14 Apr 2026 06:00:00 +0800</pubDate>
