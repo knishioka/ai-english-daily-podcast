@@ -23,6 +23,15 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/16</title>
+      <description>A What-So-What-Now-What briefing on OpenAI's upgraded Agents SDK, GPT-5.4-Cyber access tiers, Google's Gemini 3.1 Flash TTS, and IBM's VAKRA agent benchmark.</description>
+      <pubDate>Thu, 16 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-16</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-16/podcast.mp3" length="6757485" type="audio/mpeg"/>
+      <itunes:duration>05:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/15</title>
       <description>A briefing for Ken covering OpenAI's GPT-5.4-Cyber, Google's agentic coding adoption challenges, and Servo's embeddable browser engine release. The 'Before, After, Bridge' framework is used to explain the changes and connect them to actionable next steps.</description>
       <pubDate>Wed, 15 Apr 2026 06:00:00 +0800</pubDate>
