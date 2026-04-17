@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/18</title>
+      <description>A business-style AI English briefing using the Situation → Complication → Resolution framework. Today's episode covers major shifts in coding agents, AI-driven design handoff, programmable voice interfaces, reviewer-friendly agent contributions, and richer visual agent workspaces.
+
+Sources:
+OpenAI News — Codex for (almost) everything
+https://openai.com/index/codex-for-almost-everything/
+Anthropic News — Introducing Claude Design by Anthropic Labs
+https://www.anthropic.com/news/claude-design-anthropic-labs
+Google Blog — Gemini 3.1 Flash TTS: the next generation of expressive AI speech
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/
+Hugging Face Blog — The PR you would have opened yourself
+https://huggingface.co/blog/transformers-to-mlx
+Cursor Changelog — Canvases
+https://cursor.com/changelog/04-15-26</description>
+      <pubDate>Sat, 18 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-18</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-18/podcast.mp3" length="9570765" type="audio/mpeg"/>
+      <itunes:duration>07:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/17</title>
       <description>A practical Friday briefing on how AI tooling is shifting from isolated model demos to production workflows, agent infrastructure, controllable voice generation, and higher-quality open source collaboration.</description>
       <pubDate>Fri, 17 Apr 2026 06:00:00 +0800</pubDate>
