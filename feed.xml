@@ -23,6 +23,50 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/19 [Shadowing]</title>
+      <description>Shadowing practice version — same content at a measured pace (Charon voice). For pronunciation and rhythm practice.
+
+Sources:
+Simon Willison — Claude system prompts as a git timeline
+https://github.com/simonw/research/tree/main/extract-system-prompts#readme
+
+Hugging Face Blog — Building a Fast Multilingual OCR Model with Synthetic Data
+https://huggingface.co/blog/nvidia/nemotron-ocr-v2
+
+OpenAI News — Codex for (almost) everything
+https://openai.com/index/codex-for-almost-everything/
+
+OpenAI News — The next evolution of the Agents SDK
+https://openai.com/index/the-next-evolution-of-the-agents-sdk/</description>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-19-shadowing</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-19/podcast-shadowing.mp3" length="6051885" type="audio/mpeg"/>
+      <itunes:duration>06:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI English Daily — 04/19</title>
+      <description>A What → So What → Now What briefing on prompt-governance tooling, multilingual OCR engineering, Codex's expanding desktop agent workflow, and OpenAI's more standardized agent runtime stack.
+
+Sources:
+Simon Willison — Claude system prompts as a git timeline
+https://github.com/simonw/research/tree/main/extract-system-prompts#readme
+
+Hugging Face Blog — Building a Fast Multilingual OCR Model with Synthetic Data
+https://huggingface.co/blog/nvidia/nemotron-ocr-v2
+
+OpenAI News — Codex for (almost) everything
+https://openai.com/index/codex-for-almost-everything/
+
+OpenAI News — The next evolution of the Agents SDK
+https://openai.com/index/the-next-evolution-of-the-agents-sdk/</description>
+      <pubDate>Sun, 19 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-19</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-19/podcast.mp3" length="6022317" type="audio/mpeg"/>
+      <itunes:duration>06:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/18</title>
       <description>A business-style AI English briefing using the Situation → Complication → Resolution framework. Today's episode covers major shifts in coding agents, AI-driven design handoff, programmable voice interfaces, reviewer-friendly agent contributions, and richer visual agent workspaces.
 
