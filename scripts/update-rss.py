@@ -40,8 +40,10 @@ def build_item(
     duration: str,
     size_bytes: int,
     audio_url: str,
+    variant: str = "",
 ) -> str:
-    guid = f"ai-english-daily-{date}"
+    suffix = f"-{variant}" if variant else ""
+    guid = f"ai-english-daily-{date}{suffix}"
     pub = rfc822(date)
     return f"""    <item>
       <title>{escape(title)}</title>
@@ -62,6 +64,11 @@ def main():
     ap.add_argument("--duration", required=True, help="HH:MM:SS or MM:SS")
     ap.add_argument("--size-bytes", required=True, type=int)
     ap.add_argument("--audio-url", required=True)
+    ap.add_argument(
+        "--variant",
+        default="",
+        help="Optional variant suffix (e.g. 'shadowing') for a second item on the same date",
+    )
     args = ap.parse_args()
 
     xml = FEED.read_text(encoding="utf-8")
@@ -72,13 +79,14 @@ def main():
         args.duration,
         args.size_bytes,
         args.audio_url,
+        args.variant,
     )
 
-    # Remove existing item with same guid if present
+    # Remove existing item with the exact same guid if present
+    suffix = f"-{args.variant}" if args.variant else ""
+    guid_value = f"ai-english-daily-{args.date}{suffix}"
     guid_pattern = re.compile(
-        r"\s*<item>.*?<guid[^>]*>ai-english-daily-"
-        + re.escape(args.date)
-        + r"</guid>.*?</item>",
+        r"\s*<item>.*?<guid[^>]*>" + re.escape(guid_value) + r"</guid>.*?</item>",
         re.DOTALL,
     )
     xml = guid_pattern.sub("", xml)
