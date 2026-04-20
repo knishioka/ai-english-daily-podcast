@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/21 [Shadowing]</title>
+      <description>Shadowing practice version — same content at a measured pace (Charon voice). For pronunciation and rhythm practice.</description>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-21-shadowing</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-21/podcast-shadowing.mp3" length="7656237" type="audio/mpeg"/>
+      <itunes:duration>07:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI English Daily — 04/21</title>
+      <description>Today’s briefing looks at the narrowing open-versus-closed model gap, the hidden economics of tokenizer changes, and how AI is moving into high-stakes operational workflows. It also reinforces the vocabulary needed to discuss model strategy, safety, and cost control in business English.</description>
+      <pubDate>Tue, 21 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-21</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-21/podcast.mp3" length="6893613" type="audio/mpeg"/>
+      <itunes:duration>07:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/20 [Shadowing]</title>
       <description>Shadowing practice version — same content at a measured pace (Charon voice). For pronunciation and rhythm practice.</description>
       <pubDate>Mon, 20 Apr 2026 06:00:00 +0800</pubDate>
