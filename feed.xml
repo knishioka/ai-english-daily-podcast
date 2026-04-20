@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/20 [Shadowing]</title>
+      <description>Shadowing practice version — same content at a measured pace (Charon voice). For pronunciation and rhythm practice.</description>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-20-shadowing</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-20/podcast-shadowing.mp3" length="5752365" type="audio/mpeg"/>
+      <itunes:duration>05:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>AI English Daily — 04/20</title>
+      <description>This episode discusses the shift towards headless software and the importance of prompt governance in AI development. It covers how AI agents are increasingly interacting directly with software through APIs and structured instruction layers, impacting both software design and business models.</description>
+      <pubDate>Mon, 20 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-20</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-20/podcast.mp3" length="5224365" type="audio/mpeg"/>
+      <itunes:duration>05:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/19 [Shadowing]</title>
       <description>Shadowing practice version — same content at a measured pace (Charon voice). For pronunciation and rhythm practice.
 
