@@ -23,6 +23,15 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/22</title>
+      <description>This episode covers the enterprise scale-up of AI coding agents, the expansion of AI into broader creative and organizational workflows, and the maturation of the tooling and evaluation infrastructure that makes agents safe to deploy.</description>
+      <pubDate>Wed, 22 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-22</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-22/podcast.mp3" length="8070573" type="audio/mpeg"/>
+      <itunes:duration>08:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/21 [Shadowing]</title>
       <description>Shadowing practice version — same content at a measured pace (Charon voice). For pronunciation and rhythm practice.</description>
       <pubDate>Tue, 21 Apr 2026 06:00:00 +0800</pubDate>
