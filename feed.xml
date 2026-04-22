@@ -24,11 +24,11 @@
     <!-- EPISODES_START -->
     <item>
       <title>AI English Daily — 04/22</title>
-      <description>This episode covers the enterprise scale-up of AI coding agents, the expansion of AI into broader creative and organizational workflows, and the maturation of the tooling and evaluation infrastructure that makes agents safe to deploy.</description>
+      <description>Today's thesis: AI is rapidly industrializing. Before/After/Bridge framework maps five enterprise pain points — change management, output quality, governance, tool-testing, and retrieval — to the week's concrete announcements from OpenAI, AWS, and Hugging Face.</description>
       <pubDate>Wed, 22 Apr 2026 06:00:00 +0800</pubDate>
       <guid isPermaLink="false">ai-english-daily-2026-04-22</guid>
-      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-22/podcast.mp3" length="8070573" type="audio/mpeg"/>
-      <itunes:duration>08:24</itunes:duration>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-22/podcast.mp3" length="6615597" type="audio/mpeg"/>
+      <itunes:duration>06:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
