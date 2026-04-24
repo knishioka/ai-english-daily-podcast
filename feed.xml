@@ -23,6 +23,15 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/24</title>
+      <description>A Friday business briefing on GPT-5.5, workspace agents, privacy filtering, faster agent loops, and OpenAI’s new bio bug bounty. Practice presentation English while tracking what these releases mean for agents, privacy, and developer workflows.</description>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-24</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-24/podcast.mp3" length="6499245" type="audio/mpeg"/>
+      <itunes:duration>06:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/23</title>
       <description>Today's briefing uses the What → So What → Now What framework to unpack five AI updates around workspace agents, faster agent loops, cloud agent tooling, custom TPU infrastructure, and edge multimodal assistants. The episode is designed for business-English listening practice with practical presentation phrasing and technical vocabulary in context.</description>
       <pubDate>Thu, 23 Apr 2026 06:00:00 +0800</pubDate>
