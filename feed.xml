@@ -24,7 +24,17 @@
     <!-- EPISODES_START -->
     <item>
       <title>AI English Daily — 04/26</title>
-      <description>A business-style English briefing on today's AI developments, focused on enterprise adoption, multi-agent developer workflows, and governance as product strategy. Practice presentation phrasing while following three selected AI stories.</description>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension or change, then close with the practical resolution.
+
+📰 Stories covered:
+• Anthropic News: Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce — Anthropic said NEC will deploy Claude across roughly 30,000 employees, build a Japan-based center of excellence, and jointly ship domain-specific AI products for finance, manufacturing, local government, and cybersecurity.
+• Windsurf Changelog: Wave 13: Merry Shipmas — Windsurf rolled out first-class support for parallel multi-agent sessions, Git worktrees, side-by-side Cascade panes, and made SWE-1.5 Free the default model for all users for the next three months.
+• Anthropic News: An update on our election safeguards — Anthropic detailed new evaluation methodology, political-bias measurements, public datasets, and external review partnerships meant to keep Claude balanced and accurate on election-related questions.
+
+✨ Featured expressions: &quot;let's dive into today's AI updates&quot;, &quot;To put that in context, NEC is establishing a dedicated Japan-based center of excellence&quot;, &quot;What this signifies is a concrete signal that AI coding and workflow agents are transitioning from mere pilot mode into large-scale organizational adoption&quot; (and alternatives in show notes)
+🔑 Key terms: center of excellence /ˌsɛntər əv ˈɛksələns/, Domain-specific AI products /ˈdoʊmeɪn spɪˈsɪfɪk eɪ aɪ ˈprɒdʌkts/, pilot mode /ˈpaɪlət moʊd/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
       <pubDate>Sun, 26 Apr 2026 06:00:00 +0800</pubDate>
       <guid isPermaLink="false">ai-english-daily-2026-04-26</guid>
       <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-26/podcast.mp3" length="7525293" type="audio/mpeg"/>
