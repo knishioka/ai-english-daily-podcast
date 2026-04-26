@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/27</title>
+      <description>Today's framework: PREP — Point → Reason → Example → Point. Lead with the takeaway, support it, ground it in examples, then restate the point.
+
+📰 Stories covered:
+• OpenAI News: Introducing GPT-5.5 — OpenAI launched GPT-5.5 for ChatGPT and Codex, positioning it as a faster and more capable model for coding, computer use, research, and long-horizon work.
+• Hugging Face Blog: DeepSeek-V4: a million-token context that agents can actually use — Hugging Face analyzed DeepSeek-V4, highlighting 1M-token context models that cut per-token FLOPs and KV-cache requirements enough to make long agent traces more realistic.
+• OpenAI News: Introducing workspace agents in ChatGPT — OpenAI introduced shared workspace agents for long-running organizational workflows in ChatGPT and Slack.
+
+✨ Featured expressions: To put that in context, Put differently, What this means is (and alternatives in show notes)
+🔑 Key terms: orchestration overhead /ˌɔːrkɪˈstreɪʃən ˈoʊvərhed/, long-horizon work /ˌlɔːŋ həˈraɪzən wɝːk/, persistent agent memory /pərˈsɪstənt ˈeɪdʒənt ˈmeməri/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 27 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-27</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-27/podcast.mp3" length="7214253" type="audio/mpeg"/>
+      <itunes:duration>07:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/26</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension or change, then close with the practical resolution.
 
