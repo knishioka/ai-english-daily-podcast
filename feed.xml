@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/28</title>
+      <description>Today's framework: Problem→Solution→Impact — Identify the core challenge, present the breakthrough, then quantify the real-world effect.
+
+📰 Stories covered:
+• OpenAI Engineering: An open-source spec for Codex orchestration: Symphony — OpenAI released Symphony, an open-source spec and agent orchestrator that connects a project-management board (like Linear) to a fleet of continuously running Codex agents.
+• OpenAI Company: The next phase of the Microsoft OpenAI partnership — OpenAI and Microsoft announced an amended partnership agreement.
+• OpenAI News: Introducing GPT-5.5 — GPT-5.
+
+✨ Featured expressions: nothing short of transformative, human-in-the-loop model, seismic shift (and alternatives in show notes)
+🔑 Key terms: agent orchestrator //ˈeɪdʒənt ˈɔːrkɪstreɪtər//, control plane //kənˈtroʊl pleɪn//, AGI clause //ˌeɪ dʒiː ˈaɪ klɔːz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 28 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-28</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-28/podcast.mp3" length="9065133" type="audio/mpeg"/>
+      <itunes:duration>09:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/27</title>
       <description>Today's framework: PREP — Point → Reason → Example → Point. Lead with the takeaway, support it, ground it in examples, then restate the point.
 
