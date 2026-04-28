@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/29</title>
+      <description>Today's framework: Before→After→Bridge — Map the friction of yesterday to the opportunity of today, then act.
+
+📰 Stories covered:
+• OpenAI News: OpenAI models, Codex, and Managed Agents come to AWS — OpenAI and AWS expanded their partnership to bring GPT-5.5, Codex, and Managed Agents natively to Amazon Bedrock in limited preview, letting enterprises access OpenAI's stack within their AWS security perimeter.
+• Cursor Changelog: Build programmatic agents with the Cursor SDK — Cursor released a TypeScript SDK in public beta giving programmatic access to its agent runtime, enabling CI/CD and automation use cases beyond the IDE.
+• Hugging Face Blog: NVIDIA Nemotron 3 Nano Omni — An open-weights omni-modal model leading benchmarks across documents, GUI, video, and audio with 9.2x throughput gains on video workloads.
+• Mistral AI: Workflows for work that runs the business — Mistral's Python-based AI orchestration layer enters public preview with durable execution, observability, and human-in-the-loop approvals already in production at ASML and CMA-CGM.
+
+✨ Featured expressions: lower the barrier to entry, within the security perimeter, bridge the gap between X and Y (and alternatives in show notes)
+🔑 Key terms: security perimeter /sɪˈkjʊərɪti pəˈrɪmɪtər/, agent runtime /ˈeɪdʒənt ˈrʌntaɪm/, human-in-the-loop /ˈhjuːmən ɪn ðə luːp/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 29 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-29</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-29/podcast.mp3" length="9042093" type="audio/mpeg"/>
+      <itunes:duration>09:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/28</title>
       <description>Today's framework: Problem→Solution→Impact — Identify the core challenge, present the breakthrough, then quantify the real-world effect.
 
