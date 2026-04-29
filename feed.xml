@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 04/30</title>
+      <description>Today's framework: What → So What → Now What — Present the facts, unpack the significance, then map out concrete next steps.
+
+📰 Stories covered:
+• Mistral AI: Remote agents in Vibe + Medium 3.5 — Mistral launched a new mid-tier model and remote coding agents that run entirely in their cloud, no local hardware needed.
+• Hugging Face: AI evals are the new compute bottleneck — The HAL team spent $40K on agent rollouts; scaffold choice alone creates a 33x cost spread.
+• Simon Willison: LLM 0.32a0 — Major refactor aligns the popular OSS LLM library with vendor API message formats and typed outputs.
+• IBM Research: Granite 4.1 — Open Apache 2.0 dense LLMs (3B/8B/30B) with 512K context; the 8B model matches the previous 32B MoE model.
+
+✨ Featured expressions: &quot;What this signals is&quot;, &quot;To put that in context&quot;, &quot;The bigger picture here&quot; (and alternatives in show notes)
+🔑 Key terms: remote coding agents /rɪˈmoʊt ˈkoʊdɪŋ ˈeɪdʒənts/, evaluation scaffold /ɪˌvæljuˈeɪʃən ˈskæfəld/, context window /ˈkɒntekst ˈwɪndoʊ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 30 Apr 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-04-30</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-04-30/podcast.mp3" length="8667693" type="audio/mpeg"/>
+      <itunes:duration>09:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/29</title>
       <description>Today's framework: Before→After→Bridge — Map the friction of yesterday to the opportunity of today, then act.
 
