@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/01</title>
+      <description>Today's framework: Situation→Complication→Resolution — Identify the situation, expose the complication, then deliver the resolution.
+
+📰 Stories covered:
+• Google DeepMind Blog: Enabling a new model for healthcare with AI co-clinician — Google DeepMind announced its AI co-clinician research initiative, designed to act as a collaborative member of a clinical care team under physician supervision.
+• OpenAI News: Introducing Advanced Account Security — OpenAI launched Advanced Account Security, an opt-in setting that requires passkeys or physical security keys (disabling passwords), disables email/SMS recovery in favor of backup passkeys and recovery keys, shortens session windows, and automatically excludes conversations from model training.
+• AWS ML Blog: Run custom MCP proxies serverless on Amazon Bedrock AgentCore Runtime — AWS published a guide and open-source implementation for deploying a serverless MCP proxy on Amazon Bedrock AgentCore Runtime.
+
+✨ Featured expressions: a testament to its accuracy and reliability, the margin for error is virtually nonexistent, commensurate with the high stakes involved (and alternatives in show notes)
+🔑 Key terms: triadic care model //traɪˈædɪk kɛr ˈmɒdəl//, dual-agent safety architecture //djuːəl ˈeɪdʒənt ˈseɪfti ˈɑːkɪtɛktʃər//, credential stuffing //krɪˈdɛnʃəl ˈstʌfɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 01 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-01</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-01/podcast.mp3" length="8926125" type="audio/mpeg"/>
+      <itunes:duration>09:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 04/30</title>
       <description>Today's framework: What → So What → Now What — Present the facts, unpack the significance, then map out concrete next steps.
 
