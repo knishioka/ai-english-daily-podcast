@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/02</title>
+      <description>Today's framework: PREP — Point — Reason — Evidence — Point (Recap): state the claim, justify it, back it up, and land it.
+
+📰 Stories covered:
+• Cursor Changelog: Cursor Security Review in Beta: Always-On AI Security Agents for Teams — Cursor launched Security Review in beta for Teams and Enterprise plans. It ships two always-on agents: Security Reviewer...
+• OpenAI Codex CLI (via Simon Willison): Codex CLI 0.128.0 Adds /goal: Agent Loops Until the Job Is Done — OpenAI shipped Codex CLI version 0.128.0 with a /goal command. Users set a high-level goal (e.g., 'add full test coverag...
+• Cursor Changelog: Cursor Team Marketplace: Centralized MCP Plugin Distribution for Engineering Teams — Cursor now allows admins to create a team plugin marketplace without first connecting a repository. Plugins bundle capab...
+• UK AI Security Institute: UK AISI Evaluates GPT-5.5: Comparable to Claude Mythos in Cyber Capabilities—and Publicly Available — The UK AI Security Institute evaluated GPT-5.5 for offensive cybersecurity capabilities—specifically its ability to find...
+
+✨ Featured expressions: In other words, To put that in context, What this means in practice (and alternatives in show notes)
+🔑 Key terms: pull request /pʊl rɪˈkwest/, prompt injection /prɒmpt ɪnˈdʒekʃən/, Model Context Protocol /ˈmɒdəl ˈkɒntekst ˈprəʊtəkɒl/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 02 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-02</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-02/podcast.mp3" length="6876333" type="audio/mpeg"/>
+      <itunes:duration>07:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/01</title>
       <description>Today's framework: Situation→Complication→Resolution — Identify the situation, expose the complication, then deliver the resolution.
 
