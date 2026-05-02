@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/03</title>
+      <description>Today's framework: What → So What → Now What — Describe what happened, explain why it matters, then define what to do next.
+
+📰 Stories covered:
+• OpenAI News: OpenAI models, Codex, and Managed Agents come to AWS — OpenAI and AWS expanded their partnership, putting GPT-5.5 and Codex on Amazon Bedrock so enterprise teams can build on OpenAI inside their existing AWS infrastructure.
+• OpenAI Company: The next phase of the Microsoft OpenAI partnership — Microsoft's license shifts from exclusive to non-exclusive, and the same-week AWS deal reveals a deliberate multi-cloud distribution strategy.
+• Cursor: Build programmatic agents with the Cursor SDK — @cursor/sdk lets developers build coding agents programmatically using the same runtime that powers Cursor, turning IDE intelligence into a composable API.
+
+✨ Featured expressions: lower the barrier to entry, reducing vendor lock-in risks, first-ship rights (and alternatives in show notes)
+🔑 Key terms: non-exclusive license /ˌnɒn ɪkˈskluːsɪv ˈlaɪsəns/, composable API /kəmˈpoʊzəbl ˌeɪ piː ˈaɪ/, multi-cloud strategy /ˈmʌlti klaʊd ˈstrætədʒi/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 03 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-03</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-03/podcast.mp3" length="8614317" type="audio/mpeg"/>
+      <itunes:duration>08:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/02</title>
       <description>Today's framework: PREP — Point — Reason — Evidence — Point (Recap): state the claim, justify it, back it up, and land it.
 
