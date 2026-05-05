@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/06</title>
+      <description>Today's framework: Before→After→Bridge — Set the scene, show what changed, then connect it to your work
+
+📰 Stories covered:
+• OpenAI: GPT-5.5 Instant: smarter, clearer, and more personalized — OpenAI replaced GPT-5.3 Instant with GPT-5.5 Instant as ChatGPT's default model for all users. The update delivers 52.5%.
+• LangChain Blog: Agent observability needs feedback to power learning — LangChain founder Harrison Chase published an essay arguing that agent observability must go beyond trace debugging to p.
+• Cursor Changelog: Model controls, spend management, and usage analytics — Cursor released a set of Enterprise admin features: granular model access controls letting admins allowlist or blocklist.
+
+✨ Featured expressions: undercut the efficiency gains, a recurring obstacle to [X], immediately actionable, lower the barrier to entry (and alternatives in show notes)
+🔑 Key terms: hallucination //ˌhæl.juːˌsɪn.ˈeɪ.ʃən//, observability //ˌɒb.zɜː.vəˈbɪl.ɪ.ti//, harness //ˈhɑː.nɪs//, governance //ˈɡʌv.ən.əns//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 06 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-06</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-06/podcast.mp3" length="6283053" type="audio/mpeg"/>
+      <itunes:duration>6:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/05</title>
       <description>Today's framework: Problem → Solution → Impact — Frame each story as a challenge, the industry response, and the real-world consequences
 
