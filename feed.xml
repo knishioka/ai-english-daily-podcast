@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/07</title>
+      <description>Today's framework: What → So What → Now What — State the facts, draw the implications, then give actionable next steps.
+
+📰 Stories covered:
+• Simon Willison: Code w/ Claude 2026: Anthropic launches multi-agent orchestration, Dreaming, and SpaceX Colossus partnership — At Anthropic's Code w/ Claude developer event, the company announced three new features for Claude Managed Agents: multi-agent orchestration to deploy fleets of specialized agents on complex tasks; Outcomes, which lets you define what success looks like so Claude iterates until it gets there; and Dreaming, an overnight mode where Claude replays previous sessions to synthesize new memories and self-generated playbooks.
+• OpenAI: How frontier enterprises are building an AI advantage — introducing B2B Signals — OpenAI published the inaugural B2B Signals report, a recurring study of enterprise AI adoption using aggregated, de-identified usage data.
+• OpenAI Engineering: Supercomputer networking to accelerate large-scale AI training — OpenAI open-sources MRC — OpenAI released MRC (Multipath Reliable Connection), a novel GPU networking protocol co-developed with AMD, Broadcom, Intel, Microsoft, and NVIDIA, through the Open Compute Project.
+• Simon Willison: Vibe coding and agentic engineering are getting closer than I'd like — Simon Willison reflects on a realization from a recent podcast interview: the boundary between vibe coding (generating code without reviewing it) and agentic engineering (using AI tools with full professional rigor) is blurring in his own work.
+
+✨ Featured expressions: To put that in context, The short version is that, What this really means is that (and alternatives in show notes)
+🔑 Key terms: Multi-agent orchestration //ˌmʌlti ˈeɪdʒənt ˌɔːrkeˈstreɪʃən//, Agentic engineering //eɪˈdʒentɪk ˌendʒɪˈnɪərɪŋ//, Frontier firms //frʌnˈtɪər fɜːrmz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 07 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-07</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-07/podcast.mp3" length="8677677" type="audio/mpeg"/>
+      <itunes:duration>09:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/06</title>
       <description>Today's framework: Before→After→Bridge — Set the scene, show what changed, then connect it to your work
 
