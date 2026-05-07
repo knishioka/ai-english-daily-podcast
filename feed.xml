@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/08</title>
+      <description>Today's framework: Situation-Complication-Resolution — Set the scene, introduce the tension, then resolve with insight or action.
+
+📰 Stories covered:
+• OpenAI Engineering: Advancing voice intelligence with new models in the API — OpenAI launched three new realtime voice models via API: GPT-Realtime-2 (GPT-5-class reasoning in live voice, 128K context, parallel tool calls), GPT-Realtime-Translate (live speech translation across 70+ input languages into 13 output languages), and GPT-Realtime-Whisper (streaming speech-to-text transcription as the speaker talks).
+• Mozilla Hacks: Behind the Scenes Hardening Firefox with Claude Mythos Preview — Mozilla published a detailed technical post on how they used Claude Mythos Preview (plus other AI models) to find and fix an unprecedented number of latent security vulnerabilities in Firefox.
+• Simon Willison: Notes on the xAI/Anthropic data center deal — Anthropic announced at the Code w/ Claude event that they are leasing all capacity of Colossus 1, xAI/SpaceX's Memphis data center, to address compute constraints.
+
+✨ Featured expressions: Let's dive into, paving the way for, To put that in context (and alternatives in show notes)
+🔑 Key terms: context window //ˈkɒntekst ˈwɪndoʊ//, latent security vulnerabilities //ˈleɪtənt sɪˈkjʊərɪtiː ˌvʌlnərəˈbɪlɪtiz//, compute constraints //kəmˈpjuːt kənˈstreɪnts//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 08 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-08</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-08/podcast.mp3" length="6884013" type="audio/mpeg"/>
+      <itunes:duration>07:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/07</title>
       <description>Today's framework: What → So What → Now What — State the facts, draw the implications, then give actionable next steps.
 
