@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/11</title>
+      <description>Today's framework: PREP — Point → Reason → Example → Point: state your claim, justify it, illustrate it, then drive it home.
+
+📰 Stories covered:
+• LangChain Blog: Building a company due diligence agent — Five parallel subagents cover corporate profile, financials, litigation, reputation, and competitors, then fan out per-competitor analysis with isolated contexts and per-field citations.
+• OpenAI Engineering: Advancing voice intelligence — GPT-Realtime-2 (GPT-5-class reasoning), GPT-Realtime-Translate (70+ input languages), and GPT-Realtime-Whisper (streaming transcription) shift voice from UI layer to app runtime.
+• OpenAI: Testing ads in ChatGPT — Expanded to UK, Japan, South Korea; Anthropic stays ad-free. The business model split is now concrete.
+
+✨ Featured expressions: strategic fork in the road, compelling differentiator, fan-out orchestration (and alternatives in show notes)
+🔑 Key terms: due diligence /djuː ˈdɪlɪdʒəns/, orchestrator /ˈɔːkɪstreɪtər/, calibrated confidence score /ˈkælɪbreɪtɪd/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 11 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-11</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-11/podcast.mp3" length="9198765" type="audio/mpeg"/>
+      <itunes:duration>09:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/10</title>
       <description>Today's framework: Situation → Complication → Resolution — Frame any challenge as current state, the tension it creates, and how it gets resolved.
 
