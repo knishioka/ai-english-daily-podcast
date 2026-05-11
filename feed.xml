@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/12</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the business bottleneck, show the operating solution, then clarify the practical impact.
+
+📰 Stories covered:
+• OpenAI Blog: OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence — OpenAI launched a majority-controlled Deployment Company with more than $4 billion of initial investment.
+• Anthropic News: Agents for financial services — Anthropic released ten ready-to-run financial-services agent templates.
+• AWS News Blog: AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more — AWS highlighted Amazon Bedrock AgentCore payments in preview.
+• Anthropic News: Higher usage limits for Claude and a compute deal with SpaceX — Anthropic announced a SpaceX partnership for access to more than 300 megawatts of capacity.
+
+✨ Featured expressions: deployment bottleneck, necessary, but not sufficient, inside policy boundaries (and alternatives in show notes)
+🔑 Key terms: deployment //dɪˈplɔɪmənt//, agent template //ˈeɪdʒənt ˈtɛmplət//, audit trail //ˈɔːdɪt treɪl//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 12 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-12</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-12/podcast.mp3" length="7557933" type="audio/mpeg"/>
+      <itunes:duration>07:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/11</title>
       <description>Today's framework: PREP — Point → Reason → Example → Point: state your claim, justify it, illustrate it, then drive it home.
 
