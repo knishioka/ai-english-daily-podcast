@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/13</title>
+      <description>Today's framework: Before → After → Bridge — Contrast the old state with the new state, then connect both to the practical transition plan.
+
+📰 Stories covered:
+• OpenAI: OpenAI launches the OpenAI Deployment Company to help businesses build around intelligence — OpenAI launched the OpenAI Deployment Company, agreed to acquire Tomoro, and said the new unit will embed Forward Deployed Engineers into organizations to build production AI systems around critical workflows.
+• Google Blog: Gemini Intelligence brings proactive AI to Android — At The Android Show 2026, Google introduced Gemini Intelligence, a set of proactive Android AI features intended to automate tasks across apps, generate custom widgets, refine spoken messages, and expand to phones, wearables, cars, glasses, and laptops.
+• The Hacker News: OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation — The Hacker News reported that OpenAI launched Daybreak, a cybersecurity initiative for secure code review, threat modeling, vulnerability testing, patch validation, dependency risk analysis, and remediation guidance.
+• The Hacker News: Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI &amp; More Packages — A Mini Shai-Hulud campaign compromised npm and PyPI packages tied to TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI, adding credential-stealing malware and IDE persistence hooks.
+
+✨ Featured expressions: hands-on operating-model change, pull-based, cross-application delegation (and alternatives in show notes)
+🔑 Key terms: agentic //eɪˈdʒen.tɪk//, deployment //dɪˈplɔɪ.mənt//, threat modeling //θret ˈmɑː.dəl.ɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 13 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-13</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-13/podcast.mp3" length="8556717" type="audio/mpeg"/>
+      <itunes:duration>08:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/12</title>
       <description>Today's framework: Problem → Solution → Impact — Frame the business bottleneck, show the operating solution, then clarify the practical impact.
 
