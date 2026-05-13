@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/14</title>
+      <description>Today's framework: What→So What→Now What — Separate the facts, the business implications, and the next actions.
+
+📰 Stories covered:
+• Anthropic News: Introducing Claude for Small Business — Anthropic packaged Claude into small-business workflows across everyday tools.
+• Cursor Changelog: Development environments for cloud agents — Cursor added controlled cloud-agent environments with multi-repo setup, secrets, caching, audit logs, and scoped access.
+• LangChain Blog: Introducing LangSmith Engine — LangChain launched a beta system that turns production traces into clustered issues, fixes, and eval coverage.
+• LangChain Blog: LangSmith Sandboxes are Generally Available — LangChain made isolated microVM sandboxes generally available for model-generated code execution.
+• LangChain Blog: Introducing Managed Deep Agents — LangChain introduced a hosted runtime for durable, long-running agents with context, tools, tracing, and approval.
+
+✨ Featured expressions: the operating layer, remove operational friction, the control surface is mature enough (and alternatives in show notes)
+🔑 Key terms: cloud agents /klaʊd ˈeɪdʒənts/, production traces /prəˈdʌkʃən treɪsɪz/, evaluator /ɪˈvæljueɪtər/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 14 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-14</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-14/podcast.mp3" length="6561453" type="audio/mpeg"/>
+      <itunes:duration>06:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/13</title>
       <description>Today's framework: Before → After → Bridge — Contrast the old state with the new state, then connect both to the practical transition plan.
 
