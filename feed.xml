@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/16</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the business context, explain the risk or tension, then close with practical next steps.
+
+📰 Stories covered:
+• AWS Machine Learning Blog: AWS launches frontier agents for security testing and cloud operations — AWS announced general availability of AWS Security Agent for on-demand penetration testing and AWS DevOps Agent for autonomous operational workflows across AWS, multicloud, and on-premises environments.
+• Visual Studio Code Blog: The Coding Harness Behind GitHub Copilot in VS Code — The VS Code team published a deep dive on the coding harness behind GitHub Copilot, describing how it assembles context, exposes tools, validates tool calls, runs the agent loop, and feeds observations back to the model.
+• xAI Docs: Grok Model Retirement on May 15, 2026 — xAI retired several earlier Grok API model slugs effective May 15, automatically redirecting requests to Grok 4.3 or a newer image model and warning developers about pricing differences.
+
+✨ Featured expressions: high-stakes workflows, the visible API call looks stable, remove bottlenecks without removing accountability (and alternatives in show notes)
+🔑 Key terms: penetration testing /ˌpenɪˈtreɪʃən ˈtestɪŋ/, incident resolution /ˈɪnsɪdənt ˌrezəˈluːʃən/, model slug /ˈmɑːdəl slʌɡ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 16 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-16</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-16/podcast.mp3" length="5392173" type="audio/mpeg"/>
+      <itunes:duration>05:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/15</title>
       <description>Today's framework: Situation → Complication → Resolution — Frame the current context, explain the tension, then close with practical actions.
 
