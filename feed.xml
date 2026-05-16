@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/17</title>
+      <description>Today's framework: Situation → Complication → Resolution — Frame the current state, surface the tension, then close with the practical resolution.
+
+📰 Stories covered:
+• OpenAI: Databricks brings GPT-5.5 to enterprise agent workflows — Databricks is making GPT-5.
+• CIO Dive: xAI joins crowded coding agent race with Grok Build — xAI unveiled Grok Build, an early-beta agentic command-line interface for software engineering and complex coding, available to SuperGrok Heavy subscribers.
+• Cursor Changelog: Development environments for cloud agents — Cursor introduced configurable development environments for cloud agents, including multi-repo environments, Dockerfile-based configuration, build secrets, faster layer caching, version history, audit logs, and scoped egress and secrets.
+• LangChain Blog: New in Deep Agents v0.6 — LangChain’s Deep Agents v0.
+• Sebastian Raschka: Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention — Sebastian Raschka reviewed recent open-weight LLM architecture changes such as KV sharing in Gemma 4, compressed convolutional attention in ZAYA1, attention budgeting in Laguna XS.
+
+✨ Featured expressions: moving beyond mere conversational interfaces, raw conversational prowess, a strategic battleground (and alternatives in show notes)
+🔑 Key terms: orchestration /ˌɔːrkəˈstreɪʃən/, checkpoint storage /ˈtʃekpɔɪnt ˈstɔːrɪdʒ/, command-line interface /kəˈmænd laɪn ˈɪntərfeɪs/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sun, 17 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-17</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-17/podcast.mp3" length="7829037" type="audio/mpeg"/>
+      <itunes:duration>08:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/16</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the business context, explain the risk or tension, then close with practical next steps.
 
