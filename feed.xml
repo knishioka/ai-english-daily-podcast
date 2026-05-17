@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/18</title>
+      <description>Today's framework: PREP — Point → Reason → Example → Point: lead with the takeaway, justify it, support it with examples, then restate the takeaway.
+
+📰 Stories covered:
+• Meta Newsroom: Introducing a Completely Private Way to Chat With AI — Meta launched Incognito Chat with Meta AI on WhatsApp and the Meta AI app, built on WhatsApp Private Processing.
+• Notion Blog: Introducing Notion’s Developer Platform — Notion introduced a Developer Platform with Workers for hosted custom code, External Agents that appear as native workspace participants, an External Agent API for bringing internal agents into Notion, and the ntn CLI for terminal and IDE workflows.
+• OpenAI Codex Changelog: Work with Codex from anywhere — OpenAI added the ability to use Codex from the ChatGPT mobile app by connecting to a Mac running the Codex app.
+
+✨ Featured expressions: marked by a strong emphasis on, coupled with an increasing focus on, The practical takeaway is that (and alternatives in show notes)
+🔑 Key terms: Incognito Chat /ɪnˈkɒɡnɪtoʊ tʃæt/, Private Processing /ˈpraɪvət ˈprɑːsesɪŋ/, External Agents /ɪkˈstɜːrnəl ˈeɪdʒənts/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Mon, 18 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-18</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-18/podcast.mp3" length="8707245" type="audio/mpeg"/>
+      <itunes:duration>09:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/17</title>
       <description>Today's framework: Situation → Complication → Resolution — Frame the current state, surface the tension, then close with the practical resolution.
 
