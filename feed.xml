@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/19</title>
+      <description>Today's framework: Problem → Solution → Impact — Define the core business problem, explain the practical solution, then show the operational impact.
+
+📰 Stories covered:
+• OpenAI: OpenAI and Dell Technologies partner to bring Codex to hybrid and... — OpenAI and Dell Technologies announced a collaboration to help enterprises deploy Codex...
+• Anthropic: Anthropic acquires Stainless — Anthropic announced it is acquiring Stainless, whose tooling generates SDKs, CLIs, and MCP...
+• GitHub Blog: Take your local GitHub sessions anywhere — GitHub made remote control for Copilot CLI sessions generally available on github.com and...
+• Hugging Face / IBM Research: The Open Agent Leaderboard — Hugging Face and IBM Research launched the Open Agent Leaderboard and Exgentic framework to...
+• Google Gemini Help / PCWorld: Google shifts Gemini usage limits toward compute-based quotas — Google updated Gemini usage guidance around compute-based limits, with usage affected by...
+
+✨ Featured expressions: the operating model around them is still catching up, the quality of the bridges around it, measurement discipline (and alternatives in show notes)
+🔑 Key terms: hybrid deployment /ˈhaɪbrɪd dɪˈplɔɪmənt/, data governance /ˈdeɪtə ˈɡʌvərnəns/, connector layer /kəˈnɛktər ˈleɪər/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 19 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-19</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-19/podcast.mp3" length="6853293" type="audio/mpeg"/>
+      <itunes:duration>07:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/18</title>
       <description>Today's framework: PREP — Point → Reason → Example → Point: lead with the takeaway, justify it, support it with examples, then restate the takeaway.
 
