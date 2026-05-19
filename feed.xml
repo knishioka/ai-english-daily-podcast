@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/20</title>
+      <description>Today's framework: Before → After → Bridge — Contrast the old state, the new state, and the transition that connects them.
+
+📰 Stories covered:
+• Google Blog: I/O 2026 agentic Gemini era — Google reported massive Gemini usage and positioned agents as a product-platform shift.
+• Google Blog: I/O announcements — Gemini Omni, Gemini 3.5 Flash, and Antigravity push AI toward multimodal action and agent-first development.
+• AWS ML Blog: Frontier agents — AWS made Security Agent and DevOps Agent generally available for security testing and operations.
+• LangChain Blog: LangSmith Engine — LangChain explained an agent that turns traces and failures into issues, evaluators, and fixes.
+• OpenAI: Content provenance — OpenAI added C2PA conformance, SynthID watermarking, and a public image verification preview.
+
+✨ Featured expressions: turn impressive AI features into dependable business infrastructure, take responsibility for a workflow, the operating load of an AI platform (and alternatives in show notes)
+🔑 Key terms: provenance //ˈprɒvənəns//, agentic //eɪˈdʒentɪk//, penetration testing //ˌpenəˈtreɪʃən ˈtestɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 20 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-20</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-20/podcast.mp3" length="5877933" type="audio/mpeg"/>
+      <itunes:duration>06:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/19</title>
       <description>Today's framework: Problem → Solution → Impact — Define the core business problem, explain the practical solution, then show the operational impact.
 
