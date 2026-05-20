@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/21</title>
+      <description>Today's framework: What → So What → Now What — State the facts, explain why they matter, then say what to do next.
+
+📰 Stories covered:
+• Anthropic (Claude Blog): Claude Managed Agents — self-hosted sandboxes and MCP tunnels keep tool execution and internal systems inside the customer's security perimeter.
+• VentureBeat: Gemini 3.5 Flash GA — a frontier-level model at $1.50/$9 per 1M tokens with a 1M context window and ~4x speed changes the cost math for agents.
+• Help Net Security: AI agents in production — a confused-deputy problem and a propose-commit split for safe write access to infrastructure.
+
+✨ Featured expressions: decoupling the agent's brain from its hands so to speak, fundamentally changes the cost math, now is the time to re-evaluate (and alternatives in show notes)
+🔑 Key terms: orchestration //ˌɔːrkɪˈstreɪʃən//, telemetry //təˈlemətri//, security perimeter //sɪˈkjʊərəti pəˈrɪmɪtər//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 21 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-21</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-21/podcast.mp3" length="8987565" type="audio/mpeg"/>
+      <itunes:duration>09:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/20</title>
       <description>Today's framework: Before → After → Bridge — Contrast the old state, the new state, and the transition that connects them.
 
