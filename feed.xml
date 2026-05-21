@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/22</title>
+      <description>Today's framework: Situation → Complication → Resolution — Frame the current context, surface the constraint, then show the practical path forward.
+
+📰 Stories covered:
+• Microsoft .NET Blog: Announcing Agent Governance Toolkit MCP Extensions for .NET — Microsoft announced a Public Preview companion package for the official MCP C# SDK that adds policy enforcement, startup scanning, runtime governance, response sanitization, audit, and metrics to .
+• LangChain Blog: New in Deep Agents v0.6 — Deep Agents v0.
+• Latent Space: Giving Agents Computers — Ivan Burazin, Daytona — Latent Space published an interview with Daytona’s CEO about providing bare-metal sandboxes and specialized infrastructure for agent workloads, including reinforcement-learning and evaluation workloads.
+• GitHub Changelog: Updates to available models in Copilot on web — GitHub updated the available model selection for Copilot Chat on the web, removing several models while keeping OpenAI and Claude models across price points available across plans.
+• Goldman Sachs Insights: AI Agents Forecast to Boost Tech Cash Flow as Usage Soars — Goldman Sachs forecast that agentic AI adoption could drive a 24-fold increase in token consumption by 2030 and contribute to chip shortages over the next 12 to 18 months.
+
+✨ Featured expressions: poised to drive, gaining paramount importance, bespoke plumbing (and alternatives in show notes)
+🔑 Key terms: agentic AI /eɪˈdʒen.tɪk ˌeɪ ˈaɪ/, token consumption /ˈtoʊ.kən kənˈsʌmp.ʃən/, runtime governance /ˈrʌn.taɪm ˈɡʌv.ər.nəns/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Fri, 22 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-22</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-22/podcast.mp3" length="8585133" type="audio/mpeg"/>
+      <itunes:duration>08:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/21</title>
       <description>Today's framework: What → So What → Now What — State the facts, explain why they matter, then say what to do next.
 
