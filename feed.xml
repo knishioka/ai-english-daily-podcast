@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/23</title>
+      <description>Today's framework: What → So What → Now What — Explain what happened, why it matters, and what to watch or do next.
+
+📰 Stories covered:
+• OpenAI: An OpenAI model has disproved a central conjecture in discrete geometry — OpenAI says a general-purpose reasoning model found a proof that disproves a central conjecture in the planar unit distance problem, first posed by Paul Erdős in 1946.
+• Cursor: Improvements to Cursor Automations — Cursor brought Automations into the Agents Window and added multi-repo and no-repo automation support, with templates for Slack digests, product analytics, FAQs, finance, and customer health.
+• Simon Willison: Datasette Agent — Simon Willison announced Datasette Agent, an extensible AI assistant for querying Datasette databases conversationally, generating charts, and running through plugins and local models.
+• GitHub Changelog: Semantic issue search in Copilot Chat — GitHub made semantic issue search generally available in Copilot Chat on web, letting developers use natural language to find and group issues by intent rather than exact keywords.
+
+✨ Featured expressions: raises the ceiling, a source of original technical insight, cross-system work (and alternatives in show notes)
+🔑 Key terms: conjecture //kənˈdʒek.tʃər//, discrete geometry //dɪˈskriːt dʒiˈɑː.mə.tri//, semantic issue search //sɪˈmæn.tɪk ˈɪʃ.uː sɝːtʃ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sat, 23 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-23</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-23/podcast.mp3" length="7299117" type="audio/mpeg"/>
+      <itunes:duration>07:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/22</title>
       <description>Today's framework: Situation → Complication → Resolution — Frame the current context, surface the constraint, then show the practical path forward.
 
