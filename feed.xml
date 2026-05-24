@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/25</title>
+      <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: lead with the takeaway, justify it, ground it in evidence, and restate the action-oriented message.
+
+📰 Stories covered:
+• Model Context Protocol: The 2026-07-28 MCP Specification Release Candidate — The MCP release candidate removes protocol-level sessions, makes requests stateless, adds first-class extensions including MCP Apps and Tasks, and hardens authorization.
+• Google Blog: The Gemini app becomes more agentic, delivering proactive, 24/7 help — Google announced Gemini 3.
+• Mistral AI: Emmi joins Mistral to accelerate the AI-native industry — Mistral entered a definitive agreement to acquire Emmi AI, adding Physics AI talent and models for real-time industrial simulation and digital twins.
+
+✨ Featured expressions: the true potential of AI agents cannot be fully realized or scaled efficiently, moving from a phase where agents were impressive individual feats to a stage where they must operate cohesively, paves the way for a more integrated and secure AI landscape (and alternatives in show notes)
+🔑 Key terms: stateless //ˈsteɪtləs//, authorization //ˌɔːθərəˈzeɪʃən//, agentic //eɪˈdʒentɪk//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 25 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-25</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-25/podcast.mp3" length="8559405" type="audio/mpeg"/>
+      <itunes:duration>08:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/24</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, clarify the tension, then land on the practical response.
 
