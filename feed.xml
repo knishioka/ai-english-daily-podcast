@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/26</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the business problem, explain the solution pattern, then close with practical impact.
+
+📰 Stories covered:
+• Help Net Security / Anthropic: Anthropic adds 28 security and compliance integrations for Claude — Anthropic introduced 28 integrations around the Claude Compliance API so IT and security teams can pipe Claude Enterprise content and activity events into existing DLP, SIEM, identity, eDiscovery, observability, and AI security tools.
+• Hugging Face Blog: Harness, Scaffold, and the AI Agent Terms Worth Getting Right — Hugging Face published a practical glossary for agent terms such as model, scaffolding, harness, context engineering, policy, tool use, skills, sub-agents, and rollout.
+• Red Hat Developer: MCP servers vs. skills: Choosing the right context for your AI — Red Hat explained when to use MCP servers versus skills for adding context to large language models, framing MCP as the right path for external services and skills as a way to package repeatable instructions and domain knowledge.
+• AWS Machine Learning Blog: Agents that transact: Introducing Amazon Bedrock AgentCore payments, built with Coinbase and Stripe — AWS announced Amazon Bedrock AgentCore payments in preview, built with Coinbase and Stripe, so agents can access and pay for web content, APIs, MCP servers, and other agents within an execution loop under spending governance and observability.
+• Mistral AI News: Emmi joins Mistral to accelerate the AI-native industry — Mistral AI entered a definitive agreement to acquire Physics AI pioneer Emmi AI, adding more than 30 researchers and engineers to its Science and Applied AI teams and targeting real-time engineering simulations and digital twins.
+
+✨ Featured expressions: The common theme in today's stories is that..., That changes the question., Put differently (and alternatives in show notes)
+🔑 Key terms: governance //ˈɡʌvərnəns//, harness //ˈhɑːrnəs//, scaffolding //ˈskæfəldɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 26 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-26</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-26/podcast.mp3" length="6991533" type="audio/mpeg"/>
+      <itunes:duration>07:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/25</title>
       <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: lead with the takeaway, justify it, ground it in evidence, and restate the action-oriented message.
 
