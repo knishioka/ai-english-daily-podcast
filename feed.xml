@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/27</title>
+      <description>Today's framework: Before → After → Bridge — Show the old reality, the new reality, and the practical path between them.
+
+📰 Stories covered:
+• SemiAnalysis InferenceX: AMD MI355X Qwen3.5 397B-A17B Inference: Up to 19x Throughput per GPU in 3 Months on SGLang FP8 — SemiAnalysis reported that AMD MI355X SGLang FP8 throughput on Qwen3.
+• Mistral AI: Introducing Mistral 3 — Mistral introduced Mistral 3, including Mistral Large 3, a 675B-parameter sparse mixture-of-experts model with 41B active parameters, plus small Ministral models for edge and local use.
+• Anthropic: Project Glasswing: An initial update — Anthropic said Project Glasswing partners have found more than ten thousand high- or critical-severity vulnerabilities with Claude Mythos Preview, and that early open-source scanning surfaced thousands of likely serious findings.
+
+✨ Featured expressions: To put that in context, Another way to frame it is, The practical takeaway is (and alternatives in show notes)
+🔑 Key terms: inference /ˈɪnfərəns/, throughput /ˈθruːpʊt/, open-weight /ˌoʊpən ˈweɪt/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 27 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-27</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-27/podcast.mp3" length="8680365" type="audio/mpeg"/>
+      <itunes:duration>09:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/26</title>
       <description>Today's framework: Problem → Solution → Impact — Frame the business problem, explain the solution pattern, then close with practical impact.
 
