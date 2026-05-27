@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/28</title>
+      <description>Today's framework: What→So What→Now What — Clarify what happened, why it matters, and what to do next.
+
+📰 Stories covered:
+• OpenAI: OpenAI turns tax-production traces into Codex eval loops.
+• AWS Machine Learning Blog: AWS frames payments and budget guardrails as agent infrastructure.
+• LangChain Blog: Lyft shows self-serve support-agent iteration with tracing and evals.
+• Hugging Face Blog: ITBench-AA shows frontier models below 50% on enterprise SRE tasks.
+• Mistral AI News: Mistral buys Emmi AI to push physics-aware industrial agents.
+
+✨ Featured expressions: moving from impressive demos into operating systems for real work, money movement as a first-class engineering concern, every failure can become a hill to climb (and alternatives in show notes)
+🔑 Key terms: production traces //prəˈdʌkʃən treɪsɪz//, payment rails //ˈpeɪmənt reɪlz//, observability //əbˌzɝːvəˈbɪləti//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Thu, 28 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-28</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-28/podcast.mp3" length="7264173" type="audio/mpeg"/>
+      <itunes:duration>07:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/27</title>
       <description>Today's framework: Before → After → Bridge — Show the old reality, the new reality, and the practical path between them.
 
