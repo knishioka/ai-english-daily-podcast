@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/29</title>
+      <description>Today's framework: Situation → Complication → Resolution — Frame the current context, name the tension, then close with a practical resolution.
+
+📰 Stories covered:
+• Anthropic Official Blog: Anthropic raises $65B in Series H funding at $965B post-money valuation — Anthropic announced a $65 billion Series H round at a $965 billion post-money valuation, backed by major investors and infrastructure partners.
+• Mistral AI News: AI Now Summit 2026 — Mistral announced an industrial engineering stack, a unified Vibe agent for long-horizon work, and a dedicated 10 MW inference data center in Les Ulis.
+• Mistral AI News: Introducing Search Toolkit — Mistral released Search Toolkit in public preview as an open-source framework covering ingestion, retrieval, and evaluation for production search pipelines.
+• xAI News: Grok Build 0.1 on API — xAI made grok-build-0.
+• Mistral AI Customers: Mission-focused AI: How HTX transforms Singapore’s public safety with custom and local AI — Mistral described how Singapore’s HTX built Phoenix Small and Medium models on NGINE using Mistral Forge for controlled, public-safety-focused AI deployment.
+
+✨ Featured expressions: underscores a critical shift, the overall picture reveals, beyond just acquiring powerful models (and alternatives in show notes)
+🔑 Key terms: post-money valuation //poʊst ˈmʌni ˌvæljuˈeɪʃən//, inference data center //ˈɪnfərəns ˈdeɪtə ˈsentər//, retrieval quality //rɪˈtriːvəl ˈkwɑːləti//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 29 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-29</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-29/podcast.mp3" length="7859757" type="audio/mpeg"/>
+      <itunes:duration>08:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/28</title>
       <description>Today's framework: What→So What→Now What — Clarify what happened, why it matters, and what to do next.
 
