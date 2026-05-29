@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/30</title>
+      <description>Today's framework: Problem -&gt; Solution -&gt; Impact — Frame the core challenge, show the operating response, then explain the business implications.
+
+📰 Stories covered:
+• OpenAI Blog: Strengthening societal resilience with Rosalind Biodefense — OpenAI launched Rosalind Biodefense and expanded trusted access to GPT-Rosalind for vetted public-health, government, and allied biodefense partners.
+• OpenAI Blog: A shared playbook for trustworthy third party evaluations — OpenAI published guidance for third-party frontier-model evaluations, emphasizing explicit claims, harness design, validity evidence, and hazards like reward hacking, contamination, refusals, broken problems, and sandbagging.
+• OpenAI Codex Changelog: Computer use and mobile access on Windows 26.527 — OpenAI extended Codex Computer Use to Windows and added Windows support for remote control, letting Codex operate Windows desktop apps and be started or monitored from other devices.
+• OpenAI Blog: OpenAI’s Frontier Governance Framework — OpenAI published a Frontier Governance Framework aligning its safety and security practices with emerging legal requirements such as California’s Transparency in Frontier AI Act and the EU AI Act’s Code of Practice.
+
+✨ Featured expressions: governed capability, controlled access, supervised delegation (and alternatives in show notes)
+🔑 Key terms: harness //ˈhɑːr.nəs//, biodefense //ˌbaɪ.oʊ.dɪˈfens//, non-pharmaceutical interventions //ˌnɑːn ˌfɑːr.məˈsuː.tɪ.kəl ˌɪn.tərˈven.ʃənz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 30 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-30</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-30/podcast.mp3" length="6920877" type="audio/mpeg"/>
+      <itunes:duration>07:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/29</title>
       <description>Today's framework: Situation → Complication → Resolution — Frame the current context, name the tension, then close with a practical resolution.
 
