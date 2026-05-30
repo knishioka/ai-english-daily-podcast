@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 05/31</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set context, name the tension, then close with a practical path forward.
+
+📰 Stories covered:
+• OpenAI Help Center: Codex updates: Computer use and remote control for Windows, usage profiles — OpenAI added Windows Computer Use support to the Codex app, remote steering from ChatGPT mobile or Codex on Mac, infrastructure improvements, and Codex Profiles for usage and activity visibility.
+• xAI: Grok Build 0.1 on API — xAI made grok-build-0.
+• Vercel Blog: Protecting against inference theft — Vercel described inference theft as unauthorized resale of paid AI inference and showed why AI endpoints need per-request verification rather than session-only checks.
+• AWS Machine Learning Blog: Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality — AWS published a solution that combines SageMaker AI inference components, CloudWatch metrics, and Amazon Managed Grafana dashboards to monitor LLM infrastructure and output quality together.
+
+✨ Featured expressions: the common thread in today's stories is, becoming less like chat windows and more like remote operators, the asset being stolen is no longer just data or access (and alternatives in show notes)
+🔑 Key terms: inference theft /ˈɪnfərəns θeft/, agentic coding /eɪˈdʒentɪk ˈkoʊdɪŋ/, observability /əbˌzɝːvəˈbɪləti/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 31 May 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-05-31</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-05-31/podcast.mp3" length="6927405" type="audio/mpeg"/>
+      <itunes:duration>07:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/30</title>
       <description>Today's framework: Problem -&gt; Solution -&gt; Impact — Frame the core challenge, show the operating response, then explain the business implications.
 
