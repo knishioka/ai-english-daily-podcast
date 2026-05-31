@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/01</title>
+      <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: state the conclusion, explain why, support it with evidence, then restate the takeaway.
+
+📰 Stories covered:
+• Anthropic Engineering via Simon Willison: How we contain Claude across products — Anthropic documented how Claude.
+• xAI News: Introducing Grok Build — xAI introduced Grok Build, an early-beta terminal coding agent for SuperGrok and X Premium Plus subscribers.
+• OpenAI Developers: Codex pricing and usage promo ends May 31 — OpenAI’s Codex pricing page says the Pro $100 tier’s 2x Codex usage promotion runs through May 31, 2026, while Pro $200 carries forward 20x Plus usage on an ongoing basis.
+• xAI News: Connectors in web, iOS, and Android — xAI launched Grok Connectors for web, iOS, and Android, bringing external apps into Grok so it can read, summarize, update, and organize everyday work across tools.
+
+✨ Featured expressions: The practical takeaway is, Put differently, To put that in context (and alternatives in show notes)
+🔑 Key terms: sandbox /ˈsændbɑːks/, egress control /ˈiːɡres kənˈtroʊl/, connector /kəˈnektər/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 01 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-01</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-01/podcast.mp3" length="7438125" type="audio/mpeg"/>
+      <itunes:duration>07:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 05/31</title>
       <description>Today's framework: Situation → Complication → Resolution — Set context, name the tension, then close with a practical path forward.
 
