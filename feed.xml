@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/02</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the business problem, explain the practical response, then make the impact explicit.
+
+📰 Stories covered:
+• Cursor Changelog: Auto-review Run Mode — Cursor 3.
+• Mistral AI: Introducing Search Toolkit — Mistral released Search Toolkit in public preview, an open-source framework that unifies ingestion, retrieval, and evaluation for production search pipelines in AI applications.
+• AWS Machine Learning Blog: Evaluating Deep Agents using LangSmith on AWS — AWS published a practical guide for evaluating deep agents with LangSmith on AWS, covering offline evaluations, online monitoring, and patterns such as trajectory grading, final-response grading, and state inspection.
+• Vercel Changelog: Opus 4.8 on AI Gateway — Vercel added Claude Opus 4.
+• Modal Labs Blog: Role-Based Access Control for humans and agents — Modal made Role-Based Access Control available to Team and Enterprise users, with environments and restricted environments designed to separate human, CI, external caller, and AI-agent permissions.
+
+✨ Featured expressions: policy-gated autonomy, retrieval quality, the failure chain (and alternatives in show notes)
+🔑 Key terms: sandbox //ˈsænd.bɑːks//, classifier subagent //ˈklæs.ə.faɪ.ər ˈsʌbˌeɪ.dʒənt//, ingestion //ɪnˈdʒes.tʃən//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Tue, 02 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-02</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-02/podcast.mp3" length="6074157" type="audio/mpeg"/>
+      <itunes:duration>06:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/01</title>
       <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: state the conclusion, explain why, support it with evidence, then restate the takeaway.
 
