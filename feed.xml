@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/04</title>
+      <description>Today's framework: What→So What→Now What — Use What to state the update, So What to explain business impact, and Now What to turn it into practical action.
+
+📰 Stories covered:
+• Google Developers Blog: Gemma 4 12B on laptops — Google showed local agentic workflows with AI Edge Gallery, Eloquent, and LiteRT-LM.
+• Hugging Face / Ideogram: Ideogram 4 — Ideogram released weights and inference code for a controllable 9.3B open image model.
+• Anthropic: Claude Partner Hub — Anthropic introduced a tiered partner program after 40,000+ firm applications and 10,000+ certifications.
+• OpenAI Developers: API deprecations and billing — OpenAI deprecated prompt objects, Evals, and Agent Builder, and changed container billing.
+
+✨ Featured expressions: bypassing the need for cloud infrastructure, formalizing the support and expertise required, critical gating factors (and alternatives in show notes)
+🔑 Key terms: edge execution //edʒ ˌeksɪˈkjuːʃən//, open-weight model //ˌoʊpən weɪt ˈmɑːdəl//, structured JSON prompting //ˈstrʌktʃərd ˈdʒeɪsən ˈprɑːmptɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Thu, 04 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-04</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-04/podcast.mp3" length="7427373" type="audio/mpeg"/>
+      <itunes:duration>07:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/03</title>
       <description>Today's framework: Before→After→Bridge — Contrast the old way of working with the new reality, then connect the two with a practical transition.
 
