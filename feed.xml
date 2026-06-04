@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/05</title>
+      <description>Today's framework: Situation→Complication→Resolution — Frame the context, expose the tension, then close with practical next steps.
+
+📰 Stories covered:
+• OpenAI: Dreaming: Better memory for a more helpful ChatGPT — OpenAI launched a more capable and compute-efficient ChatGPT memory architecture built on its background 'dreaming' process, with reviewable memory summaries for users.
+• GitHub Changelog: GitHub Copilot in Visual Studio Code, May releases — GitHub detailed VS Code Copilot updates including the Agents window in Stable preview, remote agent sessions, session sync, BYOK expansion, and command risk assessment.
+• xAI: Grok Imagine 1.5 Preview — xAI made grok-imagine-video-1.
+• OpenAI: A blueprint for democratic governance of frontier AI — OpenAI released a policy blueprint for a durable U.
+• xAI: Grok Becomes the Voice of Vapi — xAI partnered with Vapi so Grok powers Vapi's 12 core voices and becomes available for speech-to-text and text-to-speech in the Vapi dashboard.
+
+✨ Featured expressions: a user-facing product surface, a hidden personalization trick, the interface has to support supervision (and alternatives in show notes)
+🔑 Key terms: memory architecture /ˈmeməri ˈɑːrkɪtektʃər/, bring-your-own-key /brɪŋ jʊər oʊn kiː/, Agent Host Protocol /ˈeɪdʒənt hoʊst ˈproʊtəkɔːl/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 05 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-05</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-05/podcast.mp3" length="6859437" type="audio/mpeg"/>
+      <itunes:duration>07:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/04</title>
       <description>Today's framework: What→So What→Now What — Use What to state the update, So What to explain business impact, and Now What to turn it into practical action.
 
