@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/06</title>
+      <description>Today's framework: Situation→Complication→Resolution — Frame the current state, identify the tension, then present the practical resolution.
+
+📰 Stories covered:
+• Cursor Changelog: Custom stores, custom tools, and auto-review for the Cursor SDK — Cursor shipped SDK features for custom tools, JSONL or custom state stores, auto-review routing for local tool calls, and nested subagents.
+• OpenAI: Biodefense in the Intelligence Age — OpenAI launched a biodefense action plan tied to advanced biology capabilities and Rosalind Biodefense, focused on detection, countermeasure development, and crisis response.
+
+✨ Featured expressions: delegated intelligence, a proactive and comprehensive approach, production-grade, programmable infrastructure (and alternatives in show notes)
+🔑 Key terms: agent infrastructure //ˈeɪdʒənt ˈɪnfrəˌstrʌktʃər//, state store //steɪt stɔːr//, auto-review routing //ˈɔːtoʊ rɪˈvjuː ˈruːtɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sat, 06 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-06</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-06/podcast.mp3" length="8619693" type="audio/mpeg"/>
+      <itunes:duration>08:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/05</title>
       <description>Today's framework: Situation→Complication→Resolution — Frame the context, expose the tension, then close with practical next steps.
 
