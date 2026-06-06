@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/07</title>
+      <description>Today's framework: What→So What→Now What — Move from the facts, to their business meaning, to the practical next actions.
+
+📰 Stories covered:
+• Anthropic Institute: When AI builds itself — Anthropic says AI is already speeding up AI development, with Claude authoring much of its merged code.
+• Simon Willison: Running Python code in a sandbox with MicroPython and WASM — Simon Willison covers practical agent security: sandboxed Python execution and Lockdown Mode against data exfiltration.
+• The Batch: Alibaba's Latest Proprietary Model, Qwen3.7-Max, Challenges U.S. Rivals — The Batch reports Qwen3.7-Max pushing long-context, agentic model competition forward.
+• AWS Machine Learning Blog: How to build self-driving AI operations on Amazon Bedrock at scale — AWS introduces Bedrock Ops Alert for production monitoring and support automation.
+
+✨ Featured expressions: underscoring the rapid evolution, reframes how we should view, no longer just assistance tools (and alternatives in show notes)
+🔑 Key terms: recursive self-improvement /rɪˈkɝːsɪv self ˌɪmpruːvˈmənt/, sandbox /ˈsændˌbɑːks/, data exfiltration /ˈdeɪtə eksˌfɪltreɪʃən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sun, 07 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-07</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-07/podcast.mp3" length="8543277" type="audio/mpeg"/>
+      <itunes:duration>08:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/06</title>
       <description>Today's framework: Situation→Complication→Resolution — Frame the current state, identify the tension, then present the practical resolution.
 
