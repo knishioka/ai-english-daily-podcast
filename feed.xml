@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/08</title>
+      <description>Today's framework: PREP — Point → Reason → Example → Point: state the message, justify it, make it concrete, then restate the takeaway.
+
+📰 Stories covered:
+• Hugging Face Blog: Her · हेर — a detective for your Claude Code sessions — A Hugging Face community project, Her, analyzes Claude Code session JSONL traces, reconstructs risky actions, token use, tools, subagents, skills, and MCP servers, and keeps findings deterministic while using a small local model only for prose.
+• Latent Space: [AINews] not much happened today — Latent Space summarized a quiet AI news day where agent benchmarks, agent runtimes, agent-optimized tooling, inference cost controls, and Lockdown Mode-style security features stood out more than new frontier model releases.
+
+✨ Featured expressions: shifting the paradigm, no longer a luxury but a fundamental requirement, the market is unequivocally signaling (and alternatives in show notes)
+🔑 Key terms: agent observability /ˈeɪdʒənt əbˌzɝːvəˈbɪləti/, deterministic forensic analysis /dɪˌtɝːmɪˈnɪstɪk fəˈrɛnsɪk əˈnæləsɪs/, JSONL /ˌdʒeɪsənˈɛl/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Mon, 08 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-08</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-08/podcast.mp3" length="7230765" type="audio/mpeg"/>
+      <itunes:duration>07:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/07</title>
       <description>Today's framework: What→So What→Now What — Move from the facts, to their business meaning, to the practical next actions.
 
