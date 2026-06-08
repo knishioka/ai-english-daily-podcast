@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/09</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the business problem, show the concrete solution, then spell out the operational impact.
+
+📰 Stories covered:
+• AWS News Blog: Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs — AWS announced a new Amazon Bedrock console experience for the bedrock-mantle endpoint.
+• GitHub Changelog: Expanded technical preview availability for the GitHub Copilot app — GitHub expanded the Copilot app technical preview to existing paid Copilot customers and introduced canvases.
+• GitHub Changelog: Agent tasks REST API now available for Copilot Pro, Pro+, and Max — GitHub made the Agent tasks REST API available in public preview for Copilot Pro.
+• GitHub Changelog: Larger context windows and configurable reasoning levels for GitHub Copilot — GitHub Copilot added support for one-million-token context windows and configurable reasoning levels in VS Code.
+• Vercel Changelog: Updates to Legal Terms — Vercel updated its Terms of Service and Marketplace terms to define AI Functionality and Third-Party Tools.
+
+✨ Featured expressions: To put that in context, Put differently, The practical takeaway is (and alternatives in show notes)
+🔑 Key terms: agentic software development /eɪˈdʒen.tɪk ˈsɔːft.wer dɪˈvel.əp.mənt/, context window /ˈkɑːn.tekst ˈwɪn.doʊ/, reasoning levels /ˈriː.zən.ɪŋ ˈlev.əlz/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 09 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-09</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-09/podcast.mp3" length="7985325" type="audio/mpeg"/>
+      <itunes:duration>08:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/08</title>
       <description>Today's framework: PREP — Point → Reason → Example → Point: state the message, justify it, make it concrete, then restate the takeaway.
 
