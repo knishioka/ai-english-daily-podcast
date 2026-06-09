@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/10</title>
+      <description>Today's framework: Before → After → Bridge — Contrast the old state, the new state, and the practical bridge teams need to cross.
+
+📰 Stories covered:
+• Anthropic News: Claude Fable 5 and Claude Mythos 5 — Anthropic launched Claude Fable 5 for general use and Claude Mythos 5 for a trusted-access cyberdefense and infrastructure program.
+• AWS Machine Learning Blog: It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore — AWS described how Amazon Bedrock AgentCore Runtime can host coding agents in isolated Linux microVMs with persistent workspaces, shell access, deterministic command execution, identity, and gateway-managed tools.
+• OpenAI News: Confidential submission of draft S-1 to the SEC — OpenAI announced it had confidentially submitted a draft S-1 and said timing for any public listing has not been decided.
+• xAI News: Powering Gopuff's Go agent — xAI announced a collaboration with Gopuff to launch Go, an AI-powered shopping assistant in the Gopuff app that uses Grok text, audio, and image models.
+
+✨ Featured expressions: at the helm, tethered to individual developer laptops, operating outside the full glare of public market scrutiny (and alternatives in show notes)
+🔑 Key terms: microVMs //ˈmaɪkroʊ ˌviː ˈɛmz//, persistent workspaces //pərˈsɪstənt ˈwɜːrkˌspeɪsɪz//, gateway-managed tools //ˈɡeɪtweɪ ˈmænɪdʒd tuːlz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-10</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-10/podcast.mp3" length="8654253" type="audio/mpeg"/>
+      <itunes:duration>09:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/09</title>
       <description>Today's framework: Problem → Solution → Impact — Frame the business problem, show the concrete solution, then spell out the operational impact.
 
