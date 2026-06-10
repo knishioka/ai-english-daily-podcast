@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/11</title>
+      <description>Today's framework: What→So What→Now What — A concise structure for explaining what happened, why it matters, and what action should come next.
+
+📰 Stories covered:
+• Anthropic: Claude Fable 5 and Claude Mythos 5 — Anthropic launched Claude Fable 5 for general use and Mythos 5 for trusted cyberdefense partners.
+• GitHub Changelog: Security validation for third-party coding agents — GitHub made automated security validation generally available for third-party coding agents.
+• OpenAI: From data to decisions: how LSEG is scaling trusted AI — OpenAI showed how LSEG cut AI-enabled product cycles from months to about two weeks.
+• OpenAI: How engineers at Nextdoor use Codex to build without limits — OpenAI described how Nextdoor uses Codex to shift engineers toward outcome engineering.
+• xAI: Powering Gopuff's Go agent — xAI said Gopuff launched Go, a multimodal shopping assistant powered by Grok models.
+
+✨ Featured expressions: raise the bar, an essential component of the trust boundary, the bottlenecks are moving upstream (and alternatives in show notes)
+🔑 Key terms: agentic development //eɪˈdʒen.tɪk dɪˈvel.əp.mənt//, CodeQL //koʊd kjuː el//, outcome engineering //ˈaʊt.kʌm ˌen.dʒɪˈnɪr.ɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-11</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-11/podcast.mp3" length="7921197" type="audio/mpeg"/>
+      <itunes:duration>08:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/10</title>
       <description>Today's framework: Before → After → Bridge — Contrast the old state, the new state, and the practical bridge teams need to cross.
 
