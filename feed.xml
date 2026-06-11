@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/12</title>
+      <description>Today's framework: Situation→Complication→Resolution — Frame the current context, name the tension or risk, then close with the practical resolution.
+
+📰 Stories covered:
+• AWS ML Blog: Agent-EvalKit — process-level evals for tool-using agents.
+• xAI News: Grok Build Plugin Marketplace — installable skills, agents, hooks, MCP servers, and LSPs.
+• Anthropic News: DXC alliance — Claude moves deeper into regulated enterprise systems.
+• GitHub Changelog: Copilot agent sessions — chat can inspect logs and session history.
+• Anthropic News: Claude Corps — fellowship model for AI capacity in nonprofits.
+
+✨ Featured expressions: sets the stage for, as critical as, moving beyond (and alternatives in show notes)
+🔑 Key terms: agentic systems, tool calls, intermediate state
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-12</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-12/podcast.mp3" length="8266797" type="audio/mpeg"/>
+      <itunes:duration>08:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/11</title>
       <description>Today's framework: What→So What→Now What — A concise structure for explaining what happened, why it matters, and what action should come next.
 
