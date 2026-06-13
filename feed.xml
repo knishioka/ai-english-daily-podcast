@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/14</title>
+      <description>Today's framework: Situation → Complication → Resolution — Frame the context, name the tension, then close with the practical decision.
+
+📰 Stories covered:
+• Anthropic: Claude Fable 5 and Claude Mythos 5 access suspended after launch — Anthropic launched Claude Fable 5 and Claude Mythos 5 on June 9, then posted a June 12 update saying access to both models was suspended while it worked to restore availability.
+• AWS Machine Learning Blog: Evaluate AI agents systematically with Agent-EvalKit — AWS published Agent-EvalKit guidance for evaluating agents by tracing tool calls, returned data, and whether final responses faithfully reflect the tool evidence.
+• Hugging Face / CohereLabs: Introducing North Mini Code: Cohere’s first model for developers — CohereLabs released North Mini Code on Hugging Face, a 30B-parameter Mixture-of-Experts model with 3B active parameters for agentic coding, under the Apache 2.0 license.
+
+✨ Featured expressions: operational realities, brings into sharp focus, unacceptable level of risk (and alternatives in show notes)
+🔑 Key terms: frontier model //ˈfrʌn.tɪr ˈmɑː.dəl//, agentic coding //eɪˈdʒen.tɪk ˈkoʊ.dɪŋ//, observability //əbˌzɝː.vəˈbɪl.ə.ti//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sun, 14 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-14</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-14/podcast.mp3" length="8494893" type="audio/mpeg"/>
+      <itunes:duration>08:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/13</title>
       <description>Today's framework: What → So What → Now What — State the facts, explain the business meaning, then translate it into immediate action.
 
