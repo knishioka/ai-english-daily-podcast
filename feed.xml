@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/16</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the business issue, explain the response, then make the operational consequence explicit.
+
+📰 Stories covered:
+• OpenAI News: Introducing the OpenAI Partner Network — OpenAI announced the OpenAI Partner Network, a global program for partners to build, sell, and deliver AI solutions with OpenAI, backed by a $150 million ecosystem investment and a target to enable 300,000 certified consultants by the end of 2026.
+• Import AI: Import AI 461: &quot;Alignment is not on track&quot;; FrontierCode — Import AI highlighted concerns that alignment is not keeping pace and discussed FrontierCode, including a prediction that systems could reach 70%+ on Diamond by June 2027 after Claude Fable numbers appeared around 30%.
+• Simon Willison: “They screwed us”: Personality clashes sent Anthropic's models offline — Simon Willison linked to an Axios report describing behind-the-scenes tensions around Anthropic models going offline, calling it the best collection of behind-the-scenes reporting on the US government export-control Mythos/Fable story so far.
+
+✨ Featured expressions: moving from pilot projects to widespread, impactful AI adoption, the new frontier of competition, a common yardstick (and alternatives in show notes)
+🔑 Key terms: enterprise rollout /ˈentərpraɪz ˈroʊlaʊt/, agentic coding /eɪˈdʒentɪk ˈkoʊdɪŋ/, alignment /əˈlaɪnmənt/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-16</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-16/podcast.mp3" length="9138477" type="audio/mpeg"/>
+      <itunes:duration>09:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/15</title>
       <description>Today's framework: PREP — State the main point, give the reason, show concrete examples, then restate the takeaway.
 
