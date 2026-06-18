@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/19</title>
+      <description>Today's framework: Situation→Complication→Resolution — Frame the context, name the tension, and close with the practical path forward.
+
+📰 Stories covered:
+• GitHub Changelog: Agent finder for GitHub Copilot now available — GitHub launched Agent finder for Copilot, letting users search registries for agents while aligning with a new.
+• Cursor Changelog: Improvements to Cursor Automations — Cursor added a /automate skill, Slack emoji triggers, five new GitHub triggers, and default computer-use.
+• xAI News: Grok on Databricks — xAI announced that Grok models are natively available on Databricks Agent Bricks as part of the Databricks 2026.
+• Vercel Blog: Vercel Ship 2026 recap — Vercel summarized Ship 2026, including demos of a sub-second voice agent built with AI SDK and a mobile QA agent.
+• xAI News: Grok for Word — xAI released a Grok add-in for Microsoft Word that can turn notes into documents, bring web research into Word,.
+
+✨ Featured expressions: increasingly about which assistant can find the right capability, an app-store-like layer for agents, wired into the workflow events (and alternatives in show notes)
+🔑 Key terms: agent registry //ˈeɪdʒənt ˈredʒɪstri//, workflow trigger //ˈwɜːrkfloʊ ˈtrɪɡər//, governed data environment //ˈɡʌvərnd ˈdeɪtə ɪnˈvaɪrənmənt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Fri, 19 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-19</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-19/podcast.mp3" length="6437805" type="audio/mpeg"/>
+      <itunes:duration>06:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/18</title>
       <description>Today's framework: What→So What→Now What — State what changed, explain why it matters, then turn it into practical next steps.
 
