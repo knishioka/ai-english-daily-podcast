@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/17</title>
+      <description>Today's framework: Before → After → Bridge — Set the prior state, show what changed, then connect it to what it means going forward.
+
+📰 Stories covered:
+• OpenAI: Predicting model behavior before release by simulating deployment — Deployment Simulation replays privacy-preserving prior conversations through candidate models before release to estimate undesired behavior.
+• Google Cloud: What's new in data agents — new data agents across the Agentic Data Cloud, including Conversational Analytics in BigQuery, make governed data access part of the platform.
+• xAI: Use Grok in Warp — Grok models including grok-build-0.1 become usable inside the Warp terminal via X Premium subscriptions.
+• Model Context Protocol Blog: The MCP Specification Release Candidate — the release candidate makes the protocol stateless, adds Extensions, Tasks, and MCP Apps, and targets a July 28 final release.
+• OpenAI: Introducing new capabilities to GPT-Rosalind — the life-sciences model gains GPT-5.5 agentic coding and stronger drug-discovery intelligence with expanded trusted access.
+
+✨ Featured expressions: tempered by significant practical challenges, bogged down by these bespoke integrations, becoming a key distribution layer (and alternatives in show notes)
+🔑 Key terms: agentic /eɪˈdʒɛntɪk/, stateless /ˈsteɪtləs/, governance /ˈɡʌvərnəns/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-17</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-17/podcast.mp3" length="8981037" type="audio/mpeg"/>
+      <itunes:duration>09:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/16</title>
       <description>Today's framework: Problem → Solution → Impact — Frame the business issue, explain the response, then make the operational consequence explicit.
 
