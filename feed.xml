@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/18</title>
+      <description>Today's framework: What→So What→Now What — State what changed, explain why it matters, then turn it into practical next steps.
+
+📰 Stories covered:
+• Vercel: Introducing eve — Vercel introduced eve, an open-source framework for building, running, and scaling production agents with durable execution, sandboxes, human approvals, subagents, evals, tracing, and channel adapters built in.
+• Vercel: Introducing Vercel Connect — Vercel launched Connect so agents and apps can request scoped runtime tokens for services such as Slack, GitHub, Linear, Notion, Salesforce, Snowflake, Discord, and OAuth MCP servers instead of storing long-lived provider secrets.
+• OpenAI: Predicting model behavior before release by simulating deployment — OpenAI described Deployment Simulation, a pre-release risk assessment method that resamples recent deployment conversations, removes the old assistant response, regenerates with a candidate model, and audits the simulated completions.
+• xAI: Grok on Amazon Bedrock — xAI announced that Grok 4.
+• xAI: Grok Imagine Video 1.5 — xAI made Grok Imagine Video 1.
+
+✨ Featured expressions: streamline the building, running, and scaling, enhancing security for integrations, predict model behavior in a live environment (and alternatives in show notes)
+🔑 Key terms: durable execution /ˈdʊrəbəl ˌɛksɪˈkjuːʃən/, scoped runtime tokens /skoʊpt ˈrʌnˌtaɪm ˈtoʊkənz/, Deployment Simulation /dɪˈplɔɪmənt ˌsɪmjəˈleɪʃən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-18</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-18/podcast.mp3" length="6919725" type="audio/mpeg"/>
+      <itunes:duration>07:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/17</title>
       <description>Today's framework: Before → After → Bridge — Set the prior state, show what changed, then connect it to what it means going forward.
 
