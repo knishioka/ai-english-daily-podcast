@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/20</title>
+      <description>Today's framework: Situation → Complication → Resolution — Frame the context, explain the tension, then close with the practical response.
+
+📰 Stories covered:
+• GitHub Changelog: AI credits consumed per user now in the Copilot usage metrics API — added per-user AI credit consumption to Copilot usage metrics.
+• Cursor Changelog: Improvements to Cursor Automations — added /automate, GitHub and Slack triggers, and computer-use support.
+• Hugging Face Blog / ServiceNow: MosaicLeaks: Can your research agent keep a secret? — introduced MosaicLeaks for privacy leakage in deep-research agents.
+• Hugging Face Blog: Is it agentic enough? Benchmarking open models on your own tooling — published practical guidance for open-model agent benchmarking.
+• Hugging Face Blog: Beyond LoRA: Can you beat the most popular fine-tuning technique? — challenged the default LoRA choice for model fine-tuning.
+
+✨ Featured expressions: granular control, event-driven execution, governing AI coding spend (and alternatives in show notes)
+🔑 Key terms: agentic systems //eɪˈdʒen.tɪk ˈsɪs.təmz//, AI credit consumption //ˌeɪ ˈaɪ ˈkred.ɪt kənˈsʌmp.ʃən//, parameter-efficient fine-tuning //pəˈræm.ə.tər ɪˈfɪʃ.ənt ˈfaɪnˌtuː.nɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-20</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-20/podcast.mp3" length="8636205" type="audio/mpeg"/>
+      <itunes:duration>09:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/19</title>
       <description>Today's framework: Situation→Complication→Resolution — Frame the context, name the tension, and close with the practical path forward.
 
