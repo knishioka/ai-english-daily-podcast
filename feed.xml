@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/21</title>
+      <description>Today's framework: Situation→Complication→Resolution — Set the context, explain the tension, then offer a practical way forward.
+
+📰 Stories covered:
+• AWS Machine Learning Blog: Introducing Web Search on Amazon Bedrock AgentCore — AWS made Web Search on Amazon Bedrock AgentCore generally available, giving agents access to an Amazon-operated web index through AgentCore Gateway.
+• Al Jazeera: US export ban on Anthropic’s AI models further strains alliances — The US ordered Anthropic to cut off foreign access to Mythos 5 and Claude Fable 5, and Anthropic took the models offline to comply.
+• Latent Space: [AINews] GLM-5.2 is the real deal; Z.ai forecasts Open Fable by EOY — Latent Space reported that GLM-5.2 gained unusually strong practitioner validation and ranked competitively on agentic knowledge-work evaluations while new coding-agent automation primitives also shipped.
+
+✨ Featured expressions: treated like strategic infrastructure, a supply-chain variable, degrade gracefully (and alternatives in show notes)
+🔑 Key terms: agent architecture //ˈeɪdʒənt ˈɑːrkɪtektʃər//, web grounding //web ˈɡraʊndɪŋ//, frontier model //ˈfrʌntɪr ˈmɑːdəl//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 21 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-21</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-21/podcast.mp3" length="6619437" type="audio/mpeg"/>
+      <itunes:duration>06:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/20</title>
       <description>Today's framework: Situation → Complication → Resolution — Frame the context, explain the tension, then close with the practical response.
 
