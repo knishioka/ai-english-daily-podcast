@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/23</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the business pain, explain the proposed response, then make the practical consequence clear.
+
+📰 Stories covered:
+• OpenAI: Daybreak: Tools for securing every organization in the world — OpenAI expanded Daybreak with an updated Codex Security plugin, GPT-5.5-Cyber, a cyber partner program, and Patch the Planet for open-source maintainers.
+• OpenAI: Patch the Planet: a Daybreak initiative to support open source maintainers — OpenAI introduced Patch the Planet with Trail of Bits, HackerOne, and Calif to help maintainers validate and patch vulnerabilities in critical open-source projects.
+• Interconnects: GLM-5.2 is the step change for open agents — Interconnects argues that GLM-5.2 is the first open-weight model that feels credible as a general coding agent in real coding harnesses.
+• Import AI: Import AI 462: Superpersuasion and self-improving AI — Important policy context, but less directly actionable than today’s engineering stories.
+
+✨ Featured expressions: falls squarely on, the heavy lifting, pricing power (and alternatives in show notes)
+🔑 Key terms: vulnerability remediation /ˌvʌlnərəˈbɪləti rɪˌmiːdiˈeɪʃən/, open-weight model /ˌoʊpən weɪt ˈmɑːdəl/, agentic workflow /eɪˈdʒentɪk ˈwɝːkfloʊ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-23</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-23/podcast.mp3" length="8604717" type="audio/mpeg"/>
+      <itunes:duration>08:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/22</title>
       <description>Today's framework: PREP — State the point, explain the reason, give examples, then restate the point clearly.
 
