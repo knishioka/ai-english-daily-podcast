@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/24</title>
+      <description>Today's framework: Before → After → Bridge — Contrast the previous working model with the emerging one, then explain the bridge leaders should build next.
+
+📰 Stories covered:
+• Anthropic: Introducing Claude Tag — Anthropic introduced Claude Tag.
+• Mistral AI: Mistral OCR 4: SOTA OCR for Document Intelligence — Mistral released OCR 4 for document intelligence.
+• Hugging Face: Shipping huggingface_hub every week with AI, open tools, and a human in the loop — Hugging Face described how it moved huggingface_hub from 4-to-6-week releases to weekly releases using AI.
+• GitHub Blog: Copilot CLI: New terminal interface is generally available — GitHub made the redesigned Copilot CLI terminal interface generally available.
+• AWS Machine Learning Blog: Build a protein research copilot with Amazon Bedrock AgentCore — AWS published a technical guide for a protein research copilot built with Amazon Bedrock AgentCore and Strands Agents..
+
+✨ Featured expressions: operated in a silo, stitching together disparate components, pushing the boundaries (and alternatives in show notes)
+🔑 Key terms: document intelligence //ˈdɑːkjəmənt ɪnˈtelɪdʒəns//, bounding boxes //ˈbaʊndɪŋ ˌbɑːksɪz//, human checkpoint //ˈhjuːmən ˈtʃekpɔɪnt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-24</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-24/podcast.mp3" length="8320173" type="audio/mpeg"/>
+      <itunes:duration>08:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/23</title>
       <description>Today's framework: Problem → Solution → Impact — Frame the business pain, explain the proposed response, then make the practical consequence clear.
 
