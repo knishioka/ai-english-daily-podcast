@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/25</title>
+      <description>Today's framework: What -&gt; So What -&gt; Now What — State what changed, explain why it matters, then turn it into practical next steps.
+
+📰 Stories covered:
+• Mistral AI: Bringing more control over your connectors — Mistral introduced enriched admin controls, connector-scoped API keys, multi-account connectors, a public-preview debugger.
+• OpenAI Developers: Mastering Codex Remote for engineering — OpenAI published a field guide for Codex Remote, framing the phone as a control plane for starting, steering, reviewing, a.
+• Modal: Introducing Modal Auto Endpoints: Optimized inference you actually own — Modal launched Auto Endpoints, a self-serve way to deploy OpenAI-compatible production inference services for frontier ope.
+• Hugging Face / NVIDIA: Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel — Hugging Face and NVIDIA described how NeMo AutoModel builds on Transformers v5 to speed mixture-of-experts fine-tuning wit.
+• Hugging Face / IBM Research: Build real agentic apps using CUGA: two dozen working examples on a lightweight harness — IBM Research published two dozen example apps for CUGA, a lightweight agent harness that handles planning, execution loops.
+
+✨ Featured expressions: becoming operational systems, the control surface, a workflow discipline (and alternatives in show notes)
+🔑 Key terms: control plane //kənˈtroʊl pleɪn//, connector-scoped API key //kəˈnɛktər skoʊpt ˌeɪ piː ˈaɪ kiː//, inference service //ˈɪnfərəns ˈsɝːvɪs//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 25 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-25</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-25/podcast.mp3" length="6552237" type="audio/mpeg"/>
+      <itunes:duration>06:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/24</title>
       <description>Today's framework: Before → After → Bridge — Contrast the previous working model with the emerging one, then explain the bridge leaders should build next.
 
