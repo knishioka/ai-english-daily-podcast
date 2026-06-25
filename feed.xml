@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/26</title>
+      <description>Today's framework: Situation→Complication→Resolution — Frame the context, explain the tension, then close with the practical resolution.
+
+📰 Stories covered:
+• Vercel Blog: AI SDK 7 is now available — Vercel released AI SDK 7 with production-oriented agent features: reasoning control, typed tool context, provider files, skills support, MCP Apps, durable WorkflowAgent runs, approvals, telemetry, voice, and video generation.
+• Hugging Face Blog: Run a vLLM Server on HF Jobs in One Command — Hugging Face published a guide showing how to spin up a private, OpenAI-compatible vLLM endpoint on HF Jobs with one command, pay-per-second billing, exposed endpoints, and optional use as a coding-agent backend.
+• Hugging Face Blog / Ai2: Which tokens does a hybrid model predict better? — Ai2 compared Olmo 3 and Olmo Hybrid at the token level and found the hybrid model was stronger on meaning-bearing and context-evolving tokens, while transformers stayed stronger at verbatim recall.
+
+✨ Featured expressions: the infrastructure around agents becoming more mature, the requirements multiply quickly, the tool lowers the starting cost (and alternatives in show notes)
+🔑 Key terms: agent runtime /ˈeɪdʒənt ˈrʌnˌtaɪm/, tool approval /tuːl əˈpruːvəl/, connector governance /kəˈnɛktər ˈɡʌvərnəns/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 26 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-26</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-26/podcast.mp3" length="7472685" type="audio/mpeg"/>
+      <itunes:duration>07:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/25</title>
       <description>Today's framework: What -&gt; So What -&gt; Now What — State what changed, explain why it matters, then turn it into practical next steps.
 
