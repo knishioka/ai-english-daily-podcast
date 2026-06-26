@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/27</title>
+      <description>Today's framework: PREP — Point → Reason → Example → Point: lead with the takeaway, support it, illustrate it, then land the message again.
+
+📰 Stories covered:
+• OpenAI: How agents are transforming work — Codex shows agents becoming delegated work, not just chat.
+• Google Research: Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction — Pixel Gemini Nano gets faster through frozen Multi-Token Prediction.
+• AWS Machine Learning Blog: Building agentic AI applications with a modern data mesh strategy on AWS — AWS covers governed data access and Blackwell training optimization.
+• AWS Machine Learning Blog: Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell — AWS covers governed data access and Blackwell training optimization.
+• LangChain: LangChain Newsletter — Fleet On-Call Copilot, Deep Agents Rubrics, and More — LangSmith updates focus on evals, deployment, monitoring, and production agents.
+
+✨ Featured expressions: the unit of work itself, delegated labor, the competitive center (and alternatives in show notes)
+🔑 Key terms: agentic AI /ˌeɪˈdʒentɪk ˌeɪ ˈaɪ/, Multi-Token Prediction /ˈmʌlti ˈtoʊkən prɪˈdɪkʃən/, drafter head /ˈdræftər hɛd/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-27</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-27/podcast.mp3" length="8428845" type="audio/mpeg"/>
+      <itunes:duration>08:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/26</title>
       <description>Today's framework: Situation→Complication→Resolution — Frame the context, explain the tension, then close with the practical resolution.
 
