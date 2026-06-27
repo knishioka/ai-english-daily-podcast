@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/28</title>
+      <description>Today's framework: What → So What → Now What — State what changed, explain the business significance, then turn it into a practical next step.
+
+📰 Stories covered:
+• OpenAI Developers: Making private MCP servers reachable without making them public — OpenAI described Secure MCP Tunnel, an outbound-only client that lets ChatGPT, Codex, and other OpenAI products reach private MCP servers while the servers remain inside the customer network.
+• LangChain Blog: Prompt Caching with Deep Agents — LangChain published guidance on using prompt caching inside Deep Agents so repeated context, instructions, and tool scaffolding can be reused across agent turns.
+• The Batch: A New Generation Studies AI, Apple's Recipe for On-Device Models, GLM5.2 Tackles Open-Ended Problems — The Batch covered several AI developments, including GLM5.2 performance on open-ended agentic tasks, Apple research on on-device models, and growing student demand for AI education.
+
+✨ Featured expressions: The critical aspect here is, Put differently, a direct pathway to (and alternatives in show notes)
+🔑 Key terms: outbound-only client //ˈaʊt.baʊnd ˈoʊn.li ˈklaɪ.ənt//, private MCP servers //ˈpraɪ.vət ˌem siː ˈpiː ˈsɝː.vɚz//, prompt caching //prɑːmpt ˈkæʃ.ɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sun, 28 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-28</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-28/podcast.mp3" length="8344365" type="audio/mpeg"/>
+      <itunes:duration>08:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/27</title>
       <description>Today's framework: PREP — Point → Reason → Example → Point: lead with the takeaway, support it, illustrate it, then land the message again.
 
