@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/29</title>
+      <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: state the takeaway, explain why, ground it in evidence, then restate the action-oriented point.
+
+📰 Stories covered:
+• OpenAI: Previewing GPT-5.6 Sol: a next-generation model — OpenAI began a limited preview of GPT-5.6 Sol, Terra, and Luna, with Sol positioned as the flagship, Terra as the balanced work model, and Luna as the fast, low-cost option.
+• OpenAI Deployment Safety Hub: GPT-5.6 Preview System Card — OpenAI published safety and preparedness details for the GPT-5.6 preview, including cyber evaluations, safeguard layers, and benchmark results for Sol, Terra, and Luna.
+• Vercel: AI SDK 7 is now available — Vercel released AI SDK 7 with features for building and running production agents, including reasoning control, tool context, MCP Apps support, durable WorkflowAgent runs, sandbox support, telemetry, realtime voice, and video generation.
+• DeepLearning.AI The Batch: A New Generation Studies AI, Apple's Recipe for On-Device Models, GLM5.2 Tackles Open-Ended Problems — The Batch covered a fresh set of AI developments including a new generation studying AI, Apple's on-device model recipe, and GLM5.2 work on open-ended problems.
+
+✨ Featured expressions: operationally sound, withstand the rigors of real-world operations, security-first mindset (and alternatives in show notes)
+🔑 Key terms: frontier models /ˈfrʌn.tɪr ˈmɑː.dəlz/, deployment governance /dɪˈplɔɪ.mənt ˈɡʌv.ɚ.nəns/, sandbox support /ˈsænd.bɑːks səˈpɔːrt/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 29 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-29</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-29/podcast.mp3" length="5926317" type="audio/mpeg"/>
+      <itunes:duration>06:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/28</title>
       <description>Today's framework: What → So What → Now What — State what changed, explain the business significance, then turn it into a practical next step.
 
