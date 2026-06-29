@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 06/30</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the core challenge, explain the response, then make the business impact explicit.
+
+📰 Stories covered:
+• LangChain: Introducing Dynamic Subagents in Deep Agents — LangChain introduced dynamic subagents, where an agent writes a short orchestration script to launch and coordinate many subagents instead of relying on one tool call at a time.
+• Cursor: Cursor Mobile App for iOS — Cursor launched an iOS public beta for paid plans, letting users launch cloud agents, remote-control desktop sessions, receive push notifications, review artifacts, and merge pull requests from a phone.
+• Vercel: Build realtime voice agents on AI Gateway — Vercel added audio and voice support to AI Gateway, including realtime voice, text to speech, and speech to text through AI SDK 7.
+• OpenAI: How HP is scaling early AI wins across the enterprise — OpenAI says HP will scale its OpenAI Frontier partnership after pilots across customer experience, telemetry, employee productivity, security, and software development showed measurable workflow gains.
+• Hugging Face / Ai2: DiScoFormer: One transformer for density and score, across distributions — Ai2 introduced DiScoFormer, a transformer that estimates both density and score for a distribution from data points in a single forward pass without retraining.
+
+✨ Featured expressions: The common thread is, Put differently, To put that in context (and alternatives in show notes)
+🔑 Key terms: dynamic subagents /daɪˈnæmɪk ˈsʌbˌeɪdʒənts/, orchestration /ˌɔːrkəˈstreɪʃən/, cloud agents /klaʊd ˈeɪdʒənts/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-06-30</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-30/podcast.mp3" length="5885997" type="audio/mpeg"/>
+      <itunes:duration>06:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/29</title>
       <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: state the takeaway, explain why, ground it in evidence, then restate the action-oriented point.
 
