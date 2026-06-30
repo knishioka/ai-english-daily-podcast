@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/01</title>
+      <description>Today's framework: Before → After → Bridge — Show the previous state, the new state, and the practical path connecting them.
+
+📰 Stories covered:
+• Anthropic: Claude Sonnet 5 — Anthropic positioned Sonnet 5 for coding, agentic tasks, and scaled professional work.
+• Google AI: Gemini Omni Flash + Flash Lite Image — Google previewed fast video generation and made a low-latency image model GA.
+• AWS: Bedrock AgentCore + AG-UI — AWS showed how to build real-time generative interfaces for production agents.
+• GitHub: Copilot model and agent updates — GitHub added Sonnet 5 to Copilot and brought Copilot Agent to JetBrains AI Assistant.
+• Meta AI: Brain2Qwerty v2 — Meta shared non-invasive brain-to-text research plus code and dataset releases.
+
+✨ Featured expressions: the gap is narrowing, packaged closer to where people actually work, raw model benchmarks (and alternatives in show notes)
+🔑 Key terms: agentic tasks, multimodal generation, runtime isolation
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-01</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-01/podcast.mp3" length="5625645" type="audio/mpeg"/>
+      <itunes:duration>05:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 06/30</title>
       <description>Today's framework: Problem → Solution → Impact — Frame the core challenge, explain the response, then make the business impact explicit.
 
