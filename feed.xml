@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/02</title>
+      <description>Today's framework: What → So What → Now What — Move from the facts, to their business implications, to the next practical actions.
+
+📰 Stories covered:
+• Anthropic News: Redeploying Claude Fable 5 — Anthropic said Claude Fable 5 access is being restored globally after export controls were lifted, and described updated safety-classifier work for cybersecurity requests.
+• xAI News: Introducing the Voice Agent Builder — xAI announced Voice Agent Builder in beta, a no-code platform for configuring production voice agents on Grok Voice in under two minutes.
+• GitHub Changelog: Copilot vision is generally available — GitHub made Copilot vision generally available, allowing users to attach images and PDFs to chat prompts across VS Code, github.
+• Cursor Changelog: MCPs and Organizations in Team Marketplaces — Cursor expanded team marketplaces to support Team MCP servers and organization groups, letting admins distribute approved integrations across cloud agents, IDE, CLI, and the agents window.
+• Hugging Face Blog: Hugging Face and Cerebras bring Gemma 4 to real-time voice AI — Hugging Face and Cerebras demonstrated an open, cascaded speech-to-speech stack using Gemma 4 and fast inference for real-time voice AI.
+
+✨ Featured expressions: the interface is expanding, not a static assumption, close the gap between (and alternatives in show notes)
+🔑 Key terms: safety classifier /ˈseɪfti ˈklæsɪfaɪər/, voice agent /vɔɪs ˈeɪdʒənt/, no-code /ˌnoʊ ˈkoʊd/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Thu, 02 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-02</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-02/podcast.mp3" length="6389805" type="audio/mpeg"/>
+      <itunes:duration>06:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/01</title>
       <description>Today's framework: Before → After → Bridge — Show the previous state, the new state, and the practical path connecting them.
 
