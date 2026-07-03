@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/04</title>
+      <description>Today's framework: What → So What → Now What — State what changed, explain why it matters, then define the next action.
+
+📰 Stories covered:
+• Anthropic News: More details on Fable 5’s cyber safeguards and our jailbreak framework — Anthropic said Claude Fable 5 has been redeployed globally and published details on stronger cyber safeguards and a jailbreak framework after reviewing a reported bypass with government and industry partners.
+• Mistral AI: Leanstral 1.5: Proof Abundance for All — Mistral released Leanstral 1.5, an Apache-2.0 model for Lean 4 proof engineering that reports 6B active parameters, strong benchmark results, and real-world bug discovery across tested repositories.
+• xAI News: Introducing the Voice Agent Builder — xAI introduced Voice Agent Builder in beta, a no-code platform for production voice agents with telephony, retrieval, tools, guardrails, MCPs, and observability in one interface.
+• GitHub Changelog: Browser tools for GitHub Copilot in VS Code are generally available — GitHub made Copilot browser tools generally available in VS Code, letting agents open pages, click, type, read page content, capture console errors, and take screenshots while preserving user and enterprise controls.
+• Latent Space: AIEWF Daily Dispatch: The great loops debate and the state of AI engineering — Latent Space reported Amplify survey findings from AI Engineer World’s Fair: 95% of respondents use agents, 89% say agents can write data, and many teams still rely on basic human approvals and permissions as controls.
+
+✨ Featured expressions: operational responsibility, part of the runtime architecture, the practical baggage that comes with that shift (and alternatives in show notes)
+🔑 Key terms: safety classifier //ˈseɪfti ˈklæsɪfaɪər//, formal proof //ˈfɔːrməl pruːf//, speech-to-speech path //spiːtʃ tə spiːtʃ pæθ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 04 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-04</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-04/podcast.mp3" length="7454253" type="audio/mpeg"/>
+      <itunes:duration>07:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/03</title>
       <description>Today's framework: Situation→Complication→Resolution — Set the context, explain the tension, then present the practical resolution.
 
