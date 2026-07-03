@@ -8,6 +8,7 @@ Usage:
 """
 
 import argparse
+import email.utils
 import re
 import sys
 from datetime import datetime, timezone, timedelta
@@ -52,11 +53,21 @@ def slug_from_guid(guid: str) -> str:
     return guid.replace("ai-english-daily-", "", 1)
 
 
-def parse_guid_date(guid: str) -> str:
+def parse_guid_date(guid: str) -> Optional[str]:
     match = re.match(r"ai-english-daily-(\d{4}-\d{2}-\d{2})", guid)
-    if not match:
-        raise ValueError(f"Unexpected guid format: {guid}")
-    return match.group(1)
+    if match:
+        return match.group(1)
+    return None
+
+
+def parse_pubdate(pub_date: str) -> Optional[str]:
+    """Best-effort YYYY-MM-DD from an RFC 822 pubDate; None if unparseable."""
+    if not pub_date:
+        return None
+    try:
+        return email.utils.parsedate_to_datetime(pub_date).strftime("%Y-%m-%d")
+    except (TypeError, ValueError):
+        return None
 
 
 def description_lines(description: str) -> list[str]:
@@ -71,10 +82,13 @@ def first_matching_line(lines: list[str], prefix: str) -> Optional[str]:
 
 
 def summary_from_description(description: str) -> str:
-    for line in description_lines(description):
-        if ":" in line:
-            return line
-    return description.strip()
+    lines = description_lines(description)
+    if not lines:
+        return ""
+    framework = first_matching_line(lines, "Today's framework:")
+    if framework:
+        return framework
+    return lines[0]
 
 
 def trim_summary(text: str, limit: int = 220) -> str:
@@ -96,24 +110,33 @@ def parse_feed_items(limit: int = ARCHIVE_LIMIT) -> list[dict[str, str]]:
         raise ValueError("RSS channel element not found")
 
     items: list[dict[str, str]] = []
-    for item in channel.findall("item")[:limit]:
+    for item in channel.findall("item"):
+        if len(items) >= limit:
+            break
         guid = item.findtext("guid", default="")
+        date_str = parse_guid_date(guid) or parse_pubdate(
+            item.findtext("pubDate", default="")
+        )
+        if not date_str:
+            # No usable date from guid or pubDate — skip rather than crash the
+            # daily update flow on an unexpected item.
+            continue
+
         description = item.findtext("description", default="")
         lines = description_lines(description)
         enclosure = item.find("enclosure")
         duration = item.findtext(f"{{{ITUNES_NS}}}duration", default="")
-        date_str = parse_guid_date(guid)
         items.append(
             {
                 "title": item.findtext("title", default="Untitled episode"),
                 "date": date_str,
                 "formatted_date": format_date(date_str),
-                "guid_slug": slug_from_guid(guid),
+                "guid_slug": slug_from_guid(guid) or date_str,
                 "description": description,
                 "summary": trim_summary(summary_from_description(description)),
-                "framework": first_matching_line(lines, "Today's framework:"),
-                "key_terms": first_matching_line(lines, "🔑 Key terms:"),
-                "practice_tip": first_matching_line(lines, "🎓 Practice tip:"),
+                "framework": first_matching_line(lines, "Today's framework:") or "",
+                "key_terms": first_matching_line(lines, "🔑 Key terms:") or "",
+                "practice_tip": first_matching_line(lines, "🎓 Practice tip:") or "",
                 "audio_url": ""
                 if enclosure is None
                 else enclosure.attrib.get("url", ""),
@@ -124,17 +147,32 @@ def parse_feed_items(limit: int = ARCHIVE_LIMIT) -> list[dict[str, str]]:
 
 
 def render_episode_card(item: dict[str, str]) -> str:
-    framework = strip_prefix(item["framework"], "Today's framework:") if item["framework"] else ""
-    key_terms = strip_prefix(item["key_terms"], "🔑 Key terms:") if item["key_terms"] else ""
-    practice_tip = strip_prefix(item["practice_tip"], "🎓 Practice tip:") if item["practice_tip"] else ""
+    framework = (
+        strip_prefix(item["framework"], "Today's framework:")
+        if item["framework"]
+        else ""
+    )
+    key_terms = (
+        strip_prefix(item["key_terms"], "🔑 Key terms:") if item["key_terms"] else ""
+    )
+    practice_tip = (
+        strip_prefix(item["practice_tip"], "🎓 Practice tip:")
+        if item["practice_tip"]
+        else ""
+    )
     parts = [
         '      <article class="episode-card">',
         "        <header>",
         f'          <p class="episode-date">{escape(item["formatted_date"])}</p>',
         f'          <h3 id="{escape(item["guid_slug"])}">{escape(item["title"])}</h3>',
         "        </header>",
-        f'        <p class="episode-summary">{escape(item["summary"])}</p>',
     ]
+    # Skip the summary when it just repeats the framework line, which is already
+    # rendered as its own labeled chip below.
+    if item["summary"] and item["summary"] != item["framework"]:
+        parts.append(
+            f'        <p class="episode-summary">{escape(item["summary"])}</p>'
+        )
     if item["framework"]:
         parts.append(
             f'        <p class="study-chip"><strong>Framework</strong> {escape(framework)}</p>'
@@ -150,7 +188,7 @@ def render_episode_card(item: dict[str, str]) -> str:
     parts.extend(
         [
             '        <p class="episode-meta">',
-            f'          <span>{escape(item["duration"] or "Duration n/a")}</span>',
+            f"          <span>{escape(item['duration'] or 'Duration n/a')}</span>",
             f'          <a href={attr(item["audio_url"])} target="_blank" rel="noreferrer">Listen to audio</a>',
             "        </p>",
             "      </article>",

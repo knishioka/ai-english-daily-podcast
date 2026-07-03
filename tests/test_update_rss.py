@@ -106,6 +106,57 @@ class UpdateRssTests(unittest.TestCase):
             self.assertIn("AI English Daily — 04/27", html)
             self.assertNotIn("AI English Daily — 04/28", html)
 
+    def test_parse_guid_date_returns_none_for_unexpected_format(self):
+        self.assertEqual(
+            self.update_rss.parse_guid_date("ai-english-daily-2026-04-14"),
+            "2026-04-14",
+        )
+        self.assertIsNone(self.update_rss.parse_guid_date("legacy-episode-42"))
+
+    def test_parse_feed_items_falls_back_to_pubdate_and_skips_undated(self):
+        pubdate = self.update_rss.rfc822("2026-04-20")
+        good_item = (
+            "    <item>\n"
+            "      <title>Legacy guid, dated by pubDate</title>\n"
+            "      <description>Today's framework: A → B → C</description>\n"
+            f"      <pubDate>{pubdate}</pubDate>\n"
+            '      <guid isPermaLink="false">legacy-episode</guid>\n'
+            "    </item>"
+        )
+        undated_item = (
+            "    <item>\n"
+            "      <title>No date anywhere</title>\n"
+            "      <description>Orphan</description>\n"
+            '      <guid isPermaLink="false">legacy-orphan</guid>\n'
+            "    </item>"
+        )
+        feed_xml = build_feed_xml([good_item, undated_item])
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            feed = Path(tmpdir) / "feed.xml"
+            feed.write_text(feed_xml, encoding="utf-8")
+            original_feed = self.update_rss.FEED
+            try:
+                self.update_rss.FEED = feed
+                items = self.update_rss.parse_feed_items()
+            finally:
+                self.update_rss.FEED = original_feed
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["date"], "2026-04-20")
+        self.assertEqual(items[0]["guid_slug"], "legacy-episode")
+
+    def test_summary_prefers_framework_over_metadata_lines(self):
+        description = (
+            "An intro line without a colon\n"
+            "Sources: example.com\n"
+            "Today's framework: Before → After → Bridge"
+        )
+        self.assertEqual(
+            self.update_rss.summary_from_description(description),
+            "Today's framework: Before → After → Bridge",
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
