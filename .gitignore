@@ -2,3 +2,5 @@
 *.wav
 *.m4a
 .DS_Store
+__pycache__/
+*.pyc

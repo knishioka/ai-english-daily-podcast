@@ -2,34 +2,367 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>AI English Daily</title>
     <style>
+      :root {
+        color-scheme: light;
+        --bg: #f7f4ed;
+        --ink: #1f2933;
+        --muted: #52606d;
+        --card: #fffdf8;
+        --line: #d7d0c3;
+        --accent: #154b4a;
+        --accent-soft: #deefe9;
+      }
+      * {
+        box-sizing: border-box;
+      }
       body {
-        font-family: -apple-system, sans-serif;
-        max-width: 640px;
-        margin: 3em auto;
-        padding: 0 1em;
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        background:
+          radial-gradient(circle at top right, #efe7d6 0, transparent 28%),
+          linear-gradient(180deg, #f7f4ed 0%, #f4efe4 100%);
+        color: var(--ink);
+      }
+      main {
+        max-width: 880px;
+        margin: 0 auto;
+        padding: 32px 20px 56px;
+      }
+      .hero {
+        background: rgba(255, 253, 248, 0.92);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        padding: 28px;
+        box-shadow: 0 18px 50px rgba(31, 41, 51, 0.08);
+      }
+      .eyebrow {
+        margin: 0 0 10px;
+        color: var(--accent);
+        font: 600 0.8rem/1.2 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+      }
+      h1, h2, h3 {
+        margin: 0;
+      }
+      h1 {
+        font-size: clamp(2.2rem, 5vw, 3.6rem);
+        line-height: 1.05;
+      }
+      .lead {
+        margin: 16px 0 0;
+        font-size: 1.08rem;
+        line-height: 1.75;
+        color: var(--muted);
+      }
+      .subscribe-box {
+        margin-top: 24px;
+        padding: 18px;
+        border-radius: 18px;
+        background: var(--accent-soft);
+      }
+      .feed-url {
+        display: inline-block;
+        margin-top: 10px;
+        padding: 10px 12px;
+        border-radius: 12px;
+        background: #fff;
+        color: var(--accent);
+        font: 600 0.92rem/1.4 "SFMono-Regular", Menlo, monospace;
+        overflow-wrap: anywhere;
+      }
+      .archive-header {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        align-items: end;
+        margin: 34px 0 18px;
+      }
+      .archive-copy {
+        max-width: 50ch;
+        color: var(--muted);
+        line-height: 1.65;
+      }
+      .episode-grid {
+        display: grid;
+        gap: 16px;
+      }
+      .episode-card {
+        padding: 20px;
+        border-radius: 20px;
+        background: var(--card);
+        border: 1px solid var(--line);
+        box-shadow: 0 10px 28px rgba(31, 41, 51, 0.05);
+      }
+      .episode-date {
+        margin: 0 0 8px;
+        color: var(--accent);
+        font: 600 0.78rem/1.3 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+      .episode-card h3 {
+        font-size: 1.35rem;
+        line-height: 1.25;
+      }
+      .episode-summary {
+        margin: 14px 0 0;
+        color: var(--muted);
+        line-height: 1.72;
+      }
+      .study-chip {
+        margin: 12px 0 0;
+        padding: 10px 12px;
+        border-radius: 14px;
+        background: #f3efe6;
         line-height: 1.6;
       }
-      code {
-        background: #f4f4f4;
-        padding: 2px 6px;
-        border-radius: 3px;
+      .study-chip strong {
+        color: var(--accent);
+        margin-right: 8px;
+      }
+      .episode-meta {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 16px 0 0;
+        color: var(--muted);
+        font: 600 0.94rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      a {
+        color: var(--accent);
+      }
+      @media (max-width: 640px) {
+        main {
+          padding: 20px 14px 40px;
+        }
+        .hero {
+          padding: 22px 18px;
+        }
+        .archive-header {
+          display: block;
+        }
       }
     </style>
   </head>
   <body>
-    <h1>AI English Daily</h1>
-    <p>
-      A private podcast: daily AI news delivered as business English
-      presentations.
-    </p>
-    <h2>Subscribe</h2>
-    <p>
-      Copy this URL into your podcast app (Apple Podcasts → Library → Add URL):
-    </p>
-    <p>
-      <code>https://knishioka.github.io/ai-english-daily-podcast/feed.xml</code>
-    </p>
+    <main>
+      <section class="hero">
+        <p class="eyebrow">Daily Business English</p>
+        <h1>AI English Daily</h1>
+        <p class="lead">
+          Daily AI news as short business-English listening practice. Use the latest
+          episodes for shadowing, vocabulary review, and presentation-pattern repetition.
+        </p>
+        <div class="subscribe-box">
+          <h2>Subscribe</h2>
+          <p class="archive-copy">
+            Apple Podcasts → Library → “…” → Add a Show by URL, then paste this feed:
+          </p>
+          <span class="feed-url">https://knishioka.github.io/ai-english-daily-podcast/feed.xml</span>
+        </div>
+      </section>
+
+      <section aria-labelledby="recent-episodes">
+        <div class="archive-header">
+          <div>
+            <h2 id="recent-episodes">Recent Episodes</h2>
+            <p class="archive-copy">
+              The latest 14 episodes are shown here so you can quickly pick one
+              by framework, key terms, or practice tip before listening.
+            </p>
+          </div>
+        </div>
+        <div class="episode-grid">
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jul 04, 2026</p>
+          <h3 id="2026-07-04">AI English Daily — 07/04</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> What → So What → Now What — State what changed, explain why it matters, then define the next action.</p>
+        <p class="study-chip"><strong>Key terms</strong> safety classifier //ˈseɪfti ˈklæsɪfaɪər//, formal proof //ˈfɔːrməl pruːf//, speech-to-speech path //spiːtʃ tə spiːtʃ pæθ//</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>07:46</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-04/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jul 03, 2026</p>
+          <h3 id="2026-07-03">AI English Daily — 07/03</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> Situation→Complication→Resolution — Set the context, explain the tension, then present the practical resolution.</p>
+        <p class="study-chip"><strong>Key terms</strong> computational biology /ˌkɑːmpjəˈteɪʃənəl baɪˈɑːlədʒi/, benchmark /ˈbentʃmɑːrk/, inference /ˈɪnfərəns/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>08:58</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-03/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jul 02, 2026</p>
+          <h3 id="2026-07-02">AI English Daily — 07/02</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> What → So What → Now What — Move from the facts, to their business implications, to the next practical actions.</p>
+        <p class="study-chip"><strong>Key terms</strong> safety classifier /ˈseɪfti ˈklæsɪfaɪər/, voice agent /vɔɪs ˈeɪdʒənt/, no-code /ˌnoʊ ˈkoʊd/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>06:39</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-02/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jul 01, 2026</p>
+          <h3 id="2026-07-01">AI English Daily — 07/01</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> Before → After → Bridge — Show the previous state, the new state, and the practical path connecting them.</p>
+        <p class="study-chip"><strong>Key terms</strong> agentic tasks, multimodal generation, runtime isolation</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>05:52</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-01/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 30, 2026</p>
+          <h3 id="2026-06-30">AI English Daily — 06/30</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> Problem → Solution → Impact — Frame the core challenge, explain the response, then make the business impact explicit.</p>
+        <p class="study-chip"><strong>Key terms</strong> dynamic subagents /daɪˈnæmɪk ˈsʌbˌeɪdʒənts/, orchestration /ˌɔːrkəˈstreɪʃən/, cloud agents /klaʊd ˈeɪdʒənts/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>06:08</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-30/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 29, 2026</p>
+          <h3 id="2026-06-29">AI English Daily — 06/29</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> PREP — Point -&gt; Reason -&gt; Example -&gt; Point: state the takeaway, explain why, ground it in evidence, then restate the action-oriented point.</p>
+        <p class="study-chip"><strong>Key terms</strong> frontier models /ˈfrʌn.tɪr ˈmɑː.dəlz/, deployment governance /dɪˈplɔɪ.mənt ˈɡʌv.ɚ.nəns/, sandbox support /ˈsænd.bɑːks səˈpɔːrt/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>06:10</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-29/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 28, 2026</p>
+          <h3 id="2026-06-28">AI English Daily — 06/28</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> What → So What → Now What — State what changed, explain the business significance, then turn it into a practical next step.</p>
+        <p class="study-chip"><strong>Key terms</strong> outbound-only client //ˈaʊt.baʊnd ˈoʊn.li ˈklaɪ.ənt//, private MCP servers //ˈpraɪ.vət ˌem siː ˈpiː ˈsɝː.vɚz//, prompt caching //prɑːmpt ˈkæʃ.ɪŋ//</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>08:41</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-28/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 27, 2026</p>
+          <h3 id="2026-06-27">AI English Daily — 06/27</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> PREP — Point → Reason → Example → Point: lead with the takeaway, support it, illustrate it, then land the message again.</p>
+        <p class="study-chip"><strong>Key terms</strong> agentic AI /ˌeɪˈdʒentɪk ˌeɪ ˈaɪ/, Multi-Token Prediction /ˈmʌlti ˈtoʊkən prɪˈdɪkʃən/, drafter head /ˈdræftər hɛd/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>08:47</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-27/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 26, 2026</p>
+          <h3 id="2026-06-26">AI English Daily — 06/26</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> Situation→Complication→Resolution — Frame the context, explain the tension, then close with the practical resolution.</p>
+        <p class="study-chip"><strong>Key terms</strong> agent runtime /ˈeɪdʒənt ˈrʌnˌtaɪm/, tool approval /tuːl əˈpruːvəl/, connector governance /kəˈnɛktər ˈɡʌvərnəns/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>07:47</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-26/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 25, 2026</p>
+          <h3 id="2026-06-25">AI English Daily — 06/25</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> What -&gt; So What -&gt; Now What — State what changed, explain why it matters, then turn it into practical next steps.</p>
+        <p class="study-chip"><strong>Key terms</strong> control plane //kənˈtroʊl pleɪn//, connector-scoped API key //kəˈnɛktər skoʊpt ˌeɪ piː ˈaɪ kiː//, inference service //ˈɪnfərəns ˈsɝːvɪs//</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>06:49</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-25/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 24, 2026</p>
+          <h3 id="2026-06-24">AI English Daily — 06/24</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> Before → After → Bridge — Contrast the previous working model with the emerging one, then explain the bridge leaders should build next.</p>
+        <p class="study-chip"><strong>Key terms</strong> document intelligence //ˈdɑːkjəmənt ɪnˈtelɪdʒəns//, bounding boxes //ˈbaʊndɪŋ ˌbɑːksɪz//, human checkpoint //ˈhjuːmən ˈtʃekpɔɪnt//</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>08:40</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-24/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 23, 2026</p>
+          <h3 id="2026-06-23">AI English Daily — 06/23</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> Problem → Solution → Impact — Frame the business pain, explain the proposed response, then make the practical consequence clear.</p>
+        <p class="study-chip"><strong>Key terms</strong> vulnerability remediation /ˌvʌlnərəˈbɪləti rɪˌmiːdiˈeɪʃən/, open-weight model /ˌoʊpən weɪt ˈmɑːdəl/, agentic workflow /eɪˈdʒentɪk ˈwɝːkfloʊ/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>08:58</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-23/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 22, 2026</p>
+          <h3 id="2026-06-22">AI English Daily — 06/22</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> PREP — State the point, explain the reason, give examples, then restate the point clearly.</p>
+        <p class="study-chip"><strong>Key terms</strong> persistent environments /pərˈsɪstənt ɪnˈvaɪrənmənts/, orchestration /ˌɔːrkəˈstreɪʃən/, governance /ˈɡʌvərnəns/</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>07:12</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-22/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+      <article class="episode-card">
+        <header>
+          <p class="episode-date">Jun 21, 2026</p>
+          <h3 id="2026-06-21">AI English Daily — 06/21</h3>
+        </header>
+        <p class="study-chip"><strong>Framework</strong> Situation→Complication→Resolution — Set the context, explain the tension, then offer a practical way forward.</p>
+        <p class="study-chip"><strong>Key terms</strong> agent architecture //ˈeɪdʒənt ˈɑːrkɪtektʃər//, web grounding //web ˈɡraʊndɪŋ//, frontier model //ˈfrʌntɪr ˈmɑːdəl//</p>
+        <p class="study-chip"><strong>Practice tip</strong> try 0.7x-0.9x playback for shadowing.</p>
+        <p class="episode-meta">
+          <span>06:54</span>
+          <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-06-21/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
+        </p>
+      </article>
+        </div>
+      </section>
+    </main>
   </body>
 </html>
