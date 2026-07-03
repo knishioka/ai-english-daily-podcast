@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/03</title>
+      <description>Today's framework: Situation→Complication→Resolution — Set the context, explain the tension, then present the practical resolution.
+
+📰 Stories covered:
+• OpenAI: Introducing GeneBench-Pro — OpenAI introduced GeneBench-Pro, a research-level benchmark for testing whether AI agents can handle judgment-heavy computational biology analysis on realistic messy datasets.
+• OpenAI: How ChatGPT adoption has expanded — OpenAI published Signals consumer data showing ChatGPT adoption accelerating across regions, with especially fast relative growth in Africa and Asia.
+• GitHub Blog: GitHub Models is being fully retired on July 30, 2026 — GitHub announced that GitHub Models will be fully retired on July 30, 2026, including the playground, model catalog, inference API, and bring-your-own-key endpoints.
+
+✨ Featured expressions: sets the stage for, paint a picture of, grappling with how to (and alternatives in show notes)
+🔑 Key terms: computational biology /ˌkɑːmpjəˈteɪʃənəl baɪˈɑːlədʒi/, benchmark /ˈbentʃmɑːrk/, inference /ˈɪnfərəns/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 03 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-03</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-03/podcast.mp3" length="8615853" type="audio/mpeg"/>
+      <itunes:duration>08:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/02</title>
       <description>Today's framework: What → So What → Now What — Move from the facts, to their business implications, to the next practical actions.
 
