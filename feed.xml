@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/05</title>
+      <description>Today's framework: What -&gt; So What -&gt; Now What — State the update, explain the business impact, then recommend the next practical move.
+
+📰 Stories covered:
+• Latent Space: Vercel's Andrew Qu on why agents are a new kind of software — Latent Space interviewed Vercel Chief of Software Andrew Qu about why agents behave like a new form of software and why Vercel built eve around primitives such as skills, sandboxes, resumability, context, and long-running work.
+• Mistral AI: Leanstral 1.5: Proof Abundance for All — Mistral released Leanstral 1.
+• GitHub Blog: Kimi K2.7 Code is generally available in GitHub Copilot — GitHub made Kimi K2.
+
+✨ Featured expressions: moving beyond mere prompt engineering, lowers the barrier to entry, at the point of use (and alternatives in show notes)
+🔑 Key terms: AI agents /ˌeɪ ˈaɪ ˈeɪdʒənts/, proof-engineering model /pruːf ˌendʒəˈnɪrɪŋ ˈmɑːdəl/, formal verification /ˈfɔːrməl ˌverəfəˈkeɪʃən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Sun, 05 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-05</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-05/podcast.mp3" length="8165805" type="audio/mpeg"/>
+      <itunes:duration>08:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/04</title>
       <description>Today's framework: What → So What → Now What — State what changed, explain why it matters, then define the next action.
 
