@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/06</title>
+      <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: state the message, justify it, prove it, and restate the takeaway.
+
+📰 Stories covered:
+• Business Insider: Meta says its upcoming Watermelon model has caught up with OpenAI’s flagship model — Business Insider reported that Meta AI leader Alexandr Wang told employees an upcoming model, codenamed Watermelon, has matched OpenAI’s GPT-5.
+• AI Agent Store: ICML 2026 puts agentic AI at the center of ML research — A daily agent-news roundup said ICML 2026 opens July 6 in Seoul with unusually heavy emphasis on agentic AI workshops, including safety, uncertainty, and governance for autonomous agents.
+• Times of India: Anthropic export-control rollback coverage says no government equity stake is planned — Follow-up coverage said the US government lifted export bans on Anthropic’s Fable 5 and Mythos 5 without taking an ownership stake in Anthropic.
+
+✨ Featured expressions: strategic calculus, on par with, beholden to (and alternatives in show notes)
+🔑 Key terms: frontier model /ˈfrʌn.tɪr ˈmɑː.dəl/, export bans /ˈek.spɔːrt bænz/, agentic AI /eɪˈdʒen.tɪk ˌeɪˈaɪ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Mon, 06 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-06</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-06/podcast.mp3" length="7889325" type="audio/mpeg"/>
+      <itunes:duration>08:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/05</title>
       <description>Today's framework: What -&gt; So What -&gt; Now What — State the update, explain the business impact, then recommend the next practical move.
 
