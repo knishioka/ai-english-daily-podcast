@@ -23,6 +23,28 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/07</title>
+      <description>Today's framework: Problem → Solution → Impact — Frame the business challenge, explain the practical response, then make the consequences clear.
+
+📰 Stories covered:
+• Anthropic: Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems — Anthropic published a government case study: Alberta used Claude Code with Opus and Sonnet models to scan 466 million lines of code across provincial systems in about 20 hours, then fix and modernize vulnerable software with human review.
+• Google Developers Blog: We terminated a TPU mid-training and it recovered in seconds: Introduction to elastic training with MaxText — Google described elastic training with the JAX stack, MaxText, Pathways, Cloud TPUs, and GKE, showing a multi-node LLM training process recover in place after a worker failure without relaunching the main process.
+• Import AI: Import AI 464: Fables writes GPU kernels; AI automation; and analog computation — Import AI summarized new Remote Labor Index results showing frontier agents improving on end-to-end online freelance tasks, with reported success rising from 2.
+• GitHub Changelog: Kimi K2.7 Code is generally available in GitHub Copilot — GitHub made Kimi K2.
+• Vercel: AI SDK 7 is now available — Vercel released AI SDK 7 with production-oriented agent features, including reasoning control, typed tool context, provider files and skills support, MCP Apps, durable WorkflowAgent runs, approvals, sandboxing, telemetry, and experimental video generation.
+
+✨ Featured expressions: a host of challenges, harboring vulnerabilities, fraught with difficulties (and alternatives in show notes)
+🔑 Key terms: remediate /rɪˈmiː.di.eɪt/, bottleneck /ˈbɑː.t̬əl.nek/, elastic training /ɪˈlæs.tɪk ˈtreɪ.nɪŋ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+</description>
+      <pubDate>Tue, 07 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-07</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-07/podcast.mp3" length="8098605" type="audio/mpeg"/>
+      <itunes:duration>08:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/06</title>
       <description>Today's framework: PREP — Point -&gt; Reason -&gt; Example -&gt; Point: state the message, justify it, prove it, and restate the takeaway.
 
