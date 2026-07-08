@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/09</title>
+      <description>Today's framework: What→So What→Now What — State the update, explain why it matters, then translate it into concrete next actions.
+
+📰 Stories covered:
+• xAI: Introducing Grok 4.5 — launched Grok 4.5 for coding, agentic tasks, and knowledge work.
+• Meta AI: Introducing Muse Image and Muse Video — introduced Muse Image and previewed Muse Video with Arena ranking claims and Content Seal watermarking.
+• Hugging Face / NVIDIA: Data for Agents — argued that agent quality depends on open and synthetic data for traces, workflows, and evaluation.
+• AWS ML Blog: Securing Amazon Bedrock AgentCore Runtime with AWS WAF — shared two patterns for putting AWS WAF in front of Bedrock AgentCore Runtime.
+• GitHub Changelog: Kimi K2.7 now available for Copilot Business and Enterprise — expanded Kimi K2.7 to Copilot Business and Enterprise plans.
+
+✨ Featured expressions: the signal is that, the bottleneck is shifting from, Taken together (and alternatives in show notes)
+🔑 Key terms: agentic tasks //eɪˈdʒen.tɪk tæsks//, token efficiency //ˈtoʊ.kən ɪˈfɪʃ.ən.si//, provenance //ˈprɑː.vən.əns//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 09 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-09</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-09/podcast.mp3" length="6911277" type="audio/mpeg"/>
+      <itunes:duration>07:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/08</title>
       <description>Today's framework: Before → After → Bridge — Contrast the old constraints with the new capabilities, then explain the business bridge between them.
 
