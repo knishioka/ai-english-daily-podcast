@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/10</title>
+      <description>Today's framework: Situation→Complication→Resolution — Frame the current market context, the strategic tension, and the practical response.
+
+📰 Stories covered:
+• OpenAI: Introducing GPT-Live — OpenAI launched GPT-Live, a new generation of voice models for ChatGPT Voice using full-duplex interaction and delegation to frontier models for deeper work.
+• Meta AI: Introducing Muse Spark 1.1 — Meta introduced Muse Spark 1.1, a multimodal reasoning model for agentic tasks, coding, computer use, and long-context workflows, plus a public preview of the Meta Model API.
+• Mistral: Your Prompts and Skills need a system of record. — Mistral Studio added a system of record for prompts and skills so teams can version, own, trace, test, approve, and deploy AI instructions as production assets.
+• Meta AI: Introducing Muse Image and Muse Video — Meta announced image and video generation models with instruction following, editing, visual fidelity, and native audio support.
+
+✨ Featured expressions: moves closer to a live work interface, The practical readout is, turns prompt governance into a product surface (and alternatives in show notes)
+🔑 Key terms: full-duplex //ˌfʊl ˈduːpleks//, agentic tasks //eɪˈdʒentɪk tæsks//, system of record //ˈsɪstəm əv ˈrekərd//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 10 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-10</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-10/podcast.mp3" length="8125485" type="audio/mpeg"/>
+      <itunes:duration>08:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/09</title>
       <description>Today's framework: What→So What→Now What — State the update, explain why it matters, then translate it into concrete next actions.
 
