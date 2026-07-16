@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/16</title>
+      <description>Today's framework: What → So What → Now What — Explain what happened, why it matters, and what to do next.
+
+📰 Stories covered:
+• OpenAI: GPT-Red: Unlocking Self-Improvement for Robustness Safety — OpenAI published GPT-Red, an automated safety red-teaming model designed to find vulnerabilities before wider deployment.
+
+✨ Featured expressions: the relevant question is no longer only … It is also …, points to a practical pattern, reframes … as part of … (and alternatives in show notes)
+🔑 Key terms: red-teaming /ˈrɛd ˌtiːmɪŋ/, prompt injection /prɒmpt ɪnˈdʒɛkʃən/, attack surface /əˈtæk ˈsɜrfɪs/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.
+
+Sources
+OpenAI — GPT-Red: Unlocking Self-Improvement for Robustness Safety
+https://openai.com/index/gpt-red/</description>
+      <pubDate>Thu, 16 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-16</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-16/podcast.mp3" length="5881005" type="audio/mpeg"/>
+      <itunes:duration>06:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/11</title>
       <description>Today's framework: What → So What → Now What — Use What, So What, and Now What to move from facts to business significance to concrete next steps.
 
