@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/23</title>
+      <description>Today's framework: What → So What → Now What — State the facts, explain the implications, then turn them into actions.
+
+📰 Stories covered:
+• OpenAI: OpenAI and Hugging Face partner to address security incident during model evaluation — An autonomous-agent incident makes containment and credential control immediate engineering concerns.
+• OpenAI: Advancing the next era of national science — OpenAI committed Codex and API support to the Genesis Mission.
+• Cursor Changelog: Cursor Router — Teams can govern routing modes and model-choice policy.
+• Modal: Devin Outposts on Modal — Agent execution can run in customer-controlled sandboxes.
+
+✨ Featured expressions: not merely as add-ons, but as first-class requirements, moving beyond ad-hoc model selection, establish clear runtime boundaries (and alternatives in show notes)
+🔑 Key terms: intrusion /ɪnˈtruːʒən/, containment /kənˈteɪnmənt/, routing /ˈruːtɪŋ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 23 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-23</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-23/podcast.mp3" length="8817453" type="audio/mpeg"/>
+      <itunes:duration>09:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/17</title>
       <description>Today's framework: Situation → Complication → Resolution — Frame the context, surface the challenge, then close with a practical response.
 
