@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/25</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the scene, name the tension it creates, then land on what to do about it.
+
+📰 Stories covered:
+• Anthropic News: Introducing Claude Opus 5 — Anthropic released Claude Opus 5, which it says approaches the frontier intelligence of Claude Fable 5 at half the price, holding API pricing at five dollars per million input tokens and twenty-five dollars per million output tokens.
+• Meta AI Blog: Meta AI Doesn’t Just Think, It Acts — Meta began rolling out features that let Meta AI plan, perform follow-up tasks, produce daily briefings, research topics, and generate slides.
+• OpenAI Blog: Launching Health in ChatGPT — OpenAI launched Health in ChatGPT for logged-in U.S. users 18 and older on web and iOS, with optional Apple Health and medical-record connections.
+
+✨ Featured expressions: forces a more nuanced approach to, navigating the tightrope between … and …, sets a high bar for (and alternatives in show notes)
+🔑 Key terms: agentic /eɪˈdʒentɪk/, granular /ˈɡrænjələr/, longitudinal /ˌlɒndʒɪˈtjuːdɪnəl/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 25 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-25</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-25/podcast.mp3" length="7767213" type="audio/mpeg"/>
+      <itunes:duration>08:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/23</title>
       <description>Today's framework: What → So What → Now What — State the facts, explain the implications, then turn them into actions.
 
