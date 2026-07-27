@@ -102,9 +102,44 @@ class UpdateRssTests(unittest.TestCase):
             self.assertIn("Framework", html)
             self.assertIn("Key terms", html)
             self.assertIn("Practice tip", html)
+            self.assertIn('for="episode-search"', html)
+            self.assertIn('id="episode-search"', html)
+            self.assertIn('id="episode-search-status"', html)
+            self.assertIn('role="status"', html)
+            self.assertIn('aria-live="polite"', html)
+            self.assertIn('id="episode-no-results"', html)
+            self.assertIn("data-episode-card", html)
+            self.assertIn("card.textContent.toLocaleLowerCase()", html)
+            self.assertIn("input.value.trim().toLocaleLowerCase()", html)
+            self.assertIn("visible !== 0", html)
+            self.assertEqual(html.count("data-episode-card>"), 14)
+            self.assertIn("14 of 14 episodes", html)
             self.assertIn("AI English Daily — 04/14", html)
             self.assertIn("AI English Daily — 04/27", html)
             self.assertNotIn("AI English Daily — 04/28", html)
+
+    def test_episode_card_searchable_text_is_html_escaped(self):
+        item = {
+            "title": "Agents <script>",
+            "formatted_date": "Apr 14, 2026",
+            "guid_slug": "2026-04-14",
+            "summary": "Review & replay",
+            "framework": "Today's framework: Plan → Act",
+            "key_terms": "🔑 Key terms: agent, tool",
+            "practice_tip": "🎓 Practice tip: say \"agent\" aloud",
+            "audio_url": "https://example.com/episode.mp3",
+            "duration": "05:23",
+        }
+
+        html = self.update_rss.render_episode_card(item)
+
+        self.assertIn("data-episode-card", html)
+        self.assertIn("Agents &lt;script&gt;", html)
+        self.assertIn("Review &amp; replay", html)
+        self.assertIn("Plan → Act", html)
+        self.assertIn("agent, tool", html)
+        self.assertIn("say &quot;agent&quot; aloud", html)
+        self.assertNotIn("<script>", html)
 
     def test_parse_guid_date_returns_none_for_unexpected_format(self):
         self.assertEqual(

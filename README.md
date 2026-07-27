@@ -14,8 +14,8 @@ https://knishioka.github.io/ai-english-daily-podcast/feed.xml
 
 - OpenClaw cron generates audio daily at 6:00 AM MYT
 - Audio uploaded as GitHub Release asset (not committed to repo)
-- `scripts/update-rss.py` regenerates `feed.xml` and the landing-page archive (`index.html`)
-- GitHub Pages serves the RSS feed for podcast apps and the archive page for quick episode review
+- `scripts/update-rss.py` regenerates `feed.xml` and the searchable landing-page archive (`index.html`)
+- GitHub Pages serves the RSS feed for podcast apps and the archive page for focused episode review
 
 ## Retention
 
