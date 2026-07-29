@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/30</title>
+      <description>Today's framework: What → So What → Now What — State the facts, explain their significance, then turn them into practical next actions.
+
+📰 Stories covered:
+• Model Context Protocol / GitHub: The 2026-07-28 MCP Specification Release — MCP released a stable revision with a stateless core and extensions.
+• GitHub Changelog: Grok 4.5 is now available in GitHub Copilot — Grok 4.5 is rolling out across Copilot clients.
+• GitHub Changelog: Default model enablement for Copilot Business and Enterprise — A new default-on policy takes effect August 26.
+
+✨ Featured expressions: a pivotal moment, under the same guardrails, take a proactive approach (and alternatives in show notes)
+🔑 Key terms: stateless protocol core /ˈsteɪtləs ˈproʊtəkɔːl kɔːr/, deprecation policy /ˌdeprəˈkeɪʃən ˈpɑːləsi/, reasoning effort /ˈriːzənɪŋ ˈefərt/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 30 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-30</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-30/podcast.mp3" length="7644717" type="audio/mpeg"/>
+      <itunes:duration>07:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/28</title>
       <description>Today's framework: Problem → Solution → Impact — Frame a business challenge, explain the response, and close with its practical consequences.
 
