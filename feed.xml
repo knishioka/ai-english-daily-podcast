@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 07/31</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, define the challenge, then present the practical response.
+
+📰 Stories covered:
+• Vercel Changelog: Run multiple isolated agents in a single Sandbox — Vercel added isolated users and shared groups for agent collaboration.
+• GitHub Changelog: Copilot code review: Agent skills and MCP now generally available — Code review can use repository skills and read-only MCP context.
+• OpenAI: How enabling two settings tripled our scores on the ARC-AGI-3 benchmark — Reasoning retention and compaction sharply improved results while cutting tokens.
+• OpenAI: How GPT-5.6 fuses frontier intelligence with frontier efficiency — Deployment efficiency comes from model, inference, and harness work together.
+
+✨ Featured expressions: a critical need has emerged for, first-class primitives, shifts attention from ... to ... (and alternatives in show notes)
+🔑 Key terms: agentic harness /eɪˈdʒɛntɪk ˈhɑːrnəs/, least privilege /liːst ˈprɪvəlɪdʒ/, retained reasoning /rɪˈteɪnd ˈriːzənɪŋ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 31 Jul 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-07-31</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-07-31/podcast.mp3" length="9625005" type="audio/mpeg"/>
+      <itunes:duration>10:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 07/30</title>
       <description>Today's framework: What → So What → Now What — State the facts, explain their significance, then turn them into practical next actions.
 
