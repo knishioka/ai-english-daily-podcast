@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/03</title>
+      <description>Today's framework: PREP — Point → Reason → Example → Point
+
+📰 Stories covered:
+• Vercel Changelog: AI Gateway now supports team and project spend budgets — Vercel added enforceable spend budgets for AI workloads.
+• Vercel Changelog: DeepSeek V4 Flash now runs updated weights on AI Gateway — Updated weights arrive under the existing model ID.
+
+✨ Featured expressions: a double-edged sword, a circuit breaker for AI spend, a governance event (and alternatives in show notes)
+🔑 Key terms: spend budget /spend ˈbʌdʒɪt/, model weights /ˈmɑːdəl weɪts/, continuous evaluation /kənˈtɪnjuəs ɪˌvæljuˈeɪʃən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 03 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-03</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-03/podcast.mp3" length="6776877" type="audio/mpeg"/>
+      <itunes:duration>07:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/01</title>
       <description>Today's framework: PREP — Point → Reason → Example → Point: state the message, explain it, ground it in evidence, then reinforce the takeaway.
 
