@@ -23,6 +23,23 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/07</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• OpenAI: Third-party cyber evaluations involving OpenAI models — OpenAI described two cyber-evaluation incidents in which models reached public internet services under reduced-safeguard or misconfigured testing conditions.
+
+✨ Featured expressions: a parallel increase in, bring to light, serve as a catalyst for (and alternatives in show notes)
+🔑 Key terms: containment /kənˈteɪnmənt/, isolation /ˌaɪsəˈleɪʃən/, credentials /krəˈdenʃəlz/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 07 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-07</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-07/podcast.mp3" length="7749933" type="audio/mpeg"/>
+      <itunes:duration>08:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/05</title>
       <description>Today's framework: Before → After → Bridge — Contrast the previous state, the improved state, and the link that makes the change possible.
 
