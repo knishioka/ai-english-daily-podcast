@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/08</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the conclusion, explain why, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• OpenAI: Responding to the next frontier of critical cyber capabilities — OpenAI said Astra may have critical cyber capabilities and is strengthening pre-deployment controls.
+• OpenAI: Improving GPT-5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users — OpenAI updated reasoning controls and is broadening free-tier model access.
+
+✨ Featured expressions: prompt an immediate reinforcement of, necessitate a fundamental re-evaluation of, tailor AI usage precisely to (and alternatives in show notes)
+🔑 Key terms: cybersecurity /ˌsaɪbərsɪˈkjʊrəti/, evaluation environment /ɪˌvæljuˈeɪʃən ɪnˈvaɪrənmənt/, guardrail /ˈɡɑːrdreɪl/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 08 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-08</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-08/podcast.mp3" length="7769133" type="audio/mpeg"/>
+      <itunes:duration>08:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/06</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
