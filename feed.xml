@@ -23,6 +23,23 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/09</title>
+      <description>Today's framework: What → So What → Now What — Explain the facts, their significance, and the practical next steps.
+
+📰 Stories covered:
+• OpenAI: From asking to doing: How the world is putting ChatGPT to work — OpenAI published country-level ChatGPT usage data showing that workplace users are more than twice as likely to use it to complete tasks or create outputs than users outside work.
+
+✨ Featured expressions: a strategic inflection point, move beyond exploratory phases, capitalize on this shift, foster a culture of continuous learning (and alternatives in show notes)
+🔑 Key terms: adoption /əˈdɒpʃən/, workflow /ˈwɜːrkfloʊ/, augmentation /ˌɔːɡmenˈteɪʃən/, governance /ˈɡʌvərnəns/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 09 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-09</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-09/podcast.mp3" length="8325933" type="audio/mpeg"/>
+      <itunes:duration>08:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/08</title>
       <description>Today's framework: Point → Reason → Example → Point — State the conclusion, explain why, ground it in an example, then restate the takeaway.
 
