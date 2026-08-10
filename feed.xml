@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/10</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, back it with a reason, ground it in an example, then restate the point.
+
+📰 Stories covered:
+• Vercel Changelog: Vercel AI Gateway and Vercel Sandbox now available on Hermes Agent — Vercel made AI Gateway and Vercel Sandbox available on Hermes Agent, bringing model access and isolated code execution into its agent workflow.
+• Vercel Changelog: Skill packs are now available on skills.sh — skills.sh introduced skill packs, grouping reusable agent skills into shareable collections.
+• Hugging Face Blog: TutorMoments: Do AI tutors know when to help and when to hold back? — AllenAI's TutorMoments examines whether AI tutors can judge when to offer help and when to hold back.
+• Interconnects: Lessons from the hacks — Interconnects analyzes recent AI-related hacks and the lessons they offer for how organizations deploy and secure AI systems.
+
+✨ Featured expressions: treat A with the same rigor as B, the vulnerability surface extends beyond A to encompass B, democratize access to, only as a last resort (and alternatives in show notes)
+🔑 Key terms: plumbing /ˈplʌmɪŋ/, sandbox /ˈsændbɒks/, prompt injection /prɒmpt ɪnˈdʒekʃən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 10 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-10</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-10/podcast.mp3" length="8448045" type="audio/mpeg"/>
+      <itunes:duration>08:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/09</title>
       <description>Today's framework: What → So What → Now What — Explain the facts, their significance, and the practical next steps.
 
