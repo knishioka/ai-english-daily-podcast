@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/11</title>
+      <description>Today's framework: Problem → Solution → Impact — Turn a business challenge into a response, then explain the practical consequence.
+
+📰 Stories covered:
+• OpenAI: What building an AI-native finance function taught me — OpenAI describes lessons from building an AI-native finance function, framing the work around redesigning workflows rather than merely adding a tool..
+• Hugging Face Blog: Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS — Hugging Face presents NVIDIA Magpie TTS for building low-latency multilingual voice agents with open weights and deployment control..
+• GitHub Blog: Using the GitHub Copilot SDK for Java — GitHub introduces Java support for the Copilot SDK, enabling developers to invoke Copilot from idiomatic Java code and annotations..
+• Vercel Changelog: Grok Imagine Image 2.0 now available on Vercel AI Gateway — Vercel AI Gateway adds Grok Imagine Image 2.0, an image generation and editing model, in preview..
+
+✨ Featured expressions: rather than just bolting on, a cornerstone for, move beyond an editor-bound feature (and alternatives in show notes)
+🔑 Key terms: AI-native /ˌeɪ aɪ ˈneɪtɪv/, open weights /ˈoʊpən weɪts/, latency /ˈleɪtənsi/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 11 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-11</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-11/podcast.mp3" length="8461485" type="audio/mpeg"/>
+      <itunes:duration>08:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/10</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, back it with a reason, ground it in an example, then restate the point.
 
