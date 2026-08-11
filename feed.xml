@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/12</title>
+      <description>Today's framework: Before → After → Bridge — Contrast the previous state, the new developments, and the practical connection forward.
+
+📰 Stories covered:
+• OpenAI: Testing ads in ChatGPT — OpenAI said it is testing ads in ChatGPT, introducing a new commercial model for the consumer product.
+• Mistral: In-region inference, open models, and new European infrastructure for sovereign AI. — Mistral announced in-region inference, open models, and new European infrastructure aimed at sovereign AI deployments.
+• Hugging Face Blog: Meta is back with Muse Glimmer: local, agentic, multimodal, and open source — Hugging Face reported that Meta released Muse Glimmer, a local, agentic, multimodal open-source model.
+
+✨ Featured expressions: a trade-off between A and B, sets a precedent for, a compelling alternative (and alternatives in show notes)
+🔑 Key terms: monetization /ˌmʌnɪtəˈzeɪʃən/, data residency /ˈdeɪtə ˈrezɪdənsi/, inference /ˈɪnfərəns/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 12 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-12</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-12/podcast.mp3" length="8316333" type="audio/mpeg"/>
+      <itunes:duration>08:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/11</title>
       <description>Today's framework: Problem → Solution → Impact — Turn a business challenge into a response, then explain the practical consequence.
 
