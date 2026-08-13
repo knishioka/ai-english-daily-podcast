@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/14</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, identify the business challenge, then present the response.
+
+📰 Stories covered:
+• OpenAI: The builder’s guide to GPT-5.6 — OpenAI published practical GPT-5.6 builder guidance.
+• OpenAI: Ultrafast mode — OpenAI previewed up to 14X speed for GPT-5.6 Sol.
+• Google DeepMind: Introducing Gemini 3.7 Flash — A new fast-model option.
+• Cursor: Cloud Agents Start 3x Faster with Builds — Faster startup for coding agents.
+• AWS: AgentCore Observability — Monitoring across on-premises and multi-cloud environments.
+
+✨ Featured expressions: operational visibility, translate cutting-edge research into tangible business value, a persistent friction point (and alternatives in show notes)
+🔑 Key terms: latency /ˈleɪtənsi/, inference /ˈɪnfərəns/, observability /əbˌzɜːrvəˈbɪləti/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 14 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-14</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-14/podcast.mp3" length="6854445" type="audio/mpeg"/>
+      <itunes:duration>07:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/13</title>
       <description>Today's framework: What → So What → Now What — State the facts, explain their significance, then identify the next action.
 
