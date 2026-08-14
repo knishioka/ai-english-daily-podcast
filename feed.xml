@@ -23,6 +23,22 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/15</title>
+      <description>Today's framework: What -&gt; So What -&gt; Now What — State the news, explain its significance, and identify the next action.
+
+📰 Stories covered: open models, GitHub agent apps, AWS agent workflows, Cursor Cloud Agents, and Gemini 3.7 Flash on Vercel AI Gateway.
+
+✨ Featured expressions: a current snapshot, frames A as B rather than C, a concrete reference for
+🔑 Key terms: agentic workflow /eɪˈdʒentɪk ˈwɜːrkfloʊ/, latency /ˈleɪtənsi/, inference /ˈɪnfərəns/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 15 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-15</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-15/podcast.mp3" length="8279085" type="audio/mpeg"/>
+      <itunes:duration>08:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/14</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, identify the business challenge, then present the response.
 
