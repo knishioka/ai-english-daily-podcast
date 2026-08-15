@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/16</title>
+      <description>Today's framework: What -&gt; So What -&gt; Now What — State the facts, explain their significance, then identify practical next actions.
+
+📰 Stories covered:
+• Latent Space: React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue — Latent Space profiled Flue, a meta-harness that applies React-style hooks to the way agents are composed and evaluated.
+• Sebastian Raschka: Building an AI Text Detector From Scratch — Sebastian Raschka published a from-scratch walkthrough for building an AI text detector.
+• Interconnects: GLM-5.3: How Chinese labs keep stride with the frontier — Interconnects examined GLM-5.3 and the factors helping Chinese AI labs remain competitive with frontier systems.
+• Hugging Face: What We Learned by Reproducing 2,200 papers from ICML — Hugging Face reported lessons from reproducing 2,200 papers from the International Conference on Machine Learning.
+• AWS Machine Learning Blog: Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge — AWS described how to use custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge.
+
+✨ Featured expressions: a multi-faceted approach, maintaining a competitive edge, healthy skepticism (and alternatives in show notes)
+🔑 Key terms: meta-harness /ˈmɛtə ˈhɑːrnəs/, reproducibility /ˌriːprəˌduːsəˈbɪləti/, reward function /rɪˈwɔːrd ˈfʌŋkʃən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 16 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-16</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-16/podcast.mp3" length="7648173" type="audio/mpeg"/>
+      <itunes:duration>07:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/15</title>
       <description>Today's framework: What -&gt; So What -&gt; Now What — State the news, explain its significance, and identify the next action.
 
