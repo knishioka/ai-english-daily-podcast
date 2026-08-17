@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/18</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• Hugging Face Blog: Same Cluster, 33 Points More Utilization: What Changed Was the Order — Dharma AI reported that changing job order improved GPU-cluster utilization by 33 points.
+• Cursor Changelog: Origin Code Hosting — Cursor introduced Origin Code Hosting, expanding its development platform into repository hosting.
+• GitHub Blog: How canvases make agentic workflows visible, steerable, and cost-efficient — GitHub described canvases for making agentic workflows visible, steerable, and easier to manage for cost.
+• AWS Machine Learning Blog: Build OpenClaw agents that transact with Amazon Bedrock AgentCore payments — AWS published a guide for OpenClaw agents that can transact through Bedrock AgentCore payments.
+• Simon Willison: Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things — Simon Willison reviewed Qwen 3.8 27B and noted that its default reasoning behavior can overthink tasks.
+
+✨ Featured expressions: can be as impactful as, the stakes rise, become paramount (and alternatives in show notes)
+🔑 Key terms: utilization /ˌjuːtələˈzeɪʃən/, fragmentation /ˌfræɡmənˈteɪʃən/, steerability /ˌstɪərəˈbɪləti/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 18 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-18</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-18/podcast.mp3" length="8304813" type="audio/mpeg"/>
+      <itunes:duration>08:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/17</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
