@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/20</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• OpenAI: Offering Zero Data Retention for frontier models — OpenAI announced zero data retention for its frontier models.
+• OpenAI: Replit expands access to software creation with GPT-5.6 Luna — OpenAI said Replit is expanding access to software creation with GPT-5.6 Luna.
+• Cursor Changelog: Cloud Agents and Cursor Harness Improvements — Cursor published improvements for Cloud Agents and its harness.
+• AWS Machine Learning Blog: How Fanatics Betting and Gaming built a multi-agent customer support system — AWS described how Fanatics Betting and Gaming built a multi-agent customer-support system.
+• Hugging Face Blog / IBM Research: How Much Memory Does Your Agent Actually Need? — IBM Research examined how much memory an agent needs.
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 20 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-20</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-20/podcast.mp3" length="8130477" type="audio/mpeg"/>
+      <itunes:duration>08:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/19</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
