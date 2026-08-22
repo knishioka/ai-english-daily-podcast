@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/22</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• AWS Machine Learning Blog: Govern AI agent tool access with Amazon Bedrock AgentCore Gateway — AWS published a guide to governing AI-agent tool access with Amazon Bedrock AgentCore Gateway.
+• AWS Machine Learning Blog: Reduce RAG costs on Amazon Bedrock with query-aware compression — AWS described query-aware compression for reducing retrieval-augmented generation costs on Amazon Bedrock.
+• AWS Machine Learning Blog: Agentic Data Operations Platform (ADOP): Data engineering into hours — AWS presented an Agentic Data Operations Platform approach intended to move data-engineering work from days toward hours.
+• Vercel Blog: How Ora benchmarks every major AI agent on Vercel — Vercel described how Ora benchmarks major AI agents on its platform.
+• Hugging Face Blog: Measuring benchmark optimization in speech recognition — Hugging Face published an analysis of benchmark optimization in speech recognition.
+
+✨ Featured expressions: represent a critical control point for, be outweighed by the risks of, look beyond A and delve deeper into B (and alternatives in show notes)
+🔑 Key terms: granular /ˈɡrænjələr/, bottleneck /ˈbɑːtlnek/, context window /ˈkɑːntekst ˈwɪndoʊ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 22 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-22</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-22/podcast.mp3" length="8147373" type="audio/mpeg"/>
+      <itunes:duration>08:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/21</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
