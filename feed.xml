@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/23</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• Latent Space: The Evolution of the Agent Harness — Latent Space published an analysis tracing the evolution of the agent harness—the interface and operational layer through which developers steer, observe, and improve AI agents.
+• AWS Machine Learning Blog: Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock — AWS announced cross-Region inference support for OpenAI GPT-5.6 models in Amazon Bedrock.
+• Sebastian Raschka: How Claude Watermarks AI-Generated Text — Sebastian Raschka published a technical explainer on how Claude's AI-generated-text watermarking works.
+• Simon Willison: llm 0.33 — Simon Willison released version 0.33 of the llm command-line tool.
+• The Pragmatic Engineer: The Pulse: We need to talk about migrations with AI — The Pragmatic Engineer examined the use of AI in software migrations.
+
+✨ Featured expressions: translate raw model capabilities into reliable work processes, retain responsibility for, a force multiplier (and alternatives in show notes)
+🔑 Key terms: agent harness /ˈeɪdʒənt ˈhɑːrnəs/, provenance /ˈprɑːvənəns/, data residency /ˈdeɪtə ˈrezɪdəsi/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-23</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-23/podcast.mp3" length="7615917" type="audio/mpeg"/>
+      <itunes:duration>07:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/22</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
