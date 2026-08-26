@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/26</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• AWS Machine Learning Blog: Agentic observability with Amazon OpenSearch Service MCP Apps — AWS described using Amazon OpenSearch Service MCP Apps to give AI agents observability capabilities.
+• Vercel: Introducing Run SDK: secure eval for your agents — Vercel introduced Run SDK for securely evaluating agent behavior.
+• Vercel: The end of credential sprawl for agents — Vercel presented Connect, which lets applications request short-lived credentials instead of storing provider secrets.
+• Hugging Face Blog: Granite 4.2 LLMs: How They're Built — IBM and Hugging Face explained how Granite 4.2 language models are built.
+• The Pragmatic Engineer: Why Ramp built its own in-house coding agent, Inspect — Ramp explained why it built an in-house coding agent called Inspect.
+
+✨ Featured expressions: paving the way for, transition from A into B, outweigh the complexities of (and alternatives in show notes)
+🔑 Key terms: observability //əbˌzɜːrvəˈbɪləti//, credential sprawl //krəˈdɛnʃəl sprɔːl//, attack surface //əˈtæk ˈsɜːrfɪs//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 26 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-26</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-26/podcast.mp3" length="8734125" type="audio/mpeg"/>
+      <itunes:duration>09:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/25</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
