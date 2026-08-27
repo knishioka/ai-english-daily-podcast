@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/28</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Vercel Changelog: Run Claude Managed Agents with Chat SDK — Vercel published a Chat SDK example for a Slack research bot using Claude Managed Agents, with one persistent agent session per thread and no Slack credentials to manage in the bot.
+• Google DeepMind: Gemini Omni 1.1 Flash lets you build with more control — Google introduced Gemini Omni 1.1 Flash with creative controls and generative-video capabilities for developers.
+• Vercel Changelog: Cursor is now available in the AI SDK harness layer — Vercel added Cursor support to its AI SDK harness layer through the official @ai-sdk/harness-cursor adapter, using the same HarnessAgent interface as other supported harnesses.
+• Cursor Changelog: Start from scratch, without a repo — Cursor announced that Cloud Agents can work without a connected repository and added live preview and Vercel publishing.
+• GitHub Blog: OpenClaw went viral. Meet the maintainers building and securing it. — GitHub profiled the maintainers working to build and secure OpenClaw after the open-source project became the fastest-growing project in GitHub history.
+
+✨ Featured expressions: a significant development hurdle, granular control over the outputs, a common application integration surface (and alternatives in show notes)
+🔑 Key terms: session continuity //ˈsɛʃən ˌkɑːntəˈnuːɪti//, multimodal //ˌmʌltiˈmoʊdəl//, harness layer //ˈhɑːrnəs ˈleɪər//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 28 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-28</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-28/podcast.mp3" length="8013357" type="audio/mpeg"/>
+      <itunes:duration>08:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/27</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
