@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/29</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• OpenAI: Supporting Thailand’s next generation of AI startups — OpenAI announced support for Thailand’s next generation of AI startups.
+• Google DeepMind: Piloting the world's first double-blind AI evaluations — Google DeepMind announced a pilot for double-blind AI evaluations.
+• AWS Machine Learning Blog: Introducing OpenAI models on Amazon Bedrock for in-country inferencing in India — AWS announced OpenAI models on Amazon Bedrock for in-country inferencing in India.
+• Vercel Changelog: Build and deploy eve agents from the Vercel dashboard — Vercel announced dashboard support to build and deploy eve agents.
+
+✨ Featured expressions: make something tangible at the ecosystem level, remove a significant barrier to, lower the operational friction between A and B (and alternatives in show notes)
+🔑 Key terms: double-blind evaluation //ˌdʌbəl ˈblaɪnd ɪˌvæljuˈeɪʃən//, data residency //ˈdeɪtə ˈrɛzɪdənsi//, inference //ˈɪnfərəns//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 29 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-29</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-29/podcast.mp3" length="9271725" type="audio/mpeg"/>
+      <itunes:duration>09:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/28</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
