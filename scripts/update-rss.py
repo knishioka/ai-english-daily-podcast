@@ -161,7 +161,7 @@ def render_episode_card(item: dict[str, str]) -> str:
         else ""
     )
     parts = [
-        '      <article class="episode-card">',
+        '      <article class="episode-card" data-episode-card>',
         "        <header>",
         f'          <p class="episode-date">{escape(item["formatted_date"])}</p>',
         f'          <h3 id="{escape(item["guid_slug"])}">{escape(item["title"])}</h3>',
@@ -291,6 +291,44 @@ def build_index_html(items: list[dict[str, str]]) -> str:
         display: grid;
         gap: 16px;
       }}
+      .archive-search {{
+        margin: 0 0 18px;
+      }}
+      .archive-search label {{
+        display: block;
+        margin-bottom: 8px;
+        font: 600 0.94rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }}
+      .archive-search input {{
+        width: 100%;
+        padding: 12px 14px;
+        border: 1px solid var(--line);
+        border-radius: 12px;
+        background: #fff;
+        color: var(--ink);
+        font: 1rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }}
+      .archive-search input:focus {{
+        outline: 3px solid var(--accent-soft);
+        border-color: var(--accent);
+      }}
+      .search-status {{
+        margin: 8px 0 0;
+        color: var(--muted);
+        font: 600 0.9rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }}
+      .no-results {{
+        margin: 0;
+        padding: 20px;
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        background: var(--card);
+        color: var(--muted);
+        line-height: 1.6;
+      }}
+      [hidden] {{
+        display: none !important;
+      }}
       .episode-card {{
         padding: 20px;
         border-radius: 20px;
@@ -379,11 +417,58 @@ def build_index_html(items: list[dict[str, str]]) -> str:
             </p>
           </div>
         </div>
-        <div class="episode-grid">
+        <div class="archive-search">
+          <label for="episode-search">Search recent episodes</label>
+          <input
+            id="episode-search"
+            type="search"
+            placeholder="Try a framework, key term, or topic"
+            autocomplete="off"
+            aria-controls="episode-grid"
+            aria-describedby="episode-search-status"
+          />
+          <p
+            id="episode-search-status"
+            class="search-status"
+            role="status"
+            aria-live="polite"
+          >{len(items)} of {len(items)} episodes</p>
+        </div>
+        <div id="episode-grid" class="episode-grid">
 {cards}
         </div>
+        <p id="episode-no-results" class="no-results" hidden>
+          No episodes match your search. Try another term.
+        </p>
       </section>
     </main>
+    <script>
+      (() => {{
+        const input = document.querySelector("#episode-search");
+        const cards = Array.from(document.querySelectorAll("[data-episode-card]"));
+        const status = document.querySelector("#episode-search-status");
+        const noResults = document.querySelector("#episode-no-results");
+
+        if (!input || !status || !noResults) return;
+
+        input.addEventListener("input", () => {{
+          // Episode text is English, so fold case with the invariant rules.
+          // Locale-aware folding maps "I" to a dotless "ı" under a Turkish or
+          // Azerbaijani browser locale, which would drop real matches.
+          const query = input.value.trim().toLowerCase();
+          let visible = 0;
+
+          cards.forEach((card) => {{
+            const matches = !query || card.textContent.toLowerCase().includes(query);
+            card.hidden = !matches;
+            if (matches) visible += 1;
+          }});
+
+          status.textContent = `${{visible}} of ${{cards.length}} episodes`;
+          noResults.hidden = visible !== 0;
+        }});
+      }})();
+    </script>
   </body>
 </html>
 """

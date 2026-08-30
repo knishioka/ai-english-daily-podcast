@@ -90,6 +90,44 @@
         display: grid;
         gap: 16px;
       }
+      .archive-search {
+        margin: 0 0 18px;
+      }
+      .archive-search label {
+        display: block;
+        margin-bottom: 8px;
+        font: 600 0.94rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .archive-search input {
+        width: 100%;
+        padding: 12px 14px;
+        border: 1px solid var(--line);
+        border-radius: 12px;
+        background: #fff;
+        color: var(--ink);
+        font: 1rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .archive-search input:focus {
+        outline: 3px solid var(--accent-soft);
+        border-color: var(--accent);
+      }
+      .search-status {
+        margin: 8px 0 0;
+        color: var(--muted);
+        font: 600 0.9rem/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .no-results {
+        margin: 0;
+        padding: 20px;
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        background: var(--card);
+        color: var(--muted);
+        line-height: 1.6;
+      }
+      [hidden] {
+        display: none !important;
+      }
       .episode-card {
         padding: 20px;
         border-radius: 20px;
@@ -178,8 +216,25 @@
             </p>
           </div>
         </div>
-        <div class="episode-grid">
-      <article class="episode-card">
+        <div class="archive-search">
+          <label for="episode-search">Search recent episodes</label>
+          <input
+            id="episode-search"
+            type="search"
+            placeholder="Try a framework, key term, or topic"
+            autocomplete="off"
+            aria-controls="episode-grid"
+            aria-describedby="episode-search-status"
+          />
+          <p
+            id="episode-search-status"
+            class="search-status"
+            role="status"
+            aria-live="polite"
+          >14 of 14 episodes</p>
+        </div>
+        <div id="episode-grid" class="episode-grid">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 31, 2026</p>
           <h3 id="2026-08-31">AI English Daily — 08/31</h3>
@@ -192,7 +247,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-31/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 30, 2026</p>
           <h3 id="2026-08-30">AI English Daily — 08/30</h3>
@@ -205,7 +260,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-30/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 29, 2026</p>
           <h3 id="2026-08-29">AI English Daily — 08/29</h3>
@@ -218,7 +273,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-29/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 28, 2026</p>
           <h3 id="2026-08-28">AI English Daily — 08/28</h3>
@@ -231,7 +286,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-28/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 27, 2026</p>
           <h3 id="2026-08-27">AI English Daily — 08/27</h3>
@@ -244,7 +299,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-27/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 26, 2026</p>
           <h3 id="2026-08-26">AI English Daily — 08/26</h3>
@@ -257,7 +312,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-26/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 25, 2026</p>
           <h3 id="2026-08-25">AI English Daily — 08/25</h3>
@@ -270,7 +325,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-25/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 24, 2026</p>
           <h3 id="2026-08-24">AI English Daily — 08/24</h3>
@@ -283,7 +338,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-24/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 23, 2026</p>
           <h3 id="2026-08-23">AI English Daily — 08/23</h3>
@@ -296,7 +351,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-23/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 22, 2026</p>
           <h3 id="2026-08-22">AI English Daily — 08/22</h3>
@@ -309,7 +364,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-22/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 21, 2026</p>
           <h3 id="2026-08-21">AI English Daily — 08/21</h3>
@@ -321,7 +376,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-21/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 20, 2026</p>
           <h3 id="2026-08-20">AI English Daily — 08/20</h3>
@@ -333,7 +388,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-20/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 19, 2026</p>
           <h3 id="2026-08-19">AI English Daily — 08/19</h3>
@@ -346,7 +401,7 @@
           <a href="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-19/podcast.mp3" target="_blank" rel="noreferrer">Listen to audio</a>
         </p>
       </article>
-      <article class="episode-card">
+      <article class="episode-card" data-episode-card>
         <header>
           <p class="episode-date">Aug 18, 2026</p>
           <h3 id="2026-08-18">AI English Daily — 08/18</h3>
@@ -360,7 +415,37 @@
         </p>
       </article>
         </div>
+        <p id="episode-no-results" class="no-results" hidden>
+          No episodes match your search. Try another term.
+        </p>
       </section>
     </main>
+    <script>
+      (() => {
+        const input = document.querySelector("#episode-search");
+        const cards = Array.from(document.querySelectorAll("[data-episode-card]"));
+        const status = document.querySelector("#episode-search-status");
+        const noResults = document.querySelector("#episode-no-results");
+
+        if (!input || !status || !noResults) return;
+
+        input.addEventListener("input", () => {
+          // Episode text is English, so fold case with the invariant rules.
+          // Locale-aware folding maps "I" to a dotless "ı" under a Turkish or
+          // Azerbaijani browser locale, which would drop real matches.
+          const query = input.value.trim().toLowerCase();
+          let visible = 0;
+
+          cards.forEach((card) => {
+            const matches = !query || card.textContent.toLowerCase().includes(query);
+            card.hidden = !matches;
+            if (matches) visible += 1;
+          });
+
+          status.textContent = `${visible} of ${cards.length} episodes`;
+          noResults.hidden = visible !== 0;
+        });
+      })();
+    </script>
   </body>
 </html>
