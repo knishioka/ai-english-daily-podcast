@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 08/31</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• Simon Willison: Introducing Hy4 Preview — Simon Willison introduced Hy4 Preview, a new model preview available through Vercel AI Gateway, and examined its practical characteristics for developers.
+• AWS Machine Learning Blog: How Decathlon runs demand forecasting at scale with Chronos-2 — AWS described how Decathlon uses Chronos-2 for demand forecasting at scale.
+
+✨ Featured expressions: at the cutting edge, accumulate technical debt, a governed release process (and alternatives in show notes)
+🔑 Key terms: AI gateway //ˌeɪ aɪ ˈɡeɪtweɪ//, workload routing //ˈwɜːrkloʊd ˈraʊtɪŋ//, demand forecasting //dɪˈmænd ˈfɔːrkæstɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 31 Aug 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-08-31</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-08-31/podcast.mp3" length="6877485" type="audio/mpeg"/>
+      <itunes:duration>07:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/30</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
