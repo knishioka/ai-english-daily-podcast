@@ -452,11 +452,14 @@ def build_index_html(items: list[dict[str, str]]) -> str:
         if (!input || !status || !noResults) return;
 
         input.addEventListener("input", () => {{
-          const query = input.value.trim().toLocaleLowerCase();
+          // Episode text is English, so fold case with the invariant rules.
+          // Locale-aware folding maps "I" to a dotless "ı" under a Turkish or
+          // Azerbaijani browser locale, which would drop real matches.
+          const query = input.value.trim().toLowerCase();
           let visible = 0;
 
           cards.forEach((card) => {{
-            const matches = !query || card.textContent.toLocaleLowerCase().includes(query);
+            const matches = !query || card.textContent.toLowerCase().includes(query);
             card.hidden = !matches;
             if (matches) visible += 1;
           }});

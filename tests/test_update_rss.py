@@ -109,8 +109,10 @@ class UpdateRssTests(unittest.TestCase):
             self.assertIn('aria-live="polite"', html)
             self.assertIn('id="episode-no-results"', html)
             self.assertIn("data-episode-card", html)
-            self.assertIn("card.textContent.toLocaleLowerCase()", html)
-            self.assertIn("input.value.trim().toLocaleLowerCase()", html)
+            self.assertIn("card.textContent.toLowerCase()", html)
+            self.assertIn("input.value.trim().toLowerCase()", html)
+            # Locale-sensitive folding breaks search under a Turkish locale.
+            self.assertNotIn("toLocaleLowerCase", html)
             self.assertIn("visible !== 0", html)
             self.assertEqual(html.count("data-episode-card>"), 14)
             self.assertIn("14 of 14 episodes", html)
