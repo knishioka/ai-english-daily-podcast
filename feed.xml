@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/01</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• AWS Machine Learning Blog: Manage agents, tools and skills at scale with AWS Agent Registry — AWS made Agent Registry generally available as a searchable, governed catalog for organizational agents, tools, skills, and custom resources.
+• Vercel Changelog: Set per-user budgets on AI Gateway — Vercel added a user scope for AI Gateway budgets, alongside existing team, project, and API-key budget scopes.
+• AWS Machine Learning Blog: Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation — AWS published an architecture for an agent that routes across multiple managed knowledge bases, returns cited answers, and includes seven layers of observability.
+
+✨ Featured expressions: moving to individual accountability, without disrupting operational flow, a crucial blueprint for (and alternatives in show notes)
+🔑 Key terms: governance //ˈɡʌv.ər.nəns//, granularity //ˌɡræn.jəˈler.ə.ti//, provenance //ˈprɑː.və.nəns//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 01 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-01</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-01/podcast.mp3" length="7208877" type="audio/mpeg"/>
+      <itunes:duration>07:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 08/31</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
