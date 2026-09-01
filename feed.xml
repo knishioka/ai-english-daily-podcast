@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/02</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• Google DeepMind: Introducing agentic video understanding with Gemini — Google introduced agentic video understanding across its latest Gemini models, positioning the capability around improved accuracy and lower cost and token usage.
+• Hugging Face Blog: Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI — Hugging Face released @huggingface/kernels, a collection of more than 200 WebGPU kernels for local AI workloads.
+• AWS Machine Learning Blog: Introducing Claude Fable 5.1 on AWS — AWS announced Claude Fable 5.1 availability on Amazon Bedrock and Claude Platform on AWS, alongside Enterprise Frontier Safeguards for controlled cloud environments.
+
+✨ Featured expressions: resource-intensive, a primary cost driver, marks a pivotal moment for (and alternatives in show notes)
+🔑 Key terms: agentic video understanding //eɪˈdʒentɪk ˈvɪdioʊ ˌʌndərˈstændɪŋ//, WebGPU //ˈweb dʒiː piː juː//, client-side //ˈklaɪənt saɪd//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 02 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-02</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-02/podcast.mp3" length="7984173" type="audio/mpeg"/>
+      <itunes:duration>08:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/01</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
