@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/03</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• Google DeepMind: Introducing Gemini 3.8 Flash and 3.8 Flash Cyber — Google DeepMind introduced Gemini 3.8 Flash and Gemini 3.8 Flash Cyber, including a cyber-focused variant alongside the general Flash model.
+• Cursor Changelog: Self-hosted machines — Cursor added support for self-hosted machines in its product workflow.
+• GitHub Blog: How we make AI coding more cost efficient without sacrificing task quality — GitHub described how it makes AI coding more cost efficient while maintaining task quality.
+• AWS Machine Learning Blog: From code to diagrams: Agentic architecture documentation with Amazon Bedrock AgentCore — AWS published an approach for using Amazon Bedrock AgentCore in an agentic workflow that turns code into architecture documentation and diagrams.
+• Hugging Face Blog: BenchMIRT: What are LLM benchmarks actually measuring? — Hugging Face published BenchMIRT, a post examining what LLM benchmarks actually measure.
+
+✨ Featured expressions: factor A into B, in tandem, hinge on (and alternatives in show notes)
+🔑 Key terms: inference //ˈɪnfərəns//, data sovereignty //ˈdeɪtə ˈsɒvrənti//, total cost of ownership //ˌtoʊtəl kɔːst əv ˈoʊnərʃɪp//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 03 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-03</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-03/podcast.mp3" length="8666925" type="audio/mpeg"/>
+      <itunes:duration>09:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/02</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
