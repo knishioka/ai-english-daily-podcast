@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/04</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Hugging Face Blog: Give Your Coding Agents a Memory You Own — Hugging Face describes funes, an open-source memory layer that stores an agent's working memory as a dataset the user owns and can reuse across agents and machines.
+• GitHub Blog: GitHub Copilot app for Beginners: Run several agents at once — GitHub explains how separate Copilot app agent sessions can use their own Git worktrees and run in parallel without changing one another's work.
+• Vercel Changelog: Cursor Cloud Agents can now run in Vercel Sandbox — Vercel announced that Cursor Cloud Agents can run in Vercel Sandbox.
+• AWS Machine Learning Blog: Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock — AWS presents an architecture for running ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock to centralize controls for generative AI coding agents.
+• Google DeepMind: Introducing WeatherNext 3, our most advanced and accurate global weather AI model — Google introduced WeatherNext 3 and said it is now available in Search, Gemini, Maps, Google Maps Platform, and Cloud.
+
+✨ Featured expressions: move beyond individual experimentation, a clear pathway for governance, create friction (and alternatives in show notes)
+🔑 Key terms: ephemeral //ɪˈfem.ər.əl//, vendor-bound //ˈven.dər baʊnd//, concurrent //kənˈkʌr.ənt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 04 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-04</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-04/podcast.mp3" length="8984877" type="audio/mpeg"/>
+      <itunes:duration>09:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/03</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
