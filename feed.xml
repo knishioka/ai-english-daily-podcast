@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/05</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• GitHub Blog: Project HydraFusion: Frontier quality via multi-model orchestration — GitHub published Project HydraFusion, describing a multi-model orchestration approach aimed at frontier-quality outcomes.
+• AWS Machine Learning Blog: Designing lifecycle policies for AgentCore memory — AWS published guidance on designing lifecycle policies for AgentCore memory.
+• AWS Machine Learning Blog: Run agent-driven Amazon SageMaker HyperPod operations with InstantStart — AWS described using agents with InstantStart for SageMaker HyperPod operations.
+• AWS Machine Learning Blog: Build a Physical AI model factory with NVIDIA Cosmos 3 on SageMaker HyperPod — AWS published an architecture for a Physical AI model factory using NVIDIA Cosmos 3 and SageMaker HyperPod.
+• Vercel Changelog: GPT 6 Astra now available on Vercel AI Gateway — Vercel added GPT 6 Astra to AI Gateway.
+
+✨ Featured expressions: turn A from theory into an operational design choice, a pivotal shift towards, free A from repetitive tasks (and alternatives in show notes)
+🔑 Key terms: multi-model orchestration //ˌmʌlti ˈmɒdəl ɔːrkəˈstreɪʃən//, lifecycle policy //ˈlaɪfsaɪkəl ˈpɒləsi//, resource provisioning //rɪˈsɔːrs prəˈvɪʒənɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-05</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-05/podcast.mp3" length="9073965" type="audio/mpeg"/>
+      <itunes:duration>09:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/04</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
