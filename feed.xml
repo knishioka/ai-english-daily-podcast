@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/06</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• GitHub Blog: Project HydraFusion: Frontier quality via multi-model orchestration — GitHub described Project HydraFusion, an approach to combining multiple models to pursue frontier-quality outcomes in Copilot workflows.
+• AWS Machine Learning Blog: Designing lifecycle policies for AgentCore memory — AWS published guidance on lifecycle policies for AgentCore memory.
+• AWS Machine Learning Blog: Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore — AWS showed how to deploy a multimodal WhatsApp ordering assistant with Bedrock AgentCore.
+• AWS Machine Learning Blog: Run agent-driven Amazon SageMaker HyperPod operations with InstantStart — AWS described agent-driven operations for SageMaker HyperPod using InstantStart.
+• OpenAI: GPT-6 Astra: A new generation of intelligence — OpenAI announced GPT-6 Astra as a new generation of intelligence.
+
+✨ Featured expressions: a deliberate engineering design choice, start from a blank page, establish a controlled comparison (and alternatives in show notes)
+🔑 Key terms: multi-model orchestration //ˌmʌlti ˈmɒdəl ˌɔːrkɪˈstreɪʃən//, lifecycle policy //ˈlaɪfˌsaɪkəl ˈpɒləsi//, multimodal input //ˌmʌltiˈmoʊdəl ˈɪnpʊt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-06</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-06/podcast.mp3" length="9220653" type="audio/mpeg"/>
+      <itunes:duration>09:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/05</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
