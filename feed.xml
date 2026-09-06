@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/07</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• OpenAI: Research acceleration: The view inside OpenAI — OpenAI reported that it reached its stated goal of an automated research intern for well-defined tasks under human direction, and described internal measurements of how coding agents are changing researchers' work.
+• OpenAI: An Alien Mind — OpenAI Chief Scientist Jakub Pachocki argued that increasingly capable systems require stronger alignment, monitoring, defensive capabilities, and broader safety coordination.
+
+✨ Featured expressions: offload routine yet time-consuming tasks, operate in parallel on multiple fronts, a continuous feedback loop for improvement (and alternatives in show notes)
+🔑 Key terms: agentic system //eɪˈdʒentɪk ˈsɪstəm//, alignment //əˈlaɪnmənt//, telemetry //təˈlemətri//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-07</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-07/podcast.mp3" length="7159725" type="audio/mpeg"/>
+      <itunes:duration>07:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/06</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
