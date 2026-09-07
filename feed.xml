@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/08</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• Latent Space: OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot — Latent Space published a five-day hands-on account of using Grok Bot with OpenClaw on a MacBook, focusing on the experience of running a capable personal agent setup.
+• Import AI: Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman — Import AI's latest briefing surveys reports on AI agents in mathematical evaluation, AI policy, and Forethought's framing of oversight.
+
+✨ Featured expressions: an all-or-nothing decision, the letter of a metric, an escalation path (and alternatives in show notes)
+🔑 Key terms: operational friction //ˌɒpəˈreɪʃənəl ˈfrɪkʃən//, evaluation design //ɪˌvæljuˈeɪʃən dɪˈzaɪn//, oversight //ˈoʊvərsaɪt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 08 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-08</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-08/podcast.mp3" length="6465453" type="audio/mpeg"/>
+      <itunes:duration>06:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/07</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
