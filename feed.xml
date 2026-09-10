@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/11</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• OpenAI: Build more natural voice experiences with GPT-Live-1 in the API — OpenAI released GPT-Live-1 in its API for full-duplex voice applications, with interruption handling, configurable voice behavior, and delegation of deeper reasoning and tool calls to backend models.
+• OpenAI: Introducing ChatGPT for Financial Services — OpenAI introduced a ChatGPT Work experience for financial services that combines GPT-6 Astra with built-in financial data, provider connections, citations, administrative controls, and workflow templates.
+• Mistral: Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data — Mistral and Cloudera announced a partnership to bring specialized, sovereign AI capabilities to enterprise data environments.
+• AWS Machine Learning Blog: Agent Evaluation Metric for multi-turn conversations — AWS published an agent-evaluation metric focused on multi-turn conversations.
+
+✨ Featured expressions: marked by significant strides, a critical dimension beyond, tackle the challenge head-on (and alternatives in show notes)
+🔑 Key terms: full-duplex //ˌfʊl ˈduːpleks//, data sovereignty //ˈdeɪtə ˈsɒvrənti//, context retention //ˈkɒntekst rɪˈtenʃən//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-11</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-11/podcast.mp3" length="8528685" type="audio/mpeg"/>
+      <itunes:duration>08:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/10</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
