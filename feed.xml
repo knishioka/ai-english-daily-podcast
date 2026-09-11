@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/12</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• OpenAI: Rapidly scaling online storage to serve over 1 billion ChatGPT users — OpenAI describes how it is scaling its online storage systems to support more than one billion ChatGPT users.
+• Cursor Changelog: Cursor Projects — Cursor announced Projects, a feature for organizing work in its AI coding environment.
+• AWS Machine Learning Blog: Build interactive MCP Apps using Amazon Bedrock AgentCore — AWS published a guide to building interactive MCP Apps with Amazon Bedrock AgentCore.
+• Mistral: Modernizing complex legacy code with AI agents. — Mistral shared an account of applying AI agents to the modernization of complex legacy code.
+• Vercel Blog: How Tailscale built a customer-facing model router on AI Gateway — Vercel explains how Tailscale built a model router for customer-facing use on AI Gateway.
+
+✨ Featured expressions: a strategic dependency, a complex balancing act, derive value from (and alternatives in show notes)
+🔑 Key terms: data sharding //ˈdeɪtə ˈʃɑːrdɪŋ//, persistent context //pərˈsɪstənt ˈkɑːntekst//, orchestration //ˌɔːrkəˈstreɪʃən//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 12 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-12</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-12/podcast.mp3" length="8951853" type="audio/mpeg"/>
+      <itunes:duration>09:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/11</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
