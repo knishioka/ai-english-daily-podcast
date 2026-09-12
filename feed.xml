@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/13</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• OpenAI: Cognition helps Devin test its own work with GPT-6 Astra — Cognition is using GPT-6 Astra in Devin to test software, return simulator recordings and test reports, and help engineers review changes with less manual inspection.
+• AWS Machine Learning Blog: Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations — AWS presented a dual-layer monitoring design using AgentCore Evaluations for quality scoring and AWS DevOps Agent for infrastructure investigation, illustrated with a four-agent airline reservation system.
+• GitHub Blog: Marketing ops as code: Automating events from planning to follow-up on GitHub — GitHub described automating an APAC marketing-event workflow from planning through follow-up by encoding the process in GitHub-based tools.
+• Vercel Changelog: GitHub Copilot is now available in the AI SDK harness layer — Vercel added a GitHub Copilot adapter to the AI SDK harness layer, exposing it through the shared HarnessAgent interface.
+
+✨ Featured expressions: verifiable evidence, a pain point, vendor lock-in (and alternatives in show notes)
+🔑 Key terms: self-testing //ˌsɛlf ˈtɛstɪŋ//, observability //əbˌzɜːrvəˈbɪləti//, interoperability //ˌɪntərˌɑːpərəˈbɪləti//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 13 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-13</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-13/podcast.mp3" length="9445677" type="audio/mpeg"/>
+      <itunes:duration>09:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/12</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
