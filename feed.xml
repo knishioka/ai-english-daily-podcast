@@ -23,6 +23,23 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/14</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• OpenAI: Perplexity trusts GPT-6 Astra with end-to-end systems — OpenAI reports that Perplexity is using GPT-6 Astra in end-to-end systems to improve answer accuracy.
+
+✨ Featured expressions: end-to-end systems, move the needle, in practical terms (and alternatives in show notes)
+🔑 Key terms: accuracy //ˈækjərəsi//, deployment //dɪˈplɔɪmənt//, workflow //ˈwɜːrkfloʊ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 14 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-14</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-14/podcast.mp3" length="7379373" type="audio/mpeg"/>
+      <itunes:duration>07:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/13</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
