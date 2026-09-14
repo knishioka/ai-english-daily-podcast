@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/15</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• OpenAI: How Fyxer built an AI executive assistant people trust — OpenAI described how Fyxer built an AI executive assistant that people can trust in day-to-day work.
+• AWS Machine Learning Blog: Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore — AWS published guidance for managing end-user OAuth consent for AI agents using Amazon Bedrock AgentCore.
+
+✨ Featured expressions: build sustained user confidence, a predictable path for integrating, transform a hurdle into (and alternatives in show notes)
+🔑 Key terms: agent reliability //ˈeɪdʒənt rɪˌlaɪəˈbɪləti//, permission scope //pərˈmɪʃən skoʊp//, least privilege //liːst ˈprɪvəlɪdʒ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-15</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-15/podcast.mp3" length="6957357" type="audio/mpeg"/>
+      <itunes:duration>07:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/14</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
