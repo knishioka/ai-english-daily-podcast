@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/17</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• Google DeepMind: Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking — Google DeepMind introduced Gemini 3.8 Live and an Extended Thinking variant for live, multimodal interactions.
+• Mistral: Mistral and Mozilla are bringing open, private and multilingual AI to your web browser — Mistral and Mozilla announced work to bring open, private, multilingual AI into the web-browser experience.
+• AWS Machine Learning Blog: Optimizing agent system prompts with Amazon Bedrock AgentCore — AWS published a guide to optimizing agent system prompts with Amazon Bedrock AgentCore.
+• OpenAI: How to connect AI usage to business value — OpenAI published guidance on connecting AI usage with measurable business value.
+• AWS Machine Learning Blog: Improving HCLS AI reasoning with open-source agent skills — AWS described using open-source agent skills to improve AI reasoning in health and life sciences workflows.
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 17 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-17</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-17/podcast.mp3" length="7517997" type="audio/mpeg"/>
+      <itunes:duration>07:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/16</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
