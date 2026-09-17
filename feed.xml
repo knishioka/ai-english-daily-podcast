@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/18</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• openai: Introducing Astra for Law — OpenAI introduced Astra for Law, a legal-focused AI offering.
+• github: Migrating the GitHub Copilot runtime to Rust, using Copilot — GitHub described migrating the Copilot runtime to Rust with help from Copilot.
+• aws-ml: A shared agentic platform for Wood Mackenzie, on Amazon Bedrock AgentCore — AWS described a shared agentic platform built for Wood Mackenzie on Amazon Bedrock AgentCore.
+• vercel: The skills CLI now supports Notion hosted skills — Vercel’s Skills CLI added support for Notion-hosted skills.
+• simonwillison: Self-generated prompt injections in compaction summaries — Simon Willison documented prompt injections that can arise in compaction summaries.
+
+✨ Featured expressions: a force multiplier, lower friction, a security boundary (and alternatives in show notes)
+🔑 Key terms: verticalized AI //ˈvɜːrtɪkəlaɪzd eɪ aɪ//, agentic platform //eɪˈdʒentɪk ˈplætfɔːrm//, prompt injection //prɒmpt ɪnˈdʒekʃən//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 18 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-18</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-18/podcast.mp3" length="8358957" type="audio/mpeg"/>
+      <itunes:duration>08:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/17</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
