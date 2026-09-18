@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/19</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• GitHub Blog: Should you read the code, is RAG dead, and did Skills kill MCP? — GitHub's engineering team published a discussion (accompanying a GitHub Podcast episode) unpacking three widely-shared AI 'hot takes': whether developers still need to read AI-generated code, whether RAG is obsolete, and whether Anthropic's Skills feature has displaced MCP as the preferred way to extend agents.
+• OpenAI: Our framework for reporting model misalignment — OpenAI introduced a new framework for tracking, investigating, and disclosing instances of model misalignment, intended to make disclosures faster and more systematic than the prior ad hoc approach, and published six reports on concerning model behavior observed over the past six months.
+• Latent Space: [AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — &gt;100x faster, &gt;200x cheaper than small frontier LLMs — Startup TypeSafe launched Jev, a new type of frontier model trained via a technique they call RLCD that is not built for chat or reasoning but instead specializes in fast, cheap decisions, classification, routing, and scoring — claimed to be 20-200x faster and 40-400x cheaper than small frontier LLMs at these narrow tasks.
+• Vercel Changelog: WebMCP support now available in mcp-handler — Vercel's mcp-handler library added experimental support for WebMCP, the proposed web standard for exposing tools to in-browser agents; developers opt tools in via an `experimental_webMcp` config block and load a script tag that proxies authenticated calls back to the MCP server.
+
+✨ Featured expressions: carries substantial weight, building a robust evidence base, a fundamental re-architecture (and alternatives in show notes)
+🔑 Key terms: RAG //ræɡ//, System One Model //ˈsɪstəm wʌn ˈmɒdəl//, hybrid agent architecture //ˈhaɪbrɪd ˈeɪdʒənt ˈɑːrkɪtektʃər//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-19</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-19/podcast.mp3" length="8810925" type="audio/mpeg"/>
+      <itunes:duration>09:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/18</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
