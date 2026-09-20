@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/21</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• Anthropic: Partnering with Accenture on embedded evaluation — Anthropic announced a partnership with Accenture on embedded evaluation.
+• AWS Machine Learning Blog: Introducing Kimi K3 on Amazon Bedrock — AWS announced Kimi K3 availability on Amazon Bedrock.
+• AWS Machine Learning Blog: The new AgentCore runtime: Elastic, optimized, and consistently fast starts — AWS described updates to the AgentCore runtime focused on elasticity, optimization, and faster consistent starts.
+• AWS Machine Learning Blog: Amazon SageMaker Inference: 2026 year-to-date launches in review — AWS reviewed its 2026 year-to-date Amazon SageMaker Inference launches.
+• AWS Machine Learning Blog: Migrating multi-model AI agents to Amazon Bedrock AgentCore runtime — AWS published guidance on moving multi-model AI agents to the Amazon Bedrock AgentCore runtime.
+
+✨ Featured expressions: a pivotal factor, a holistic concern, future-proofing (and alternatives in show notes)
+🔑 Key terms: embedded evaluation //ɪmˈbɛdɪd ɪˌvæljuˈeɪʃən//, elasticity //ɪlæˈstɪsəti//, inference //ˈɪnfərəns//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 21 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-21</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-21/podcast.mp3" length="7507245" type="audio/mpeg"/>
+      <itunes:duration>07:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/20</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
