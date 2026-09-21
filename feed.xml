@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/22</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• OpenAI: How V7 gives AI agents institutional memory — OpenAI describes how V7 gives AI agents institutional memory.
+• Hugging Face Blog: tokenizers v1: encode, decode and scaling, measured — Hugging Face published benchmark results for the tokenizers v1 release candidate across encoding, decoding, scaling, latency, throughput, memory, and package size.
+• AWS Machine Learning Blog: xAI’s Grok 4.6 is now available in Amazon Bedrock — AWS announced Grok 4.6 availability in Amazon Bedrock, including a 500K-token context window and configurable reasoning effort levels.
+• Vercel Changelog: Grok 4.7 now available and 40% off on AI Gateway, fx, and eve — Vercel added Grok 4.7 to AI Gateway, fx, and eve, with a one-week discount and selectable reasoning levels.
+• Interconnects: The current balance of power in open models — Nathan Lambert published expanded congressional testimony on the economic relevance and adoption patterns of open-weight models.
+
+✨ Featured expressions: starting from zero, a direct lever, a portfolio of operational choices (and alternatives in show notes)
+🔑 Key terms: institutional memory //ˌɪnstɪˈtuːʃənəl ˈmɛməri//, tokenizer //ˈtoʊkənaɪzər//, supplier risk //səˈplaɪər rɪsk//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-22</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-22/podcast.mp3" length="6342957" type="audio/mpeg"/>
+      <itunes:duration>06:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/21</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
