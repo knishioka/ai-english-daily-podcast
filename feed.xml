@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/23</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• OpenAI: Introducing GPT-6 Sol and Luna — OpenAI introduced GPT-6 Sol and GPT-6 Luna as new models.
+• OpenAI: Better prompt caching for GPT-6 — OpenAI announced improved prompt caching for GPT-6.
+• Hugging Face Blog: Transformers now runs llama.cpp quants — Hugging Face added support for running llama.cpp quantized models through Transformers using ggml kernels.
+• AWS Machine Learning Blog: Evaluate skill-equipped agents with Strands Evals and Amazon Bedrock AgentCore — AWS described evaluators for skill selection and skill instruction following using recorded agent trajectories.
+• Latent Space: [AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M — Latent Space reported on Xiaomi's MiMo-V2.6-Pro open-weights model and its stated training cost.
+
+✨ Featured expressions: reassess AI strategies, tangible benefits, a seamless pathway (and alternatives in show notes)
+🔑 Key terms: prompt caching //prɒmpt ˈkæʃɪŋ//, quantization //ˌkwɒntɪˈzeɪʃən//, agent trajectory //ˈeɪdʒənt trəˈdʒektəri//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-23</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-23/podcast.mp3" length="8462253" type="audio/mpeg"/>
+      <itunes:duration>08:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/22</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
