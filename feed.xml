@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/24</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• deepmind: Advancing Private AI Compute with secure, server-side memory — Google DeepMind described a planned server-side memory layer for Private AI Compute, with device-held keys and isolated cloud enclaves.
+• deepmind: Gemini 3.8 text-to-speech says hello — Google introduced Gemini 3.8 Flash TTS and Flash-Lite TTS with custom voice design and line-level delivery controls.
+• huggingface: How UK AISI and EvalEval Are Making Benchmark Results Reproducible — UK AI Security Institute began sharing verified evaluation results and setup information through EvalEval Evaluation Cards.
+• cursor: Rollouts and Security Review — Cursor launched Rollouts to monitor changes as they deploy and Security Review to flag exploitable bugs in pull requests for Teams and Enterprise.
+• modal: How to serve trillions of tokens for trillion-parameter coding agents — Modal described optimizations for serving Kimi K2.6 in coding-agent workloads, reporting 2.8x per-user and 5.6x aggregate per-replica performance gains.
+
+✨ Featured expressions: a level playing field, the last mile of shipping code, far-reaching implications (and alternatives in show notes)
+🔑 Key terms: cloud enclave //klaʊd ˈɛn.kleɪv//, provenance safeguards //ˈprɑː.və.nəns ˈseɪf.ɡɑːrdz//, inference budget //ˈɪn.fə.rəns ˈbʌdʒ.ɪt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-24</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-24/podcast.mp3" length="8453805" type="audio/mpeg"/>
+      <itunes:duration>08:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/23</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
