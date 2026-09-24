@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/25</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• aws-ml: Build a multi-account AI agent with AgentCore Gateway and MCP — AWS published a multi-account architecture in which a central AgentCore Gateway connects an agent to MCP servers owned by separate business-line accounts.
+• langchain: LangSmith Engine v2: Red teaming and automated testing — LangChain launched Engine v2 with proactive red teaming, detection of inefficient agent paths and performance trends, and automated validation of proposed fixes.
+• langchain: Managed Deep Agents v0.8: new auth, memory, and channels — LangChain released Managed Deep Agents 0.8 with user-owned credentials, user-scoped memory, HTTP channels, Slack file transfer, and built-in web search.
+• langchain: Trajectories now in LangSmith: A readable view of every agent session — LangChain introduced LangSmith Trajectories, a chronological view of messages and actions across an agent session and its subagents.
+
+✨ Featured expressions: far from straightforward, A key hurdle, shifts from reactive bug fixing to proactive QA (and alternatives in show notes)
+🔑 Key terms: federated tool access //ˈfedəreɪtɪd tuːl ˈækses//, red teaming //ˈred ˌtiːmɪŋ//, user-scoped memory //ˈjuːzər skoʊpt ˈmeməri//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 25 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-25</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-25/podcast.mp3" length="7030317" type="audio/mpeg"/>
+      <itunes:duration>07:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/24</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
