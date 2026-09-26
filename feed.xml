@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/26</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Google DeepMind: Introducing Gemini 3.8 Live with Live Avatar — Google introduced Gemini 3.8 Live with Live Avatar on September 24. It couples live dialogue with low-latency streaming video, supports background tool calls and 97 languages, and is available in Gemini Enterprise.
+• GitHub Blog: AI-powered fuzzing with the GitHub Security Lab Taskflow Agent — GitHub Security Lab published a fuzzing taskflow that identifies entry points, writes harnesses, runs AFL++, examines coverage, improves harnesses, triages crashes and reports unique bugs for C/C++ repositories.
+• AWS ML Blog: Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput — AWS describes using DeepEP over EFA on 48 P5en instances for Mixture-of-Experts reinforcement-learning rollouts, reporting 40 percent higher aggregate rollout throughput.
+• Vercel: State of agent skills — Vercel reports that skills.sh reached one million skills in seven months and nearly 280 million installs. A small minority of skills accounts for most installs, while cross-industry skills lead adoption.
+
+✨ Featured expressions: balancing innovation with responsible deployment, not universally transferable, identify bottlenecks beyond raw compute (and alternatives in show notes)
+🔑 Key terms: background tool calls //ˈbækˌɡraʊnd tuːl kɔːlz//, fuzzing //ˈfʌzɪŋ//, rollout throughput //ˈroʊlaʊt ˈθruːpʊt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 26 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-26</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-26/podcast.mp3" length="8180013" type="audio/mpeg"/>
+      <itunes:duration>08:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/25</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
