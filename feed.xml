@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/28</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• Latent Space: OpenRouter: From Seed to Stripe — with OpenRouter's Alex Atallah &amp; AMP's Anjney Midha — Latent Space's podcast traces OpenRouter's path from a skeptically-received 'model wrapper' to critical multi-model routing infrastructure serving over 10 million developers and 10+ trillion tokens per day, culminating in its 2026 acquisition by Stripe.
+• LangChain Blog: Building Prod with Jev and LangGraph — LangChain shows how TypeSafe AI's Jev, a decision model that returns typed answers with probabilities instead of generated text, plugs into LangGraph so that narrow classification steps (like reviewing legal-discovery documents) run 5-6x faster than routing the same step through a frontier LLM like Claude Sonnet, while LangGraph still handles orchestration, checkpointing, and human-in-the-loop escalation.
+• Latent Space: Runway's WorldPrompt and the Engineering of Real-Time Worlds — Runway introduced GWM Worlds 2 with a new input format called WorldPrompt, letting creators fix certain elements (like the opening frame) while scheduling timestamped actions that steer a generated environment in real time, solving the twin engineering challenges of frame-by-frame generation during interaction and keeping playback-speed performance at 720p and 24 frames per second.
+• OpenAI: Proaction boosts sales 60% and saves 75+ hours with Codex — Fleet-management software startup Proaction has its non-technical co-founder build custom, interactive sales demos directly in Codex using each prospect's own call transcripts and data, cutting 40-60 hours of engineering time per month and increasing the share of deals that move into solution development by 50-60%.
+• AWS Machine Learning Blog: Accelerate multimodal RL training with SkyRL on Amazon SageMaker HyperPod — AWS walks through using the open-source SkyRL framework's GRPO post-training method to train a Qwen3-VL-8B vision-language model on maze-navigation tasks using Amazon SageMaker HyperPod's managed Ray clusters and shared storage, raising maze-solving accuracy from 43.75% to over 95%.
+
+✨ Featured expressions: a mere stopgap solution, the unbundling of intelligence, democratizes the ability to (and alternatives in show notes)
+🔑 Key terms: provider-agnostic //ˈproʊvaɪdər æɡˈnɒstɪk//, checkpointing //ˈtʃɛkpɔɪntɪŋ//, vision-language model //ˈvɪʒən ˈlæŋɡwɪdʒ ˈmɒdəl//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 28 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-28</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-28/podcast.mp3" length="9276333" type="audio/mpeg"/>
+      <itunes:duration>09:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/26</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
