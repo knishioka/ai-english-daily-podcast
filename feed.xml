@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/29</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• Anthropic: Introducing Claude Sonnet 5.5 — Anthropic released Sonnet 5.5 on September 28. It reports over 30% faster output than Sonnet 5 and up to 30% lower cost per task, while keeping the same token list prices.
+• H Company / Hugging Face: Holo4: powering generalist computer-use agents — H Company introduced Holo4-27B and Holo4-35B-A3B, available through its API with model weights and benchmark trajectories on Hugging Face.
+• GitHub Security Lab: How we found 24 Android vulnerabilities using our open source AI security agent — GitHub Security Lab reported 24 Android vulnerabilities found and reported using targeted auditing taskflows for its open-source Taskflow Agent.
+• xAI / SpaceXAI: Team Bots: AI coworkers that learn from your team — SpaceXAI launched Team Bots on September 28: shared Grok Bots configured with context, plugins, credentials and memories, with private per-user conversations.
+
+✨ Featured expressions: a compelling middle ground, re-evaluate workflows, keep pace with (and alternatives in show notes)
+🔑 Key terms: throughput //ˈθruːpʊt//, token prices //ˈtoʊkən ˈpraɪsɪz//, benchmark trajectories //ˈbentʃmɑːrk trəˈdʒektəriz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 29 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-29</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-29/podcast.mp3" length="8575533" type="audio/mpeg"/>
+      <itunes:duration>08:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/28</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
