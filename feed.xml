@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 09/30</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• OpenAI: Introducing GPT-6.1 Sol — OpenAI launched GPT-6.1 Sol, saying it approaches Astra on agentic coding and professional work at one fifth of Astra standard token prices.
+• OpenAI: Introducing dots — OpenAI introduced dots, persistent agents powered by GPT-6 Astra with their own cloud computer and connected apps.
+• OpenAI: DevDay 2026 Recap — OpenAI announced Agents API computer use, Codex cloud workflows, plugin extensions and MCP events among more than 20 DevDay announcements.
+• AWS: Introducing Anthropic models on Amazon Bedrock for in-region inference in Seoul and Singapore — Amazon Bedrock added in-region inference for Claude Opus 5 and Sonnet 5 in Seoul, and Sonnet 5 in Singapore.
+
+✨ Featured expressions: reassess model routing, within existing budgets, lower the barrier to entry (and alternatives in show notes)
+🔑 Key terms: agentic coding //eɪˈdʒɛntɪk ˈkoʊdɪŋ//, model routing //ˈmɑːdəl ˈruːtɪŋ//, in-region inference //ɪn ˈriːdʒən ˈɪnfərəns//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 30 Sep 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-09-30</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-09-30/podcast.mp3" length="8089773" type="audio/mpeg"/>
+      <itunes:duration>08:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 09/29</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
