@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/02</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Hugging Face Blog: Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs — Ai2 introduced Olmo-core 3, an open infrastructure stack for scaling mixture-of-experts training. Its article reports a 47-billion-parameter benchmark with less than 5% throughput loss when expanding the expert pool.
+• AWS ML Blog: Build agent memory with NVIDIA NeMo Agent Toolkit and Amazon S3 Vectors — AWS describes implementing Amazon S3 Vectors as a persistent memory provider for NVIDIA NeMo Agent Toolkit and deploying the stack on Amazon EKS.
+• AWS ML Blog: Building ambient agents with Amazon Bedrock AgentCore: From event-driven signals to human-in-the-loop workflows — AWS shows an AgentCore architecture where events such as S3 uploads or alerts trigger agents, with SQS, Lambda, DynamoDB and an ask_human tool supporting human review.
+• Modal Labs Blog: VM Sandboxes: Full computers for agents — Modal introduced VM Sandboxes, which give agents an isolated full computer environment rather than only a constrained code process.
+
+✨ Featured expressions: a central design challenge, starts from scratch, move beyond chat prompts (and alternatives in show notes)
+🔑 Key terms: Mixture-of-Experts //ˈmɪkstʃər əv ˈɛkspɜːrts//, vector embeddings //ˈvɛktər ɪmˈbɛdɪŋz//, ambient agents //ˈæmbiənt ˈeɪdʒənts//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-02</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-02/podcast.mp3" length="8257197" type="audio/mpeg"/>
+      <itunes:duration>08:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/01</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
