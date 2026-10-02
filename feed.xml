@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/03</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• OpenAI News: A model guide for the GPT-6 family — The guide maps GPT-6 models to workloads and recommends measurement, caching, compaction, steering and asynchronous tools.
+• Hugging Face Blog: Open-sourcing AstaBrief, the fast report-generation model in Asta — Ai2 released AstaBrief 8B, an open model trained for cited scientific report generation in its Asta platform.
+• AWS ML Blog: Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore — AWS published an integration pattern for giving Claude Desktop secure web search through Amazon Bedrock AgentCore.
+• AWS ML Blog: Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI — AWS describes fine-tuning a search agent with multi-turn reinforcement learning on SageMaker AI.
+• Vercel Blog: How Rogo ships agent-written code to production in 5 minutes on Vercel — Vercel reports that Rogo ships agent-written code to production in five minutes, makes over 73,000 deployments monthly, and uses agent swarms for incident response.
+
+✨ Featured expressions: a strategic deployment blueprint, a controlled mechanism, across full interaction cycles (and alternatives in show notes)
+🔑 Key terms: compaction //kəmˈpæk.ʃən//, report-generation model //rɪˈpɔːrt ˌdʒen.əˈreɪ.ʃən ˈmɑː.dəl//, search trajectory //sɝːtʃ trəˈdʒek.tɚ.i//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-03</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-03/podcast.mp3" length="9078573" type="audio/mpeg"/>
+      <itunes:duration>09:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/02</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
