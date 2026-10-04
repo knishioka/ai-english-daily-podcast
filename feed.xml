@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/05</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• Hugging Face Blog: The Agent Said It Was Done. The Database Disagreed. — Microsoft and Hugging Face released ThinkingBox, an agent evaluation environment and 507-workflow benchmark that checks terminal backend state and side effects across 20 trials.
+• Vercel Blog: Jev for Python engineers — Vercel added an experimental evaluate() API in its Python AI SDK for Jev, a model designed for narrow classification decisions.
+• Simon Willison: We're going to need default hard budget caps on pretty much everything — Simon Willison argues that usage-based services should default to hard monthly budget caps as coding agents lower the friction of creating billable workloads.
+
+✨ Featured expressions: equates to successful task completion, scrutinizing the final condition, using the right tool for the right job (and alternatives in show notes)
+🔑 Key terms: terminal backend state //ˈtɝːmɪnəl ˈbækˌɛnd steɪt//, side effects //ˈsaɪd ɪˌfɛkts//, classification decisions //ˌklæsɪfɪˈkeɪʃən dɪˈsɪʒənz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-05</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-05/podcast.mp3" length="8054445" type="audio/mpeg"/>
+      <itunes:duration>08:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/04</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
