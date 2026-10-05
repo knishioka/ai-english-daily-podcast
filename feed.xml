@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/06</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• GitHub Blog: ReviewBench: An open benchmark for AI code review — GitHub released ReviewBench, an open offline benchmark with 219 public pull requests across 19 languages and validated review findings.
+• AWS ML Blog: New agent skill: Amazon SageMaker optimized generative AI inference for your coding agent — AWS introduced the aws-ai-ml skill in its Agent Toolkit, letting compatible coding agents benchmark SageMaker inference endpoints and generate reviewable deployment code.
+• AWS ML Blog: Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases — AWS demonstrated agentic retrieval in Bedrock Managed Knowledge Bases through langchain-aws, comparing a multi-step planning loop with standard retrieval.
+
+✨ Featured expressions: a common language for comparing AI solutions, grounded in objective benchmark results, weigh enhanced accuracy against increased time and cost (and alternatives in show notes)
+🔑 Key terms: benchmark /ˈbentʃmɑːrk/, inference /ˈɪnfərəns/, retrieval /rɪˈtriːvəl/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-06</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-06/podcast.mp3" length="7336365" type="audio/mpeg"/>
+      <itunes:duration>07:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/05</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
