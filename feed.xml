@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/07</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• OpenAI: Advancing computer use with Ironclad — OpenAI and Ironclad designed 11 complex contracting tasks. GPT-6 Astra averaged 55.0% against GPT-5.6 Sol’s 41.6%, with estimated task time falling from 37.0 to 19.2 minutes.
+• Mistral: Introducing Mistral Large 4 — Mistral launched a public preview of Large 4, a one-trillion-parameter multimodal model with 49 billion active parameters. Model weights are promised by the end of October, not available yet.
+• GitHub Blog: Building Git infrastructure for agent-scale development — GitHub says Git activity rose from 218.2 billion to 473.3 billion monthly events between September 2025 and August 2026, while September saw 7.38 billion commits. It is rebuilding Git infrastructure for concurrent agent writes.
+• AWS ML Blog: Building a context-aware AI assistant on AgentCore and OpenClaw — AWS published a reference architecture that runs an OpenClaw gateway in AgentCore runtime, uses AgentCore memory for durable context, and receives Telegram messages and scheduled events.
+• Anthropic: Expanding the Cyber Verification Program — Anthropic expanded its Cyber Verification Program to Defense, Red Team, and Specialized access tiers for vetted security professionals.
+
+✨ Featured expressions: a clear pathway for, In a related vein, Put differently (and alternatives in show notes)
+🔑 Key terms: open-weight model //ˌoʊpən ˈweɪt ˈmɑːdəl//, write throughput //raɪt ˈθruːpʊt//, reference architecture //ˈrefərəns ˈɑːrkətektʃər//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-07</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-07/podcast.mp3" length="8625453" type="audio/mpeg"/>
+      <itunes:duration>08:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/06</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
