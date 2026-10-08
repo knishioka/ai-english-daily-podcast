@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/09</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• openai: How Oracle turns days of work into minutes with ChatGPT and Codex — Oracle’s recruiting team used a ChatGPT Work tool to reduce talent-market research that took 2–4 days to roughly 15–20 minutes of preparation. Its applications team uses an ontology and Codex to turn business questions into SQL-backed answers.
+• huggingface: Multimodal open d1 decision models for the edge — Liquid AI released open d1-3B and experimental d1-omni-600M decision models. They answer structured questions in a single forward pass rather than generating tokens; d1-3B supports text and images, and the experimental omni model adds audio combinations.
+• aws-ml: Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments — AWS described how Incarna agents pay BlockRun for individual inference requests using Amazon Bedrock AgentCore payments and x402-compatible endpoints, with spending limits enforced by infrastructure.
+
+✨ Featured expressions: extract tangible business benefits, a critical prerequisite, paving the way for (and alternatives in show notes)
+🔑 Key terms: ontology //ɑːnˈtɑːlədʒi//, forward pass //ˈfɔːrwərd pæs//, latency //ˈleɪtənsi//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-09</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-09/podcast.mp3" length="9105453" type="audio/mpeg"/>
+      <itunes:duration>09:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/08</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
