@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/10</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• anthropic: Introducing the Anthropic Cyber Mission — Anthropic launched the Cyber Mission, including a Critical Infrastructure Defense Program with frontier Claude models and on-site engineers, and free periodic OSS Scanner reports for enrolled open-source projects.
+• openai: Asana cuts model costs 76x in browser tests with GPT-6.1 Sol — Asana used GPT-6 Astra in Codex to optimize its StackAI browser agent. In a 144-run study, the optimized GPT-6.1 Sol workflow averaged $0.47 estimated model cost and about four minutes per run, 76 times cheaper and five times faster than its prior production setup on a different model.
+• openai: Sophos cuts threat investigation time by 96% with OpenAI Daybreak — Sophos reports average response time for agent-assisted cases fell from about 38 minutes to 89 seconds; it says 52% of managed detection and response cases are resolved end-to-end by AI, under customer-defined authorization modes.
+
+✨ Featured expressions: beyond mere model access, isn't a magic bullet, offloads routine tasks (and alternatives in show notes)
+🔑 Key terms: critical infrastructure //ˌkrɪtɪkəl ˈɪnfrəˌstrʌktʃər//, vulnerability discovery //ˌvʌlnərəˈbɪləti dɪˈskʌvəri//, caching //ˈkæʃɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-10</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-10/podcast.mp3" length="6915117" type="audio/mpeg"/>
+      <itunes:duration>07:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/09</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
