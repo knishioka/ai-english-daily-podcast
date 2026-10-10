@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/11</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• aws-ml: How Postman runs Agent Mode for 40 million developers on Amazon Bedrock — Postman and AWS described production Agent Mode architecture, including dynamic selection of about 15 relevant tools from more than 170, schema-based reads, context isolation, prompt caching, and approval for state-changing actions. Postman reported tool-selection errors rising once visible tools exceeded about 40. The 40 million figure refers to Postman developers, not necessarily Agent Mode users.
+• huggingface: Impactful scheduling for GPU clusters — Ai2 replaced priority-based scheduling with GPU time budgets, hierarchical fair-share allocation, and a time-slicing contract. It describes clusters of 88 to 1024 GPUs, roughly 150 internal researchers, and outstanding demand of two to three times available GPU capacity.
+• latentspace: Building AI for Reliable Execution: Lessons From Industrial Robotics — Latent Space interviewed Standard Bots leaders about factory robot arms using pretrained models for perception and task adaptation, conventional programming for motion and cell logic, and local inference for reliability. The company reports using human corrections from deployments to improve tasks where customer arrangements allow.
+
+✨ Featured expressions: a practical limitation, priority inflation, moving beyond simply acquiring more GPUs (and alternatives in show notes)
+🔑 Key terms: tool orchestration //tuːl ˌɔːrkɪˈstreɪʃən//, hierarchical fair-share allocation //ˌhaɪəˈrɑːrkɪkəl ˌfer ˈʃer ˌæləˈkeɪʃən//, time-slicing //ˈtaɪm ˌslaɪsɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-11</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-11/podcast.mp3" length="8148525" type="audio/mpeg"/>
+      <itunes:duration>08:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/10</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
