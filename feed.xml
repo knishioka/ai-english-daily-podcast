@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/12</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• vercel: Agents can now buy domains with the Vercel CLI — Vercel CLI now lets agents search domains, check availability and pricing, and initiate a purchase; a human must approve the final transaction.
+• deno: Deno is joining Cloudflare — Deno is joining Cloudflare. Deno will continue runtime development for one year, then end it; Deno remains open source. The teams will work on Workers and self-hosted workerd.
+
+✨ Featured expressions: a manual bottleneck, remain firmly in human hands, a critical decision point (and alternatives in show notes)
+🔑 Key terms: runtime //ˈrʌn.taɪm//, serverless //ˈsɝː.vɚ.ləs//, deployment pipeline //dɪˈplɔɪ.mənt ˈpaɪp.laɪn//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-12</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-12/podcast.mp3" length="7079085" type="audio/mpeg"/>
+      <itunes:duration>07:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/11</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
