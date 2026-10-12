@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/13</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• aws-ml: Accessing OpenAI GPT models on Amazon Bedrock with global cross-Region inference in Thailand, Malaysia, Singapore, Indonesia, and Taiwan — Amazon Bedrock now offers global cross-Region inference profiles for GPT-6 Sol and Luna from Thailand, Malaysia, Singapore, Indonesia, and Taiwan, and GPT-6 Astra from Singapore. Requests may be processed in a destination Region while billing and monitoring remain in the source Region.
+• aws-ml: Run multi-node inference workloads using Ray LLM Deep Learning Containers — AWS demonstrates a multi-node Ray LLM Deep Learning Container on Amazon EKS, separating prompt prefill and token decode on two GPU nodes behind an OpenAI-compatible endpoint. The approach targets performance at scale but requires fast key-value cache transfer.
+• modal: Endpoint Candidates: evaluate and promote inference endpoints — Modal has released Endpoint Candidates for Dedicated Endpoints. Teams can mirror a sample of production traffic to a candidate, inspect latency and throughput, run quality evaluations, and promote it after testing. The feature is generally available for Modal workspaces.
+
+✨ Featured expressions: capacity planning and deployment choices, under live load, a high-fidelity environment (and alternatives in show notes)
+🔑 Key terms: cross-Region inference //ˌkrɔːs ˈriːdʒən ˈɪnfərəns//, prompt prefill //prɒmpt ˈpriːfɪl//, token decode //ˈtəʊkən diːˈkəʊd//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 13 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-13</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-13/podcast.mp3" length="6557997" type="audio/mpeg"/>
+      <itunes:duration>06:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/12</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
