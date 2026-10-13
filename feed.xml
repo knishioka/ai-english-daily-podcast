@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/14</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• google-ai: Gemini 4 Argon: Built to solve your hardest problems — Google made Gemini 4 Argon generally available to developers and enterprises through its API and AI Studio, with access also through Antigravity, the Gemini app and Search for eligible subscribers. Google cites internal codebase refactoring and Agent Development Kit performance improvements.
+• huggingface: Run fast, private agents on-device with LFM2.5-24B-A2B — Liquid AI introduced LFM2.5-24B-A2B, a 24-billion-parameter reasoning model that activates 2 billion parameters per token, supports tool use, and targets private on-device agents.
+• github: GitHub’s model for secret detection: Finding more secrets with less noise — GitHub described a two-stage secret scanner combining broad regex candidate generation with a fine-tuned ModernBERT classifier. It reports 11.5% higher owner-weighted alert acceptance, 86% lower median post-push scan time, and over 98% lower serving cost versus its previous LLM pipeline.
+• aws-ml: Building agents that transact with Anchor Browser and AgentCore payments — AWS described Anchor Browser integration with Amazon Bedrock AgentCore payments for agents accessing x402-protected web pages and APIs; the service handles wallet connectivity, spending limits, and payment observability.
+• modal: Toward RL on mixed-precision, mixed-accelerator samplers — Modal reports reinforcement-learning training with samplers running different accelerators and precisions while a BF16 trainer uses off-policy correction to keep training stable.
+
+✨ Featured expressions: move beyond theoretical assessments, operational footprint, operational overhead (and alternatives in show notes)
+🔑 Key terms: general availability //ˌdʒenərəl əˌveɪləˈbɪləti//, on-device agents //ˌɑːn dɪˈvaɪs ˈeɪdʒənts//, ModernBERT classifier //ˈmɑːdərn bɜːrt ˈklæsɪˌfaɪər//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 14 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-14</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-14/podcast.mp3" length="7898157" type="audio/mpeg"/>
+      <itunes:duration>08:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/13</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
