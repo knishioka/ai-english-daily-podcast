@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/15</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• openai: Amp puts AI agents to work beyond code with OpenAI models — Amp describes using OpenAI models for coding, product planning, design, marketing, and real-time voice control through Puck.
+• openai: How Third Moment Research runs 10,000 agents for 36+ hours — Third Moment Research reports running 10,000 agents concurrently for 36–48-hour research sessions. Codex identified caching and memory-packing improvements that cut a backtest from about three hours to three to five minutes.
+• aws-ml: Build self-improving document processing using Amazon Bedrock AgentCore — AWS published a reference implementation with eight agents that identify, extract, validate, and save instructions for new document formats using Bedrock AgentCore.
+• xai: Introducing Grok Voice 3.0 — SpaceXSI announced Grok Voice 3.0 on October 14. It claims sub-second latency, 86.9 on the Artificial Analysis Speech-to-Speech Index, and availability at $0.08 per minute.
+
+✨ Featured expressions: a force multiplier across functions, look beyond raw ML model performance, weigh cost-effectiveness against user experience (and alternatives in show notes)
+🔑 Key terms: backtest //ˈbækˌtɛst//, orchestration //ˌɔːrkɪˈstreɪʃən//, extraction //ɪkˈstrækʃən//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-15</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-15/podcast.mp3" length="8464173" type="audio/mpeg"/>
+      <itunes:duration>08:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/14</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
