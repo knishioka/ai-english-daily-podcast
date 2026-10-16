@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/17</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Hugging Face: Welcome Beam: a 501B open model you can own, customize, and scale — Reflection released Beam on Hugging Face: a 501-billion-parameter mixture-of-experts model with 23 billion active parameters per token, one-million-token context, and Apache 2.0 license.
+• Vercel: Vercel and Shopify make agents first-class shoppers — Vercel Shop, an open-source Next.js storefront template for Shopify, became generally available. It exposes product information and tools for agents; Shopify's rebuilt Hydrogen SDK is also generally available.
+• Google DeepMind: Accelerating the search for antimicrobial peptides with Google Antigravity — Google DeepMind described an Antigravity workbench workflow that found a computationally promising antimicrobial peptide candidate by combining database search and structural evidence; wet-lab validation is ongoing.
+• AWS Machine Learning Blog: Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore — AWS described an internal agent-quality framework using Amazon Bedrock AgentCore for field-sales answers, including pre-release and production evaluation of groundedness and correctness.
+• OpenAI: Stack Overflow for Agents triples signups with ChatGPT plugin — OpenAI reported that a Stack Overflow for Agents ChatGPT plugin tripled signups overnight and that a two-engineer team built the product in weeks using Codex.
+
+✨ Featured expressions: weigh the benefits of, minimizes development overhead and complexity, A clear distinction between (and alternatives in show notes)
+🔑 Key terms: mixture-of-experts /ˈmɪkstʃər əv ˈɛkspɜːrts/, machine-readable /məˈʃiːn ˈriːdəbəl/, wet-lab validation /ˈwɛt læb ˌvælɪˈdeɪʃən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 17 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-17</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-17/podcast.mp3" length="10037805" type="audio/mpeg"/>
+      <itunes:duration>10:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/15</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
