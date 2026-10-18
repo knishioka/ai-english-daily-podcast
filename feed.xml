@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/16</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• huggingface: Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta — Hugging Face published deployment guidance for Meta Muse Spark Open, an approximately 816-billion-parameter mixture-of-experts model with roughly 42 billion active parameters per token. It accepts text, images, audio and video and outputs text.
+• vercel: Introducing Vercel Drives: persistent storage for agents — Vercel Drives became generally available for Vercel Sandbox. Developers can mount the same persistent drive in a new sandbox, share read-only copies and fork drives.
+• aws-ml: Trust in Depth: Giving agents more autonomy without losing control — AWS introduced its Trust in Depth framing: scope agents before runs, account for identity at deployment, bound actions during runs, and observe them afterward.
+
+✨ Featured expressions: broaden options, addresses the governance challenge, lowers barriers (and alternatives in show notes)
+🔑 Key terms: mixture-of-experts /ˈmɪkstʃər əv ˈɛkspɜːrts/, persistent storage /pərˈsɪstənt ˈstɔːrɪdʒ/, read-only copies /ˌriːd ˈoʊnli ˈkɑːpiz/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 16 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-16</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-16/podcast.mp3" length="7276077" type="audio/mpeg"/>
+      <itunes:duration>07:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/18</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
