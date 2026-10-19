@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/20</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• huggingface: TorchNeuron: running HF models on AWS Trainium is easier than ever — Hugging Face says TorchNeuron makes Trainium a native PyTorch device with eager execution and torch.compile; public beta begins October 20.
+• github: How to continue a GitHub Copilot app session in VS Code — GitHub explains that a Copilot app session can open in VS Code with its conversation, code changes, worktree, and context intact.
+• aws-ml: Push-based KV transfer to improve TTFT and TPOT for disaggregated inference in vLLM — AWS contributed a push-based key-value cache transfer connector to vLLM for disaggregated prefill and decode; its benchmark reports up to 3x better time to first token and up to 30% better time per output token.
+• modal: NVIDIA Vera CPUs double throughput for Modal Sandboxes — Modal reports that its representative agent-sandbox benchmark showed roughly 2x throughput on an NVIDIA Vera CPU server, while saying production support would require Arm infrastructure changes.
+• aws-ml: Improve TTFT for multi-turn agentic workloads with bi-directional KV transfer in vLLM — AWS contributed bi-directional key-value cache transfer to vLLM so prefill nodes can reuse context generated on decode nodes across conversation turns; its benchmarks report up to 1.6x and 3.3x lower time to first token for two tested models.
+
+✨ Featured expressions: accelerator lock-in, cognitive load, critical path (and alternatives in show notes)
+🔑 Key terms: worktree //ˈwɝːkˌtriː//, prefill //ˈpriːfɪl//, throughput //ˈθruːpʊt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-20</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-20/podcast.mp3" length="10199085" type="audio/mpeg"/>
+      <itunes:duration>10:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/19</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
