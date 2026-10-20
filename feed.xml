@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/21</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• mistral: Voxtral 3 — A new multilingual voice-agent SDK joins transcription, speech, reasoning and tool calls in a live pipeline.
+• huggingface: ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model — IBM Research reports a GPT-4.1 customer-service agent reached 67.5% Pass^4 on retail tasks after learned guidelines were appended to its prompt.
+• huggingface: Hugging Face ❤️ TorchTPU: TPUs, Natively — Hugging Face says Transformers and Diffusers can run on TPUs with native TorchTPU rather than relying on PyTorch/XLA.
+• aws-ml: Work management context for AI agents with Smartsheet MCP on AWS — AWS describes Smartsheet’s generally available MCP server with more than 40 tools and integrations through Amazon Quick and Kiro.
+• xai: Using Grok Bot to detect and respond to incidents — xAI describes IncidentWatch spotting ticket spikes and IncidentSweep processing approved batches; one incident saw 204 tickets cleared in about 10 minutes.
+
+✨ Featured expressions: a trade-off between comprehensive support and rapid agent iteration, reducing total cost of ownership, with fewer modifications and less specialized knowledge (and alternatives in show notes)
+🔑 Key terms: voice-agent SDK //ˈvɔɪs ˌeɪdʒənt ˌɛs diː ˈkeɪ//, learned memory //lɝːnd ˈmɛməri//, TPU //ˌtiː piː ˈjuː//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-21</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-21/podcast.mp3" length="8804397" type="audio/mpeg"/>
+      <itunes:duration>09:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/20</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
