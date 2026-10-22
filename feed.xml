@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/23</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• OpenAI: Build more responsive apps with the Decisions API — OpenAI made the Decisions API generally available, offering predicate, choice, and score answers for bounded questions; it reports up to 10x faster operation than GPT-6 Luna via the Responses API.
+• Anthropic: Donating Agent Skills to the Agentic AI Foundation — Anthropic donated Agent Skills, an open standard for giving agents specialized knowledge and workflows, to the Agentic AI Foundation; its announcement says more than 70 agent platforms have integrated it.
+• AWS Machine Learning Blog: Announcing new ways to customize models with SageMaker AI, without managing GPUs — AWS announced general availability of SageMaker AI serverless model customization training sessions, letting developers write and coordinate post-training loops while the service handles GPU allocation, distributed execution, fault recovery, and checkpoints.
+• GitHub Blog: The bridge to agent-scale Git infrastructure — GitHub reports copies of 99.99999% of repositories in Azure and its own data centers, with Azure serving about half of Git traffic, while it works on per-reference quorums and decoupled reads for the busiest repositories.
+
+✨ Featured expressions: where speed and precision are paramount, setting the stage for, Put differently (and alternatives in show notes)
+🔑 Key terms: quorum /ˈkwɔːrəm/, predicate /ˈprɛdɪkət/, interoperability /ˌɪntərˌɑːpərəˈbɪləti/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 23 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-23</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-23/podcast.mp3" length="8293293" type="audio/mpeg"/>
+      <itunes:duration>08:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/22</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
