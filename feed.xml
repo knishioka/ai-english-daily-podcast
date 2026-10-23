@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/24</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Vercel: How Vercel Agent accesses production safely — Vercel Agent investigates with read-only access, then proposes a plan specifying work and permission scopes; approval grants the additional permissions needed for changes.
+• AWS ML Blog: Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide — Amazon SageMaker AI now supports multi-turn reinforcement learning where an agent executes an episode and receives outcome-based reward; the Wordle example improved gpt-oss-20b solve rate from 61% to 84% at default reasoning effort.
+• Modal Labs: Introducing our Training API — Modal released Spindle, an open-source training server deployed in a Modal workspace that supports custom training loops and distributed training.
+
+✨ Featured expressions: directly tied to an approved course of action, focus on the desired final outcome, manage costs more predictably (and alternatives in show notes)
+🔑 Key terms: permission scopes /pəˈmɪʃən skoʊps/, outcome-based reward /ˈaʊtkʌm beɪst rɪˈwɔːrd/, training loops /ˈtreɪnɪŋ luːps/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-24</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-24/podcast.mp3" length="8569773" type="audio/mpeg"/>
+      <itunes:duration>08:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/23</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
