@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/25</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• OpenAI Blog + Changelog: Securing our frontier model training environment — OpenAI hardened its frontier training and evaluation environments, chose no live internet access, and red-teamed the boundaries with frontier agents.
+• OpenAI Blog + Changelog: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) — OpenAI describes how Habitat uses Azure Cosmos DB with co-managed containers, data movement, and caching to serve more than one billion ChatGPT users.
+• Hugging Face Blog: Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox — ThinkingBox training uses executable checks of final database state as reinforcement-learning rewards; the reported Qwen3.8-27B average success rose from 51.70% to 60.78% after 50 training steps.
+• Hugging Face Blog: LitPivot: Developing research ideas through dynamic contextualization within the literature landscape — Ai2 and University of Pennsylvania researchers built LitPivot to critique and revise research ideas against relevant papers; in a 17-researcher study, experts rated the resulting ideas as better grounded.
+
+✨ Featured expressions: proactive security posture, through the lens of these challenges, moves beyond superficial evaluations (and alternatives in show notes)
+🔑 Key terms: red-teaming /ˈrɛd ˌtiːmɪŋ/, noisy neighbors /ˈnɔɪzi ˈneɪbərz/, executable checks /ˈɛksɪˌkjuːtəbəl tʃɛks/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-25</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-25/podcast.mp3" length="9371565" type="audio/mpeg"/>
+      <itunes:duration>09:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/24</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
