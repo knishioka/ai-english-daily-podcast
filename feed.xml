@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/26</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• Latent Space: Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed — Moonshot launched Kimi K3.1 Pro via its API and apps; it promises model weights on November 4. The model has 2.8 trillion total parameters, 104 billion active parameters, and a one-million-token context window.
+• AWS Machine Learning Blog: How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with AWS Unified Operations — Bayer built an Agentic Decision Engine over its Connected Decision Engine, with a supervisor and 22 specialist agents running on Amazon Bedrock AgentCore and LangGraph. It says roughly 80 percent of user questions are resolved without an engineer in the first phase.
+• Vercel Changelog: Send feedback from the Vercel MCP — Vercel MCP added a submit_feedback tool so an agent can send structured bug reports, friction reports, or feature requests when asked by the user. It requires sign-in.
+
+✨ Featured expressions: fundamentally alters the value proposition, a concrete architectural blueprint, freeing up human experts for more complex tasks (and alternatives in show notes)
+🔑 Key terms: open-weight /ˌoʊpən ˈweɪt/, context window /ˈkɑːntekst ˈwɪndoʊ/, supervisor agent /ˈsuːpərvaɪzər ˈeɪdʒənt/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-26</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-26/podcast.mp3" length="8423085" type="audio/mpeg"/>
+      <itunes:duration>08:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/25</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
