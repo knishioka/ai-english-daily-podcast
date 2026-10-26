@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/27</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• openai: ChatGPT’s expanding world of work — OpenAI released Signals data covering 165 work activities across nearly 100 countries, based on individual ChatGPT work-related messages.
+• openai: Introducing GPT-6.1 Terra — OpenAI introduces a faster computer-use and visual-reasoning model with lower API pricing and immediate availability in ChatGPT Work, Codex, and the API.
+• aws-ml: Groundhog Day for AI agents: Prompt caching patterns for using OpenAI models on Amazon Bedrock — AWS published implementation patterns for implicit and explicit prompt caching for OpenAI models on Amazon Bedrock, including stable tool catalogs and shared prefixes.
+• google-ai: Generate Content API storage on by default — Google changed the Generate Content API default for new paid-tier projects: requests are now stored by default, while existing projects keep their current setting.
+
+✨ Featured expressions: based on incomplete or anecdotal evidence, economic feasibility, validate these claims against their specific use cases (and alternatives in show notes)
+🔑 Key terms: granular //ˈɡræn.jə.lər//, latency //ˈleɪ.tən.si//, prompt caching //ˈprɑːmpt ˈkæʃ.ɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-27</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-27/podcast.mp3" length="7335596" type="audio/mpeg"/>
+      <itunes:duration>07:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/26</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
