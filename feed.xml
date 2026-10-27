@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/28</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• deepmind: Genie 4: A new generation of world simulation — Google DeepMind announced Genie 4, a world model with improved realism, physics and native audio including interactive dialogue, in research preview for trusted testers with Gemini 3.8 Flash guiding the simulation.
+• latentspace: Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through API — Per Latent Space, Anthropic filed an S-1 for an IPO, showing very fast revenue growth, nearly half of revenue through the API, and a swing from a large loss to GAAP profit.
+• latentspace: How Anthropic ships Claude with Claude: Separating the Brain from the Hands — Latent Space interviewed Anthropic engineering and product heads on shipping Claude with Claude, covering the Opus 5.5 launch, Managed Agents, and the brain-versus-hands separation.
+• pragmaticengineer: AI SRE: what is it, how could it change on-call – and does it work? — The Pragmatic Engineer examined AI SRE tools: faster incident investigation in Slack, multi-agent fan-out, accuracy evals, and why fully autonomous fixes are still rare.
+
+✨ Featured expressions: de-risk product development, reduces the attack surface, augmentation over automation (and alternatives in show notes)
+🔑 Key terms: world model //wɜːrld ˈmɒdəl//, S-1 //ɛs wʌn//, sandbox //ˈsændbɒks//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-28</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-28/podcast.mp3" length="7696556" type="audio/mpeg"/>
+      <itunes:duration>08:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/27</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
