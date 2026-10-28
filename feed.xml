@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/29</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• deepmind: Gemini 4 Carbon: Our next frontier model — Google DeepMind announced Gemini 4 Carbon, ranked #1 on Artificial Analysis Intelligence Index v5.0 at 59, with state-of-the-art cybersecurity results (SEC-bench Pro 88.2%, ExploitGym 54.8%, CWE-bench 71.0%). Access starts with a subset of cyber defenders through the Fairwind Program; pricing is $2 per million input and $10 per million output tokens.
+• github: GitHub Universe 2026: Evolving every layer of the stack — At GitHub Universe, GitHub introduced the GitHub Copilot app, Copilot Fusion (multi-model orchestration), Copilot projects for multi-repo parallel agent sessions, and session continuity across app, VS Code, CLI and web.
+• github: Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents — GitHub's Octoverse reports 17.9 billion pushes in 12 months, 34.3 billion commits, and that developers now start over 40% of pull requests with an agent, up from 17% in March.
+• vercel: Introducing Vercel CI — Vercel announced Vercel CI in Beta, which runs only tasks affected by a change using Turborepo, caching the rest, making time from push to CI passed 2-6x faster internally.
+
+✨ Featured expressions: moving beyond simple code generation, free human experts for higher-level strategic work, redefines developers as orchestrators (and alternatives in show notes)
+🔑 Key terms: frontier model //ˈfrʌntɪər ˈmɑːdl//, orchestration //ˌɔːrkɪˈstreɪʃn//, pull request //pʊl rɪˈkwest//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-29</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-29/podcast.mp3" length="8635052" type="audio/mpeg"/>
+      <itunes:duration>09:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/28</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
