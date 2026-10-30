@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 10/31</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• huggingface: Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms — Two Swift packages add interchangeable local speech recognition and typed decision models, with downloadable open models.
+• aws-ml: Building intent-driven UI testing with Amazon Nova Act — AWS describes Epsilon’s Nova Act and AgentCore Browser service for natural-language UI testing alongside Playwright.
+• langchain: Managed Deep Agents v0.10: Browser use and asynchronous subagents — LangChain released Managed Deep Agents v0.10 with browser use, human sign-in handoff, and asynchronous subagents.
+
+✨ Featured expressions: push the boundaries of what's possible, unlock new efficiencies, becoming a bottleneck (and alternatives in show notes)
+🔑 Key terms: latency /ˈleɪ.tən.si/, asynchronous subagents /eɪˈsɪŋ.krə.nəs ˈsʌbˌeɪ.dʒənts/, brittle /ˈbrɪt.əl/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-10-31</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-10-31/podcast.mp3" length="9115052" type="audio/mpeg"/>
+      <itunes:duration>09:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/30</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
