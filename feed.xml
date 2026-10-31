@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/01</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• openai: Making it easier for websites to express AI training preferences — OpenAI will honor a shared robots.txt signal for foundation-model training preferences, reducing provider-specific crawler rules for publishers.
+• aws-ml: Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime — AWS describes authenticated, session-scoped endpoints that let a browser preview web apps inside an AgentCore coding-agent runtime.
+• vercel: Vercel Daemons can now call services with bindings — Vercel Daemons can now call private deployment services through one-way service bindings.
+
+✨ Featured expressions: shortens the review loop, hinges on widespread industry acceptance, fostering a more predictable environment (and alternatives in show notes)
+🔑 Key terms: foundation model //faʊnˈdeɪʃən ˈmɑːdəl//, web crawler //wɛb ˈkrɔːlər//, session-scoped //ˈsɛʃən skoʊpt//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 01 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-01</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-01/podcast.mp3" length="7776812" type="audio/mpeg"/>
+      <itunes:duration>08:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 10/31</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
