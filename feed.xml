@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/02</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• aws-ml: Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams — AWS published a playbook for tracking, allocating and optimizing Amazon Bedrock costs across platform and finance teams.
+• simonwillison: How We Took Over ChatGPT Accounts — Simon Willison summarizes Parameter Labs’ report on an exploit chain involving sandboxed HTML previews, cross-frame messages and script execution; OpenAI fixed it.
+• latentspace: Agents Prompt People: Using Agents for Long-Horizon Financial Work — Arca describes agents that support wealth-management work stretching up to ten days, with persistent per-client memory and advisors making final decisions.
+
+✨ Featured expressions: significant financial outlay, clear cost ownership, serves as a stark reminder (and alternatives in show notes)
+🔑 Key terms: FinOps //ˈfɪn.ɒps//, sandboxed HTML previews //ˈsænd.bɒkst ˌeɪtʃ.tiː.emˈel ˈpriː.vjuːz//, cross-frame messages //ˌkrɒs ˈfreɪm ˈmes.ɪ.dʒɪz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-02</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-02/podcast.mp3" length="9116972" type="audio/mpeg"/>
+      <itunes:duration>09:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/01</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
