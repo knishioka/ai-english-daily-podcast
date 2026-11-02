@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/03</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• openai: LifeVal — OpenAI introduced LifeVal, an evaluation of AI assistance on everyday tasks informed by time-use studies and a survey of 3,995 respondents.
+• aws-ml: Build efficient agents with knowledge distillation on Amazon SageMaker AI — AWS published a SageMaker AI walkthrough for sequence-level knowledge distillation of a shopping agent using teacher-generated trajectories and supervised fine-tuning.
+• vercel: Vercel MCP now renders deployments as an interactive card — Vercel MCP can render deployment status as interactive cards in MCP Apps clients such as ChatGPT, including build logs and debugging.
+
+✨ Featured expressions: quantifying tangible benefits, a clearer pathway, quality-cost trade-off (and alternatives in show notes)
+🔑 Key terms: knowledge distillation /ˈnɑːlɪdʒ ˌdɪstɪˈleɪʃən/, trajectory /trəˈdʒektəri/, supervised fine-tuning /ˈsuːpərvaɪzd ˈfaɪn ˌtuːnɪŋ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-03</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-03/podcast.mp3" length="8622764" type="audio/mpeg"/>
+      <itunes:duration>08:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/02</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
