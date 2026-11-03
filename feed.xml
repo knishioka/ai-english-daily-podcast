@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/04</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• openai: Accelerating engineering for the physical world — OpenAI described Astra-supported mechanical and electrical design, a prototype built by two team members in under a week, and a BenchCAD 2.0 score of 0.875 for a newer internal model versus 0.594 for GPT-6 Astra.
+• deepmind: Agentic cheminformatics with Google Antigravity — Google DeepMind showed Google Antigravity with Cheminformatics Skills searching thousands of compounds, analyzing molecular pairs, and proposing candidate macrocycles and synthetic routes in about an hour.
+• huggingface: Transformers Model Integration Contracts — Hugging Face proposed Model Integration Contracts: small model fixtures, executable usage paths, and reviewed output baselines to catch regressions in pull requests.
+• aws-ml: ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway — AWS documented a ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway that preserves a user identity as an agent calls enterprise services.
+
+✨ Featured expressions: What this means is, The implication here is, Viewed from another angle (and alternatives in show notes)
+🔑 Key terms: cheminformatics /ˌkɛmɪnˌfɔːrmætɪks/, macrocycles /ˈmækroʊˌsaɪkəlz/, regressions /rɪˈɡrɛʃənz/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-04</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-04/podcast.mp3" length="8993324" type="audio/mpeg"/>
+      <itunes:duration>09:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/03</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
