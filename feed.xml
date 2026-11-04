@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/05</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• openai: OpenAI to acquire Pierre Computer Company, Inc. — OpenAI plans to acquire Pierre, maker of Code Storage and open-source Trees and Diffs libraries already used in Codex; closing remains conditional.
+• huggingface: StateBench: Testing how language models track state changes over long documents — Ai2 introduced StateBench to test four levels of long-context state tracking across model architectures.
+• aws-ml: Use decision models with Amazon Bedrock AgentCore Evaluations — AWS explains how code-based AgentCore evaluators can call Jev or Strands Decider 2B to return calibrated choices and probabilities for narrow agent checks.
+• aws-ml: Four layers of context engineering for production AI agents: How Deep Insight applies them in working code — AWS describes a four-layer context-engineering approach in its open-source Deep Insight reference implementation.
+• vercel: Workflow SDK adds idempotent starts — Vercel Workflow SDK now combines workflow admission and hook claiming atomically, so duplicate starts fail safely.
+
+✨ Featured expressions: becomes paramount, mitigate tracking failures, creating a tiered evaluation strategy (and alternatives in show notes)
+🔑 Key terms: source-control systems /ˈsɔːrs kənˌtroʊl ˈsɪstəmz/, state tracking /steɪt ˈtrækɪŋ/, decision models /dɪˈsɪʒən ˈmɑːdəlz/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-05</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-05/podcast.mp3" length="8080556" type="audio/mpeg"/>
+      <itunes:duration>08:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/04</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
