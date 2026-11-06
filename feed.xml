@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/07</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• openai: Measuring how AI agents handle everyday wet-lab science — OpenAI and Ligo introduced BioBasicsBench, 100 tasks using raw wet-lab data; GPT-6 Astra scored 66.7% mean reward at xhigh versus 43.8% for GPT-5.6 Sol.
+• cursor: Voice Chat with Agents — Cursor added real-time voice calls with agents across the Agents Window, IDE, web, and iOS.
+• aws-ml: Serverless MCP server for AI agent data lake access on Amazon ECS Fargate — An AWS team describes a metadata-driven MCP server on Amazon ECS with AWS Fargate for access to an enterprise data lake.
+• huggingface: ToyBlocks: A controlled world for robot learning and evaluation — Ai2 released ToyBlocks, a simulated robot-arm and block world that automatically generates tasks and demonstrations.
+• modal: How Snorkel runs realistic agent simulations with Modal — Modal says Snorkel uses its GPU and CPU sandboxes for millions of agent simulations per month.
+
+✨ Featured expressions: grounds agent claims in verifiable performance, moving beyond text commands, mitigating permission drift (and alternatives in show notes)
+🔑 Key terms: benchmark /ˈbentʃmɑːrk/, mean reward /miːn rɪˈwɔːrd/, metadata-driven /ˈmetədeɪtə ˈdrɪvən/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-07</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-07/podcast.mp3" length="9683756" type="audio/mpeg"/>
+      <itunes:duration>10:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/06</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
