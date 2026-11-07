@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/08</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• AWS ML Blog: SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints — SageMaker now supports hardware-isolated GPU partitioning through NVIDIA MIG on endpoints using inference components. Models can request partitions rather than whole accelerators. Single-model endpoints, serverless endpoints, and heterogeneous instance pools are not supported.
+• Vercel Blog: Chat SDK agents can now stream generative UI with json-render — Vercel added json-render integration for Chat SDK agents. A typed component catalog turns model-generated JSON into native chat cards, including tables, charts, and buttons, for platforms such as Slack and Teams. Cards stream as content arrives, and completed specifications are validated against schemas; adapters enforce platform constraints.
+• AWS ML Blog: Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1 — AWS published a task-agent integration of Okta Cross App Access with Amazon Bedrock AgentCore runtime and Identity. Okta evaluates which registered agent can act for which signed-in user and application. AgentCore Identity obtains and stores short-lived access tokens without exposing client credentials to agent code. Resource tools enforce the delegated user authority.
+• OpenAI Blog + Changelog: Partnering with Hacktron to find vulnerabilities in OpenAI’s systems — OpenAI announced a security partnership with Hacktron on November 6. Their engineers and researchers will jointly choose high-priority tests, especially at connections to third-party services. Hacktron receives expanded frontier-model access through Daybreak Red. This builds on vulnerabilities disclosed through the bug bounty program, not a claim that all vulnerabilities have been eliminated.
+• Vercel Blog: AI Gateway adds DeepSeek Search and Fetch tools — Vercel made DeepSeek Search and DeepSeek Fetch available through AI Gateway. Search returns relevant page titles, URLs, and summaries; Fetch retrieves page content as Markdown. They work with models supporting tool calling using one AI Gateway API key, without a separate DeepSeek account, and can remain in place when switching model providers.
+
+✨ Featured expressions: before considering broader adoption, aligned with, builds on (and alternatives in show notes)
+🔑 Key terms: resource allocation //ˈriːsɔːrs ˌæləˈkeɪʃən//, schema validation //ˈskiːmə ˌvælɪˈdeɪʃən//, permission revocation //pərˈmɪʃən ˌrevəˈkeɪʃən//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-08</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-08/podcast.mp3" length="8129324" type="audio/mpeg"/>
+      <itunes:duration>08:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/07</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
