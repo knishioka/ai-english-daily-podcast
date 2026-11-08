@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/09</title>
+      <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
+
+📰 Stories covered:
+• GitHub Blog: Beyond code generation: A developer’s guide to agentic engineering — GitHub published a November 6 guide to agentic engineering organized around Plan, Build, Verify, and Observe. It argues that more generated code is not sufficient for better delivery; review and operational learning still require deliberate engineering. This is guidance, not a claim that every feature in the article launched that day.
+• AWS ML Blog: Taxonomy of agentic primitives in Amazon Quick — AWS published a November 6 taxonomy from its Amazon Quick work. Triggers describe when work begins and what is requested; agents are persistent learning actors; tools, skills, and workflows are capabilities. Skills allow judgment, while workflows fix coordination in code. This is an architecture explanation, not a fresh product launch.
+• Vercel Blog: DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway — Vercel announced on November 7 that DeepSeek V4.1 Flash 1017 Ultrafast is available through Fireworks on AI Gateway. Vercel says it can generate upwards of 1,000 tokens per second, has a 1M-token context window, and is in public preview without a waitroom or session time limit. It serves the October 17 model update; November 7 is the serving availability announcement.
+
+✨ Featured expressions: a more actionable starting point, the main delay remains untouched, room to explore (and alternatives in show notes)
+🔑 Key terms: taxonomy /tækˈsɑːnəmi/, primitives /ˈprɪmətɪvz/, throughput /ˈθruːpʊt/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Mon, 09 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-09</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-09/podcast.mp3" length="6680876" type="audio/mpeg"/>
+      <itunes:duration>06:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/08</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
