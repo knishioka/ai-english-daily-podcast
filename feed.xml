@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/10</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• anthropic: Introducing Claude Fable 5.2 and Claude Mythos 5.2 — Anthropic introduced Claude Fable 5.2 and Claude Mythos 5.2 on November 9. The same underlying model has different cyber/biology safeguards and access requirements: Fable is broadly available; Mythos requires verification-program access. Anthropic reports output generation up to 30% faster than 5.1 and standard pricing of $8 per million input tokens and $40 per million output tokens. Anthropic still recommends Opus 5.5 as the daily starting point for most coding and knowledge work.
+• huggingface: Your Experts Have Partners. There's HOPE for Keeping Them Together — Amazon researchers describe HOPE, a second-order expert-pruning method that considers pairwise cooperation rather than ranking experts independently. At 50% expert pruning, the reported Qwen3.5-35B-A3B SWE-Bench Pro score was 42.3, compared with 41.8 unpruned and 36.2 for REAP. This is a specific experimental result, not a guarantee across models. A package supports calibrate, solve and prune; no retraining is required. Advantages shrink at low pruning rates and cross-layer interactions are not yet addressed.
+• aws-ml: NVIDIA Nemotron 3.5 Super VL is now available in Amazon SageMaker JumpStart — AWS announced NVIDIA Nemotron 3.5 Super VL availability in Amazon SageMaker JumpStart. The 120-billion-parameter model has 12 billion active parameters per token, accepts images, video and text and generates text. It offers NVFP4 and BF16 checkpoints. The model supports up to one million tokens architecturally, but the published JumpStart serving configurations range from 520 to 15,600 tokens; do not claim the endpoint serves a million-token context. Built-in speculative decoding is not enabled in the JumpStart serving configuration.
+• vercel: Muse Ember now available on AI Gateway — Vercel announced that Meta’s Muse Ember is available on AI Gateway. It is a lightweight reasoning model for repeated bounded agent tasks such as coding subtasks, tool calls and document analysis. It accepts text, image and video with a one-million-token context window and adjustable reasoning effort. This article establishes gateway availability, not the original release date of Meta’s underlying model.
+• aws-ml: Single-shot and agentic retrieval with Amazon Bedrock Managed Knowledge Base — Amazon Bedrock Managed Knowledge Base now supports single-shot RAG and retrieval-only requests through AgenticRetrieveStream, alongside existing multi-search agentic retrieval. maxAgentIteration=1 with generation enabled yields single-shot retrieval and an answer; 0 with generation disabled returns passages without a generated answer. Applications choose the mode; this is not an automatic routing claim.
+
+✨ Featured expressions: must not be confused with, map their requirements to, the economics still require measurement (and alternatives in show notes)
+🔑 Key terms: pruning //ˈpruːnɪŋ//, inference //ˈɪnfərəns//, context window //ˈkɑːntekst ˌwɪndoʊ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 10 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-10</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-10/podcast.mp3" length="9310892" type="audio/mpeg"/>
+      <itunes:duration>09:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/09</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
