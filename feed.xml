@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/11</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• deepmind: Introducing AlphaProof Code: a breakthrough in verifying complex software at depth — Google DeepMind introduced AlphaProof Code, a human-guided multi-model agentic framework. Human experts reviewed formal specifications of key security properties in Signal’s core cryptographic implementation. Carbon-powered agents generated over six million lines of Lean proofs, checked by Lean, in four weeks. Two reintroduced previously fixed bugs produced machine-checked insecurity proofs. Verification artifacts are being open-sourced; further scaling needs research.
+• deepmind: Gemini 4 Carbon is now available — Google DeepMind broadened Gemini 4 Carbon access on November 10 after earlier limited cyber-defender access. It targets complex long-horizon coding, knowledge work and scientific reasoning. Argon remains the suggested choice for most tasks. Introductory paid API pricing is $2 per million input tokens and $10 per million output tokens through November 30; afterward $4 and $20 apply to the public-access model. Antigravity /swarm is a preview, not a generally available feature.
+• openai: Introducing Businesses in ChatGPT — OpenAI introduced Businesses in ChatGPT in beta on November 10. Business Hub lets eligible businesses claim and verify profiles, update product information, and inspect aggregated engagement insights. Business Agents initially serve eligible U.S. ecommerce and online service businesses. Agent chats are clearly labeled and separate from ChatGPT’s independent answers; businesses do not receive users’ conversations.
+• huggingface: Decision Models in Hugging Face — Hugging Face described first-class decision-model support in Transformers, including DecisionPipeline, AutoModelForDecision and DecisionConfig. Decision models evaluate state and typed questions, returning choices, ordered scores or yes/no probabilities without generating response text. Transformers and llama.cpp support a shared /v1/systemone interface. The Hub has a decision-model tag. Native TRL training support is coming in a still-open pull request, not already released.
+• deepmind: Gemini Robotics 2.5 accelerates real-world general dexterity — Google DeepMind introduced Gemini Robotics 2.5 on November 10, rolling out to robotics partners. The vision-language-action model was evaluated across over 200 tasks. A proof-of-concept using Apptronik Apollo 2 at Mercedes-Benz production lines achieved 96% success on automotive kitting. Google reports 20–30% faster completion and 30–100% higher success rates versus previous baselines depending on task.
+
+✨ Featured expressions: gain insights into, tailored for, a meaningful step toward (and alternatives in show notes)
+🔑 Key terms: formal verification //ˈfɔːrməl ˌverɪfɪˈkeɪʃən//, computational overhead //ˌkɑːmpjəˈteɪʃənəl ˈoʊvərhed//, interoperability //ˌɪntərˌɑːpərəˈbɪləti//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 11 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-11</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-11/podcast.mp3" length="9555884" type="audio/mpeg"/>
+      <itunes:duration>09:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/10</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
