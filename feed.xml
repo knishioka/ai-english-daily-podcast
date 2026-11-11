@@ -23,6 +23,24 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/12</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• Google DeepMind: AlphaGenome 2: Deciphering how cells read DNA to better understand disease — Google DeepMind announced AlphaGenome 2 on November 11. It predicts how DNA variants affect particular cell types and states rather than broad tissue averages. Trained on over 107 million individual cell profiles, it can condition on new single-cell data without retraining. On TenK10K it identified 30% of causal variants versus 16% for the comparison described in the article. Available today for non-commercial research via AlphaGenome API; commercial research is private preview. AlphaGenome 2 Skills in Google Antigravity are coming soon, not released today. Research only, not validated or approved for clinical or diagnostic purposes.
+• Google AI Blog: Gemini Decisions API: Fast, calibrated multimodal decisions — Google introduced Gemini Decisions API powered by Gemini Decision 1 on November 11. It evaluates yes/no, multiple-choice and ordered-rubric questions on shared text, images, audio, video or PDFs, returning probabilities rather than generated prose. Supports up to 1,000 independent questions per request and inputs up to 256K tokens. Google reports 150–250 ms end-to-end latency in tests involving contexts up to 16K, not a guarantee for all input sizes. Price $0.10 per million input tokens, zero output-token charges. Shared input billed once; questions add instruction and criteria tokens. Available via Gemini API in Google AI Studio. Google Cloud support coming soon.
+• Hugging Face Blog: BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model — Tether AI Research introduced BotPsy, a 0.8-billion-parameter model built on Qwen3.5-0.8B for tool calling and on-device low-to-medium difficulty tasks, in a November 11 team article on Hugging Face. Authors report 44.0 versus 23.4 for its base model on BFCL v4 and leads on five of six tested tool-use benchmarks when including a larger Qwen3.5-2B comparator; larger model wins Claw-Eval. Weaknesses include open-ended search and multi-step information retrieval. The article says open weights WILL be released under Apache 2.0 for research and educational use; do not assert broad availability or commercial-use terms. Not intended for high-stakes use; safety remains imperfect.
+• AWS ML Blog: UAEF: A framework-agnostic system for closed-loop evaluation of AI agents — AWS introduced Universal Agent Evaluation Framework (UAEF) in a November 11 technical post. It normalizes agent execution traces through adapters into AgentTrace and offers 36 built-in metrics across seven quality dimensions. Uses deterministic and LLM-as-a-judge metrics, with common scoring across supported frameworks including LangGraph, LangChain and Strands Agents. Stores experiment metadata in DynamoDB and full results in Amazon S3. Apache 2.0 open source, Python library and deployable web service. Reports customers across 12 organizations used it. Judge scores are evaluation signals, NOT security controls; judge responses must cite evidence and invalid evidence is rejected.
+• AWS ML Blog: Automating AWS Agent Registry updates with push-based architecture — AWS published an event-driven architecture on November 11, not a new registry product launch. CloudTrail captures UpdateAgentRuntime calls, EventBridge routes them and Lambda queries the MCP server’s current tools and updates an existing AWS Agent Registry record when the schema differs. AgentCore Identity brokers authentication. Supports single-account or cross-account setups. CloudTrail delivery delay is approximately 5–15 minutes, so do not call it instantaneous synchronization. Sample requires pre-registered records; updates existing records only and does not create new ones.
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 12 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-12</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-12/podcast.mp3" length="10818476" type="audio/mpeg"/>
+      <itunes:duration>11:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/11</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
