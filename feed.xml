@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/13</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Google AI Blog: Google Search gets a major upgrade with Gemini 4 Hydrogen — Google is rolling out Gemini 4 Hydrogen globally in Search, improving intent understanding, query fan-out, visual responses and supported-language understanding.
+• Hugging Face Blog: LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B — IBM released experimental Granite 4.1 3B and 8B LLMON preview models and a toolkit. Reserved structural tokens and explicit instruction/data bindings reduce indirect prompt injection in tested settings. This is learned behavior, not an enforced guarantee; not production-ready.
+• AWS ML Blog: Optimizing cost per task and proving agent ROI on Amazon Bedrock — AWS published guidance on measuring cost per successful task, accounting for tokenizer efficiency, output verbosity, correction loops and reasoning overhead. It recommends measured human baselines, controlled experiments and tracking human review effort. Worked prices are illustrative, not actual universal prices.
+• AWS ML Blog: Run agents securely and efficiently with the next generation AgentCore runtime — AWS announced next generation Bedrock AgentCore runtime, available today in regions across North America, South America, Europe and Asia Pacific. AWS reports starts under two seconds, up to 8 vCPUs and 32 GB, container images up to 10 GB, idle scale-to-zero and storage mounting. Per-session folder scoping is planned by re:Invent, not available now.
+
+✨ Featured expressions: a dual focus is emerging, we cannot assume, move beyond superficial cost comparisons (and alternatives in show notes)
+🔑 Key terms: query fan-out /ˈkwɪəri fæn aʊt/, indirect prompt injection /ˌɪndəˈrekt prɒmpt ɪnˈdʒekʃən/, idle scale-to-zero /ˈaɪdəl skeɪl tə ˈzɪərəʊ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 13 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-13</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-13/podcast.mp3" length="7364396" type="audio/mpeg"/>
+      <itunes:duration>07:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/12</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
