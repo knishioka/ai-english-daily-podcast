@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/14</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• OpenAI Blog + Changelog: Introducing ChatGPT Wallet — OpenAI is introducing ChatGPT Wallet with American Express, Mastercard and Visa. Initial rollout is in dots for US ChatGPT Pro subscribers aged 18 and older with eligible US-issued cards. Each purchase currently requires user review and a security check. After approval, the network supplies a payment token instead of actual card details. Fully delegated pre-approved purchases are a future expectation, not today's capability.
+• Hugging Face Blog: XYBench: Helping with the problem behind the question — Ai2 researchers released XYBench with 8,115 questions from forums, curated examples and WikiHow-generated examples. It tests whether assistants address underlying user goals rather than mistaken requested methods. Five tested models often mention useful solutions but emphasize the mistaken approach. Evaluation was single-turn and English procedural questions; do not generalize to every modern model.
+• Hugging Face Blog: llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem — The ggml-org team released llama.cpp and ggml libraries v1.0.0. Major version bumps will signal public interface incompatibilities, minor versions backward-compatible additions, and patches fixes without interface changes. The project supports more than 150 model architecture variants. This is a versioning and integration milestone, not a newly introduced inference capability.
+• Vercel Blog: Parallel Decisions now available on AI Gateway for free — Vercel added Parallel Decisions Fast to AI Gateway, free through November 23, 2026. It searches the live web and returns probabilities with cited evidence for Boolean, Choice and Score questions. Citations cover the request as a whole rather than mapping sources to each answer. No separate Parallel account is required.
+• Vercel Blog: Workflow SDK 5: built for production — Vercel announced Workflow SDK 5 for durable JavaScript workflows and long-running agents. Payload encryption uses per-run keys and AES-256-GCM; on Vercel encryption has zero configuration, while self-hosted Worlds implement key management. It improves regional isolation, incremental replay and recorded-stream delivery. Stream benchmarks measure delivery, not faster model generation.
+
+✨ Featured expressions: balancing user control with AI functionality, reduces risks from breaking changes, moving beyond factual recall (and alternatives in show notes)
+🔑 Key terms: inference /ˈɪnfərəns/, payload encryption /ˈpeɪloʊd ɪnˈkrɪpʃən/, auditability /ˌɔːdɪtəˈbɪləti/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 14 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-14</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-14/podcast.mp3" length="10100012" type="audio/mpeg"/>
+      <itunes:duration>10:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/13</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
