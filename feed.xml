@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/18</title>
+      <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
+
+📰 Stories covered:
+• GitHub Blog: Building the Agent Host Protocol for sessions that continue across devices — GitHub describes Agent Host Protocol (AHP), an open standard for session continuity across VS Code, the Copilot app, mobile clients and cloud hosts. Server-owned state and queued actions support reconnection. VS Code and GitHub have separate TypeScript and Rust host implementations.
+• AWS Machine Learning Blog: Govern and discover records with common metadata in AWS Agent Registry — Custom metadata schemas are now available in AWS Agent Registry. Administrators define fields and allowed values; records are validated and approved separately. Discovery filters return only approved matching records. Existing approved records can become non-compliant after schema changes without losing approval.
+• AWS Machine Learning Blog: Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows — Amazon SageMaker AI introduces generally available data preparation capabilities in US East (N. Virginia) and US West (Oregon): auto-labeling, human review, synthetic data generation, quality evaluation and transformation. Teams can use Python SDK APIs or an AI-ML agent skill. Data and labels remain in customer S3 buckets in the chosen region.
+
+✨ Featured expressions: paves the way for, is not synonymous with, necessary but not sufficient (and alternatives in show notes)
+🔑 Key terms: session continuity /ˈseʃən ˌkɑːntɪˈnuːəti/, schema /ˈskiːmə/, bottleneck /ˈbɑːtlnek/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-18</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-18/podcast.mp3" length="7895852" type="audio/mpeg"/>
+      <itunes:duration>08:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/17</title>
       <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
 
