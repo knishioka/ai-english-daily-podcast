@@ -23,6 +23,27 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/19</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• openai: Inside the Codex sandbox — Codex uses platform-native sandbox facilities in the existing host environment, with permission profiles controlling filesystem and network access. The built-in workspace profile allows broad reads, bounded writes and no network. Stdio MCP servers are not sandboxed automatically; they can be explicitly wrapped with codex sandbox.
+• openai: Advancing chip design with OpenAI models — OpenAI reports model-proposed standard-cell area reductions of about 13% in the Jalapeño vector unit and 10% in its matrix unit, silicon proven. AMD collaboration reports up to 14% PPA improvement against heavily optimized flagship GPU IP baselines, with some changes sent for manufacturing. Synopsys collaboration integrates frontier intelligence with existing design and verification tools.
+• deepmind: Genie 4 is now available — On November 18 Google rolled out a new Project Genie experience to eligible Google AI Ultra subscribers, with first-time access to Genie 4, mid-session world editing and real-time native audio. Genie 3, not Genie 4, gains sessions up to three minutes and panorama grounding. Google AI Pro members can join a waitlist. Latency, physical interactions and long-term permanence remain research challenges.
+• huggingface: 180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers — A Hugging Face community engineering experiment streams routed experts from disk with a bounded device cache. On a 32GB M5 Mac, Qwen3.8-Flash-Next reached 13.9 tokens/s short decode versus Strata 14.8 after optimization. The generic implementation is a Transformers pull request, not a shipped stable feature; author still considers it too slow for their coding-agent workflow.
+• simonwillison: GPT‑6.2 Astra and GPT‑6.2 Sol — Simon Willison reports GPT-6.2 Astra and Sol are available via the API, with support in LLM 0.38. Astra is $8 per million input tokens and $40 per million output tokens, with cached input $0.40 per million; Sol is $2 input and $10 output per million. His animation experiments did not match his Claude Fable 5.2 and Gemini 4 Carbon examples; this is an individual test, not a comprehensive benchmark.
+
+✨ Featured expressions: factoring in, translate into tangible business benefits, may not reflect actual user experience (and alternatives in show notes)
+🔑 Key terms: sandbox //ˈsændbɒks//, latency //ˈleɪtənsi//, baseline //ˈbeɪslaɪn//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 19 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-19</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-19/podcast.mp3" length="8590124" type="audio/mpeg"/>
+      <itunes:duration>08:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/18</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
