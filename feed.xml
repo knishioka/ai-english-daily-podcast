@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/21</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• OpenAI Blog + Changelog: Combatting adversarial distillation — OpenAI reports layered defenses against unauthorized distillation and protected reasoning extraction. In its internal adaptive evaluation, average extraction attack success fell from 54.0% for original GPT-6 Astra safeguards to 0.2% for updated GPT-6.2 Astra safeguards. Editing an earlier conversation message drops subsequent protected reasoning.
+• Hugging Face Blog: Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup — Hugging Face describes Thinking Machines Lab Inkling 2 Mini, a multimodal looped transformer with about 26B physical total and 3B active parameters per token, a 1M-token context, and text and image input. Twelve middle layers run three times with reused weights. Transformers, llama.cpp, MLX and SGLang support are provided. A separate research variant permits variable loop counts and has not been evaluated in depth.
+• Hugging Face Blog: Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost — Hugging Face trains custom adapters for Qwen3.8-27B inside pi, Hermes Agent and OpenCode. In the reported pi Terminal-Bench 2.1 comparison, the score increases from 39% to 55% pass@1 and average tokens per task fall from 2.9K to 1.5K. Base weights are frozen. Task validation tests reference solutions, no-op baselines and known-wrong controls.
+• AWS ML Blog: Announcing Amazon Textract Insights: Verifiable generative AI for documents — AWS announces general availability of Amazon Textract Insights. Natural-language field descriptions in blueprints guide structured extraction from mixed packets, with confidence scores and page and bounding-box grounding for explicit and inferred fields. Up to 3,000 pages per input file. Supports English, French, German, Italian, Portuguese and Spanish. Insights uses cross-Region inference within a geography; Core remains in the called Region. Core expansion to Tokyo and Zurich does not mean Insights availability there.
+
+✨ Featured expressions: scoped evidence, Framed another way, rather than reflexively (and alternatives in show notes)
+🔑 Key terms: inference /ˈɪnfərəns/, throughput /ˈθruːpʊt/, grounding /ˈɡraʊndɪŋ/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 21 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-21</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-21/podcast.mp3" length="7212716" type="audio/mpeg"/>
+      <itunes:duration>07:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/20</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
