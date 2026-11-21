@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/22</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• AWS ML Blog: New in AWS Quick: More capable flows, an updated web experience, and agents that work together — AWS Quick adds conversational flow building, deterministic calculation steps, longer-running workflows, an updated web app and multi-agent orchestration. Agents keep working after the browser closes. Meta ads and Amplitude connectors respect permissions and request approval for writes. Prompt guardrails are preview.
+• AWS ML Blog: Cut self-hosted LLM cost and latency with the distributed KV caching agent skill — AWS describes a distributed KV caching skill in Agent Toolkit for AWS for workload assessment, cache sizing, setup and troubleshooting. KVTrace estimates benefits before deployment. Shared Amazon ElastiCache caching can reduce inference costs by up to 40% and time to first token by up to 80%, dependent on workload. Short prompts can be slower to load than recompute. Matching hashes, seeds and data types and testing output correctness are essential; cache hits alone do not prove correctness. Savings require fewer servers or greater throughput.
+• AWS ML Blog: Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters — AWS introduces SageMaker HyperPod Global Inference Gateway, one managed endpoint routing across registered clusters in one or multiple Regions. Scores use KV headroom, queue depth, proximity and error rate. Per-cluster gateway still selects pods. PrivateLink connectivity and SigV4/IAM authorization. Automatic failover retries a failed request once elsewhere unless streaming has started. Available in 13 Regions. A single-cluster workload should keep its existing endpoint.
+
+✨ Featured expressions: rather than relying strictly on, Before broad rollout, provided output streaming has not already started (and alternatives in show notes)
+🔑 Key terms: deterministic //dɪˌtɜːrmɪˈnɪstɪk//, headroom //ˈhɛdruːm//, tenant isolation //ˈtɛnənt ˌaɪsəˈleɪʃən//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-22</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-22/podcast.mp3" length="8081324" type="audio/mpeg"/>
+      <itunes:duration>08:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/21</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
