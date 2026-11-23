@@ -23,6 +23,26 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/24</title>
+      <description>Today's framework: Problem → Solution → Impact — Name the problem, present the solution, then spell out the impact.
+
+📰 Stories covered:
+• Google AI Blog: A more tailored Google Search that’s uniquely yours — Google is starting to roll out an opt-in Google Wallet connection to Personal Intelligence in AI Mode. Drive and Gemini app connections follow in coming weeks, not today. Wallet access is read-only and cannot move, manage or invest money. Users can enable or disable connections in Search Personalization.
+• Google DeepMind Blog: Finding faster quantum algorithms with agents and formal verification — Google DeepMind used teams of Gemini 4 agents with Lean formal verification to optimize quantum algorithms, open-sourcing its Lean library, specifications and verified solutions. A fusion application reduced a combined qubit-and-operation cost metric 11.8 times, with memory falling from 5,650 to 4,338 error-corrected qubits. A specific Grover implementation improved 2.57 times. These are algorithm-resource improvements, not demonstrations on useful quantum hardware; even improved simulations exceed likely early error-corrected hardware resources.
+• Hugging Face Blog: How to build and maintain an agentic evaluation — Hugging Face published a guide to building and maintaining agentic evaluations. Its eight synthetic Raman-spectrum development tasks demonstrate why graders must check fitted peaks, not only a final ratio. A shortcut returned the expected ratio on all eight without fitting. gpt-oss-120b passed 11 of 24 adapted rollouts; pass@3 was 7/8 and pass^3 was 1/8. These are small development-set results, not general model rankings.
+• Vercel Blog: Introducing Audited ZDR on AI Gateway — Vercel introduced Audited ZDR on AI Gateway. Independent firms review provider serving code, infrastructure and live traffic, then publish reports. Baseten, Modal and Wafer have begun audits, not completed them; launch reports are expected by December 8, 2026. Providers enter the tier only after qualifying reports are published. Canary URLs detect access but cannot detect data written to disk and never read.
+
+✨ Featured expressions: Read access is not transaction authority, separate mathematical correctness from deployment readiness, rather than isolated lucky attempts (and alternatives in show notes)
+🔑 Key terms: read-only //ˌriːd ˈoʊnli//, formal verification //ˈfɔːrməl ˌverɪfɪˈkeɪʃən//, execution traces //ˌeksɪˈkjuːʃən ˈtreɪsɪz//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Tue, 24 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-24</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-24/podcast.mp3" length="7139372" type="audio/mpeg"/>
+      <itunes:duration>07:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/23</title>
       <description>Today's framework: Point → Reason → Example → Point — State the point, explain its reason, ground it in an example, then restate the takeaway.
 
