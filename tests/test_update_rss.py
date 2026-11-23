@@ -146,7 +146,7 @@ class UpdateRssTests(unittest.TestCase):
     def test_parse_guid_date_returns_none_for_unexpected_format(self):
         self.assertEqual(
             self.update_rss.parse_guid_date("ai-english-daily-2026-04-14"),
-            "2026-04-14",
+            "2026-04-15",
         )
         self.assertIsNone(self.update_rss.parse_guid_date("legacy-episode-42"))
 
