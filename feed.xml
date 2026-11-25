@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/26</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• Hugging Face Blog: Where scientists draw the line on AI agents — Ai2 interviewed 17 US-based scientists. Exploratory study, not representative survey or empirical agent benchmark. Five dimensions of scientific trust: validation, privacy, objectivity, accountability, transparency. Proposed participatory benchmarks remain proposals. Researchers need inspectable methods, authorized file access, and checks for omitted contradictory evidence.
+• Vercel Blog: Workflow is 10x faster, again — Vercel Workflow 5.8.0 introduces a new default engine for new runs. Existing runs stay on their previous version. Vendor benchmarks show p75 step overhead 85 to 7 ms and function time outside step code for 256 parallel steps 1446 to 105 seconds. These are overhead improvements, not 12x faster model inference. Speculative execution requires idempotent steps; sensitive nonretryable steps should set maxRetries=0. Third-party Worlds must support spec version 9.
+• LangChain Blog: The Agent Lake — LangChain describes an agent lake as trace-optimized storage plus intelligent compute for analysis and continuous improvement. LangSmith uses SmithDB; traces record agent actions while outcomes measure impact. Online evaluators and AI Search find useful traces; Insights groups traffic; Engine proposes fixes as pull requests and can test against an evaluation set. This is a platform architecture argument, not proof that every agent improves automatically.
+
+✨ Featured expressions: establish boundaries, taking advantage of, tie specific intermediate steps to (and alternatives in show notes)
+🔑 Key terms: idempotent //ˌaɪdəmˈpoʊtənt//, orchestration //ˌɔːrkɪˈstreɪʃən//, reproducibility //ˌriːprəˌduːsəˈbɪləti//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-26</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-26/podcast.mp3" length="7774508" type="audio/mpeg"/>
+      <itunes:duration>08:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/25</title>
       <description>Today's framework: Before → After → Bridge — Show the old state, the change that landed, then what it opens up.
 
