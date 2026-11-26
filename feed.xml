@@ -23,6 +23,25 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/27</title>
+      <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
+
+📰 Stories covered:
+• Hugging Face Blog: Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon — ggml-org released a llama.cpp AMD benchmark dashboard. Tests PP512 and TG128 start at context depth zero; includes build history and context scaling, public results and weekly workflows with ten repetitions. Current hardware Radeon 8060S and Radeon AI Pro R9700S.
+• Hugging Face Blog: Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference — NVIDIA released three synthetic training datasets, a fine-tuning recipe and DFlash2 speculator for existing Nemotron 3.5 Parse. A matched development-checkpoint comparison reduced loop-flagged pages from 126 to 29. DFlash2 measured 7.62x throughput at concurrency 1 and 1.52x at concurrency 512 on one H200 BF16 against Parse 3.5 without speculative decoding. These are not universal speedups. Dental recipe evaluation used held-out forms from the same synthetic generator, not real-world production documents.
+• Hugging Face Blog: Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems — Hugging Face trained four agents sharing Qwen3-0.6B to communicate private integers and submit a sorted list. Held-out checkpoint 75 solved 26/32 problems (81.25%). Training success 6.6% to 82.3%, training tokens down 37.4%; no retained held-out token-efficiency measurements. Task requires private information sharing and does not demonstrate superiority to a single agent at equal budget.
+
+✨ Featured expressions: Stated another way, through the lens of, contracts sharply (and alternatives in show notes)
+🔑 Key terms: throughput /ˈθruːpʊt/, speculative decoding /ˈspekjələtɪv diːˈkoʊdɪŋ/, concurrency /kənˈkɜːrənsi/
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Fri, 27 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-27</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-27/podcast.mp3" length="7931180" type="audio/mpeg"/>
+      <itunes:duration>08:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/26</title>
       <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
 
