@@ -23,6 +23,23 @@
     <atom:link href="https://knishioka.github.io/ai-english-daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- EPISODES_START -->
     <item>
+      <title>AI English Daily — 11/28</title>
+      <description>Today's framework: What → So What → Now What — State what happened, explain why it matters, then lay out the concrete next steps.
+
+📰 Stories covered:
+• Hugging Face Blog: Taking Trainium3 to the Track: Generating Videos with LTX-2.5 — Hugging Face engineers ran Lightricks LTX-2.5 video-and-audio generation on Trainium3. On 32 of 64 NeuronCores, a warm 10-second 2048x1024 clip took 22–23 seconds. Initial attempt used 4 cores at 960x544 and took 5 min 20 s, so the reported 14x gain is not a controlled same-hardware comparison. Tensor parallelism splits weights; sequence parallelism splits video tokens. Host bottlenecks were critical. Loading takes about 3 minutes and first clip 80 seconds. Shots are linked through frames and seeds; prompts alone do not preserve continuity. Multiple takes and independent sound limit use to drafts. Robotics continuations are prompt-conditioned, not action-conditioned; action-based training would require fine-tuning.
+
+✨ Featured expressions: From a production standpoint, an apples-to-apples hardware benchmark, In light of (and alternatives in show notes)
+🔑 Key terms: tensor parallelism //ˈtensər ˈpærəlelɪzəm//, sequence parallelism //ˈsiːkwəns ˈpærəlelɪzəm//, dependency ordering //dɪˈpendənsi ˈɔːrdərɪŋ//
+
+🎓 Practice tip: try 0.7x-0.9x playback for shadowing.</description>
+      <pubDate>Sat, 28 Nov 2026 06:00:00 +0800</pubDate>
+      <guid isPermaLink="false">ai-english-daily-2026-11-28</guid>
+      <enclosure url="https://github.com/knishioka/ai-english-daily-podcast/releases/download/2026-11-28/podcast.mp3" length="7973036" type="audio/mpeg"/>
+      <itunes:duration>08:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>AI English Daily — 11/27</title>
       <description>Today's framework: Situation → Complication → Resolution — Set the context, surface the tension, then explain the response.
 
